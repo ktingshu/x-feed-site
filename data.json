@@ -1,23 +1,45 @@
 {
- "generated_at": "2026-08-26 10:11",
+ "generated_at": "2026-08-26 11:07",
  "total_accounts": 30,
  "accounts": [
   {
    "handle": "op7418",
    "name": "歸藏(guizang.ai)",
    "bio": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
-   "followers": 169523,
+   "followers": 169535,
    "following": 1293,
    "profile_url": "https://x.com/op7418",
    "tweets": [
     {
+     "id": "2092447707378123126",
+     "created_at": "Wed Aug 26 03:03:03 +0000 2026",
+     "text": "T3 Code 的这个 Agent 和模型选择结合在一起的选择器挺不错的，给 Code Pilot 参考了一下，用上了 https://t.co/qcBwN8O1K8",
+     "likes": 2,
+     "retweets": 0,
+     "replies": 0,
+     "views": "234",
+     "is_retweet": false,
+     "url": "https://x.com/op7418/status/2092447707378123126"
+    },
+    {
+     "id": "2092446690620113076",
+     "created_at": "Wed Aug 26 02:59:01 +0000 2026",
+     "text": "Codex 支持给你的好友赠送额度了，类似于礼品卡。\n\n你可以选择不同价格的额度，对方拿到链接或者通过邮箱就能领取。感觉以后发福利可以通过这种方式 https://t.co/9OhEYUYgAB",
+     "likes": 1,
+     "retweets": 0,
+     "replies": 0,
+     "views": "565",
+     "is_retweet": false,
+     "url": "https://x.com/op7418/status/2092446690620113076"
+    },
+    {
      "id": "2092219092782702838",
      "created_at": "Tue Aug 25 11:54:37 +0000 2026",
      "text": "顺便说一下，这个组图也是用豆包工作和我的那个社交媒体 skill 做的。\n\n我发现豆包在做这种东西的时候效果很好，尤其是它说人话，这个是非常大的优势。\n\nCodex 每次就给我整点儿不是人话的语言上去 https://t.co/NJ4GKI7C8K",
-     "likes": 10,
+     "likes": 11,
      "retweets": 2,
-     "replies": 31,
-     "views": "12106",
+     "replies": 34,
+     "views": "12652",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2092219092782702838"
     },
@@ -25,10 +47,10 @@
      "id": "2092097767917379962",
      "created_at": "Tue Aug 25 03:52:31 +0000 2026",
      "text": "Anthropic 现在封号真稳啊，新号一天就没，尤其 200 美元的号",
-     "likes": 127,
+     "likes": 128,
      "retweets": 0,
-     "replies": 129,
-     "views": "61378",
+     "replies": 131,
+     "views": "61820",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2092097767917379962"
     },
@@ -38,8 +60,8 @@
      "text": "有意思，Codex 的 5 小时限制回来了，但是只针对 Plus 用户生效。\n\n根据 Tibo 的解释，这主要是因为：\n\n1. 5 小时限制可以帮 OpenAI 平衡负载\n2. 他们的额度很少，这样可以防止 Plus 用户不小心一下用完自己整周的额度，导致很沮丧\n\nPro 用户无论是 100 美元还是 200 美元，都不会有 5 小时的限制 https://t.co/KMBAyZOZv8",
      "likes": 52,
      "retweets": 0,
-     "replies": 48,
-     "views": "59142",
+     "replies": 49,
+     "views": "59825",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2092092710064963769"
     },
@@ -50,7 +72,7 @@
      "likes": 211,
      "retweets": 5,
      "replies": 174,
-     "views": "54934",
+     "views": "55112",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2091738749734666258"
     },
@@ -61,7 +83,7 @@
      "likes": 16,
      "retweets": 0,
      "replies": 56,
-     "views": "21236",
+     "views": "21262",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2091691189531750722"
     },
@@ -72,7 +94,7 @@
      "likes": 110,
      "retweets": 7,
      "replies": 54,
-     "views": "38187",
+     "views": "38209",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2091456254669709671"
     },
@@ -83,7 +105,7 @@
      "likes": 110,
      "retweets": 5,
      "replies": 47,
-     "views": "32303",
+     "views": "32329",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2091396289229664590"
     },
@@ -94,7 +116,7 @@
      "likes": 43,
      "retweets": 0,
      "replies": 25,
-     "views": "48287",
+     "views": "48297",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2091343192318939149"
     },
@@ -105,7 +127,7 @@
      "likes": 20,
      "retweets": 2,
      "replies": 33,
-     "views": "14200",
+     "views": "14211",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2091140994192601572"
     },
@@ -116,20 +138,9 @@
      "likes": 15,
      "retweets": 0,
      "replies": 40,
-     "views": "8056",
+     "views": "8063",
      "is_retweet": false,
      "url": "https://x.com/op7418/status/2091039407554146448"
-    },
-    {
-     "id": "2090770708691550625",
-     "created_at": "Fri Aug 21 11:59:16 +0000 2026",
-     "text": "🐂🍺，Codex 周活两千万了\n\n给每个用户发了一个自定义的重置次数 https://t.co/mFMfY2hnQW",
-     "likes": 33,
-     "retweets": 2,
-     "replies": 57,
-     "views": "30218",
-     "is_retweet": false,
-     "url": "https://x.com/op7418/status/2090770708691550625"
     }
    ],
    "disp_name": "歸藏"
@@ -138,18 +149,40 @@
    "handle": "berryxia",
    "name": "Berryxia.AI",
    "bio": "Building AI tools AI System Prompt \nLove Design & Coding & Share Prompt！ 📮:Andyhuo@me.com",
-   "followers": 46804,
+   "followers": 46814,
    "following": 709,
    "profile_url": "https://x.com/berryxia",
    "tweets": [
     {
+     "id": "2092446107829961087",
+     "created_at": "Wed Aug 26 02:56:42 +0000 2026",
+     "text": "纳尼？\n谁才是孙行者？左边是豆包 VS 右边 豆包 Work！\n不能说一样就是一毛一样了吧~~ https://t.co/XjLIfErVUI",
+     "likes": 1,
+     "retweets": 0,
+     "replies": 1,
+     "views": "134",
+     "is_retweet": false,
+     "url": "https://x.com/berryxia/status/2092446107829961087"
+    },
+    {
+     "id": "2092442797014167625",
+     "created_at": "Wed Aug 26 02:43:33 +0000 2026",
+     "text": "Apple的广告视频还是以古法手搓为主，没有直接使用AI来生成😄，看看背后的工艺 https://t.co/66RWtizWfJ",
+     "likes": 0,
+     "retweets": 0,
+     "replies": 1,
+     "views": "298",
+     "is_retweet": false,
+     "url": "https://x.com/berryxia/status/2092442797014167625"
+    },
+    {
      "id": "2092307945354838343",
      "created_at": "Tue Aug 25 17:47:42 +0000 2026",
      "text": "卧槽，Google 把 Vibe coding 做成“开黑”模式了！\n\nPlay with Putty，Google Labs新产品。\n一群人实时一起Vibe Coding、捏工具，点哪个按钮都能直接跟它说话，改样子改行为，历史还能一起回放\n\n我真的还是更在意这件事：Vibe coding 一直是单人副本，你和模型关在小黑屋。\n\nGoogle 在赌下一局是多人，Figma 解决画在一起，这个在赌做在一起。模型越快，工具就越该像橡皮泥，所以叫 Putty。\n\n目前仅支持18岁+ 美国地区加入joinlist。",
-     "likes": 2,
+     "likes": 3,
      "retweets": 0,
      "replies": 0,
-     "views": "1514",
+     "views": "1643",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092307945354838343"
     },
@@ -157,10 +190,10 @@
      "id": "2092299381517242632",
      "created_at": "Tue Aug 25 17:13:40 +0000 2026",
      "text": "卧槽，苍老师还是我认识的那个苍老师吗?\n这一波直接赚麻了。\n\n直接一天干了1698Star ⭐️，已经到1.7W +\n\n荣登GitHub 趋势榜第一了啊~~ https://t.co/s68PeIJTE0",
-     "likes": 37,
-     "retweets": 4,
-     "replies": 24,
-     "views": "29790",
+     "likes": 50,
+     "retweets": 5,
+     "replies": 28,
+     "views": "39499",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092299381517242632"
     },
@@ -168,10 +201,10 @@
      "id": "2092294509757685893",
      "created_at": "Tue Aug 25 16:54:18 +0000 2026",
      "text": "直接注册后：\nbase URL：https://t.co/T1cYHmouOS\n 然后填写你的key给Agent就行了，我接到我的项目中去了😄 https://t.co/3R35iCJ6lF",
-     "likes": 10,
+     "likes": 15,
      "retweets": 1,
-     "replies": 2,
-     "views": "3378",
+     "replies": 4,
+     "views": "4280",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092294509757685893"
     },
@@ -182,7 +215,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 1,
-     "views": "929",
+     "views": "971",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092293204041458099"
     },
@@ -190,10 +223,10 @@
      "id": "2092292785928056989",
      "created_at": "Tue Aug 25 16:47:27 +0000 2026",
      "text": "免费，赶紧搞起来！\nAgent 搜索赛道也是卷啊！\n专门给AI Agent做的搜索引擎来了。\n\nKeenable正式宣布成立，获得Accel和Conviction领投的2600万美元种子轮。\n\n创始人是前Yandex Search CEO、前Amazon AGI的人。他们要解决的问题很直接：模型看起来什么都知道，但你一旦问到自己真正懂的领域，答案往往只是“平均水平”。\n\nKeenable做的是AI原生的知识索引，从开放网络开始，让模型和Agent能实时查询、推理，并持续从活的网络中学习。\n\nWeb Search API和Web Query Language已经上线，九月底前免费。\n\n当Agent开始需要高质量、可查询、持续更新的外部知识时，专为它们设计的搜索层会变得越来越关键。\n\n https://t.co/pZ0kVuMaZ3",
-     "likes": 14,
+     "likes": 15,
      "retweets": 0,
-     "replies": 3,
-     "views": "5606",
+     "replies": 4,
+     "views": "6809",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092292785928056989"
     },
@@ -204,7 +237,7 @@
      "likes": 7,
      "retweets": 0,
      "replies": 12,
-     "views": "9826",
+     "views": "10558",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092283717624684612"
     },
@@ -215,7 +248,7 @@
      "likes": 5,
      "retweets": 0,
      "replies": 8,
-     "views": "4977",
+     "views": "5366",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092270730029551929"
     },
@@ -226,7 +259,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 1,
-     "views": "2161",
+     "views": "2273",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092270226541007067"
     },
@@ -234,10 +267,10 @@
      "id": "2092257182490481118",
      "created_at": "Tue Aug 25 14:25:59 +0000 2026",
      "text": "内容过于专业，建议大家收藏学习。\n\nX搜索有些和Google 的用法雷同。\n\n草率了，光骂X算法了。哈哈😂",
-     "likes": 33,
-     "retweets": 3,
+     "likes": 37,
+     "retweets": 6,
      "replies": 20,
-     "views": "7790",
+     "views": "8463",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092257182490481118"
     },
@@ -248,7 +281,7 @@
      "likes": 7,
      "retweets": 0,
      "replies": 12,
-     "views": "18444",
+     "views": "19720",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092243343128371454"
     },
@@ -259,7 +292,7 @@
      "likes": 33,
      "retweets": 2,
      "replies": 19,
-     "views": "19300",
+     "views": "20240",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092226816169693298"
     },
@@ -270,7 +303,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "1179",
+     "views": "1200",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092225120970400185"
     },
@@ -281,7 +314,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 12,
-     "views": "1303",
+     "views": "1322",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092202436530487423"
     },
@@ -292,7 +325,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "1208",
+     "views": "1231",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092195107378503775"
     },
@@ -303,7 +336,7 @@
      "likes": 15,
      "retweets": 0,
      "replies": 1,
-     "views": "3097",
+     "views": "3170",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2092188440880390544"
     },
@@ -314,7 +347,7 @@
      "likes": 8,
      "retweets": 0,
      "replies": 5,
-     "views": "1771",
+     "views": "1782",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2091942774816067639"
     },
@@ -325,31 +358,9 @@
      "likes": 2,
      "retweets": 0,
      "replies": 12,
-     "views": "1588",
+     "views": "1592",
      "is_retweet": false,
      "url": "https://x.com/berryxia/status/2091940966764552639"
-    },
-    {
-     "id": "2091937611812045152",
-     "created_at": "Mon Aug 24 17:16:07 +0000 2026",
-     "text": "说个有意思的事儿，Qwen 3.8 Max的发布影响力反而没有Qwen 3.8 -27B大。\n\n并且持续的自来水和真实用户的反馈 以及社区自发的做一些优化、量化、移植等等。 \n\n真的好东西，每个人都会推荐。",
-     "likes": 2,
-     "retweets": 0,
-     "replies": 2,
-     "views": "1550",
-     "is_retweet": false,
-     "url": "https://x.com/berryxia/status/2091937611812045152"
-    },
-    {
-     "id": "2091922269161300113",
-     "created_at": "Mon Aug 24 16:15:09 +0000 2026",
-     "text": "有没有人用过这个Okara 产品，实测效果如何？\n我看设计的整个架构还挺复杂，功能挺多的，但是不知道实际输出效果如何？",
-     "likes": 4,
-     "retweets": 0,
-     "replies": 2,
-     "views": "1771",
-     "is_retweet": false,
-     "url": "https://x.com/berryxia/status/2091922269161300113"
     }
    ],
    "disp_name": "Berryxia.AI"
@@ -358,18 +369,29 @@
    "handle": "MANISH1027512",
    "name": "古一",
    "bio": "Founder of @vibeshotclub\nBuilding https://t.co/sWFnwnQoaK  and https://t.co/zZw1E1ouC0 for AIGC visual creators.\nBiz: ae86sen@gmail.com",
-   "followers": 43155,
+   "followers": 43158,
    "following": 493,
    "profile_url": "https://x.com/MANISH1027512",
    "tweets": [
+    {
+     "id": "2092439516846170346",
+     "created_at": "Wed Aug 26 02:30:31 +0000 2026",
+     "text": "修脚大师还得是老香蕉啊 https://t.co/C5L9hkOHtX",
+     "likes": 11,
+     "retweets": 0,
+     "replies": 1,
+     "views": "434",
+     "is_retweet": false,
+     "url": "https://x.com/MANISH1027512/status/2092439516846170346"
+    },
     {
      "id": "2092227244739666318",
      "created_at": "Tue Aug 25 12:27:01 +0000 2026",
      "text": "我一点儿都不chill，度个假尼玛一躺着就想跑图，沙滩比基尼看着都没劲，没救了。 https://t.co/BJg3mtlv2d",
      "likes": 9,
      "retweets": 0,
-     "replies": 5,
-     "views": "1533",
+     "replies": 4,
+     "views": "1613",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2092227244739666318"
     },
@@ -377,10 +399,10 @@
      "id": "2092209714037928401",
      "created_at": "Tue Aug 25 11:17:21 +0000 2026",
      "text": "https://t.co/zCYgvySkVT",
-     "likes": 84,
-     "retweets": 4,
+     "likes": 85,
+     "retweets": 5,
      "replies": 5,
-     "views": "4233",
+     "views": "4381",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2092209714037928401"
     },
@@ -388,10 +410,10 @@
      "id": "2092185163275132983",
      "created_at": "Tue Aug 25 09:39:48 +0000 2026",
      "text": "突然想起来，之前这组还没更新完。\n\n不仅可以站着，还可以躺着。\n09 https://t.co/7VZsrmptRx",
-     "likes": 63,
+     "likes": 62,
      "retweets": 0,
-     "replies": 65,
-     "views": "5885",
+     "replies": 68,
+     "views": "6017",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2092185163275132983"
     },
@@ -399,10 +421,10 @@
      "id": "2092088172708876307",
      "created_at": "Tue Aug 25 03:14:24 +0000 2026",
      "text": "每日旗袍大赏（一发图就被秒搬🤷‍♂️） https://t.co/x8GAlcRqb0",
-     "likes": 388,
+     "likes": 396,
      "retweets": 18,
-     "replies": 117,
-     "views": "22324",
+     "replies": 120,
+     "views": "22719",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2092088172708876307"
     },
@@ -413,7 +435,7 @@
      "likes": 7,
      "retweets": 0,
      "replies": 8,
-     "views": "2627",
+     "views": "2653",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2092074257153212914"
     },
@@ -421,10 +443,10 @@
      "id": "2091868168935674211",
      "created_at": "Mon Aug 24 12:40:11 +0000 2026",
      "text": "来了来了\n\n今天有点忙，久等了\n\n接着奏乐接着舞！ https://t.co/r3M1ZGECqb",
-     "likes": 428,
+     "likes": 430,
      "retweets": 27,
      "replies": 74,
-     "views": "48070",
+     "views": "48583",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2091868168935674211"
     },
@@ -435,7 +457,7 @@
      "likes": 25,
      "retweets": 0,
      "replies": 62,
-     "views": "22017",
+     "views": "22032",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2091503947416731842"
     },
@@ -443,10 +465,10 @@
      "id": "2091387750218178646",
      "created_at": "Sun Aug 23 04:51:10 +0000 2026",
      "text": "推友说要看跳舞👇🏻 https://t.co/Bh8XYaz8YQ",
-     "likes": 2505,
+     "likes": 2506,
      "retweets": 190,
      "replies": 212,
-     "views": "176056",
+     "views": "176181",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2091387750218178646"
     },
@@ -457,7 +479,7 @@
      "likes": 254,
      "retweets": 10,
      "replies": 39,
-     "views": "38352",
+     "views": "38549",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2091358098825093545"
     },
@@ -468,7 +490,7 @@
      "likes": 117,
      "retweets": 13,
      "replies": 21,
-     "views": "18320",
+     "views": "18328",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2091175801240854718"
     },
@@ -479,7 +501,7 @@
      "likes": 39,
      "retweets": 1,
      "replies": 19,
-     "views": "65057",
+     "views": "65083",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2091078410235994235"
     },
@@ -490,7 +512,7 @@
      "likes": 185,
      "retweets": 9,
      "replies": 43,
-     "views": "59069",
+     "views": "59090",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2091006408854765964"
     },
@@ -498,10 +520,10 @@
      "id": "2090980360725397536",
      "created_at": "Sat Aug 22 01:52:21 +0000 2026",
      "text": "旗袍仙人 https://t.co/dgyWtOTdfM",
-     "likes": 1212,
+     "likes": 1213,
      "retweets": 68,
      "replies": 10,
-     "views": "243846",
+     "views": "243927",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2090980360725397536"
     },
@@ -512,20 +534,9 @@
      "likes": 13,
      "retweets": 0,
      "replies": 41,
-     "views": "72873",
+     "views": "72877",
      "is_retweet": false,
      "url": "https://x.com/MANISH1027512/status/2090735298305237379"
-    },
-    {
-     "id": "2090713185968099484",
-     "created_at": "Fri Aug 21 08:10:41 +0000 2026",
-     "text": "推友说要看动的👇🏻 https://t.co/GWxlZO776T",
-     "likes": 477,
-     "retweets": 29,
-     "replies": 68,
-     "views": "66342",
-     "is_retweet": false,
-     "url": "https://x.com/MANISH1027512/status/2090713185968099484"
     }
    ],
    "disp_name": "古一"
@@ -534,7 +545,7 @@
    "handle": "liyue_ai",
    "name": "李岳",
    "bio": "🧠提示词工程师 | ⚡AI实战派 \n✍🏻分享AI资讯  | 🛠️评测AI工具 \n📖发布AI教程  |💰拆解AI变现案例 \n公众号：李岳AI \n合作+V：liyue071714118",
-   "followers": 42256,
+   "followers": 42269,
    "following": 756,
    "profile_url": "https://x.com/liyue_ai",
    "tweets": [
@@ -542,10 +553,10 @@
      "id": "2092266713983422524",
      "created_at": "Tue Aug 25 15:03:51 +0000 2026",
      "text": "AI视频效果好不好，参考图占了很大因素。\n\nSeedream 5.0 Pro生成这种人像简直无敌。\n\n提示词：\n一张高完成度、真实摄影质感的中国年轻成年女性极近景美容肖像。人物视觉年龄约 20–26 岁，具有自然明确的中国女性特征，整体气质清纯、柔弱感、安静、湿润、带轻情绪与电影感，成年感明确，不幼态，不欧美化，不网红化，不复制任何参考人物的具体骨相，仅借鉴理想中的皮肤净度、眼睛明亮度、湿润妆感、近景镜头语言与柔光美容摄影氛围。\n\n人物采用 B｜明眸电影脸。脸型与骨相为偏长鹅蛋脸，颧骨低调，面中柔和饱满，下颌纤秀但不过尖。整体保持真实合理的东方柔和骨相：额头自然饱满，太阳穴平滑，颧骨存在轻微支撑但不外扩，面中柔和丰润，脸颊细腻柔软，下颌线清晰纤秀但不锋利，下巴小巧精致但不过尖，脸部线条流畅自然，呈现具有电影女主感的中国年轻女性面部结构。\n\n眼部设计为大杏眼略带下垂感，茶琥珀虹膜，下眼睑泪线更明确，角膜水膜感加强，双眼长条窗型高光。人物拥有偏大的明亮东方杏眼，横向舒展，纵向开合偏大但保持真人比例，眼尾略带自然下垂感，呈现温柔、脆弱、安静的眼神气质；双眼皮自然柔和，卧蚕清晰但不过分夸张。虹膜为通透的茶琥珀色，具有细密真实的放射状纹理、清晰的瞳孔边界与自然深棕外缘环，在正面柔光照射下带有轻微蜂蜜棕与琥珀棕层次。眼白明亮清澈但不死白，下眼睑泪线比常规近景更明确，角膜具有更强的湿润透明水膜感，内眼角轻微湿润。双眼均带有较大面积、横向延展的长条窗型高光，真正进入虹膜内部，使眼睛整体显得湿润、明亮、通透、有情绪、有生命力，成为整张肖像的第一视觉中心。\n\n鼻唇设计为纤细自然鼻梁，小圆鼻尖，柔软微启唇，下唇水润饱满。鼻根自然，鼻梁细秀顺直但不过分刀削，鼻尖小巧圆润，鼻翼收敛且保留真实结构；嘴唇自然柔软，微微张开，唇峰温和，下唇更具水润饱满感，保留轻微真实唇纹，呈现细腻柔润、轻微水光但不过分玻璃化的真实唇部质感。\n\n皮肤采用冷白水瓷低频肌，皮肤水润但不油亮。肤色为高明度、低饱和、中性偏冷的冷白水瓷基底，整体白净、纯净、柔和、通透，明显降低黄调、灰调、土色感与肉粉感。大面积面颊、额头与下巴保持低频、平整、安静、细腻的皮肤表面，几乎看不到明显毛孔、粗糙颗粒和高频皮肤噪声。皮肤真实感不依赖大面积毛孔，而通过自然面部结构、连续明暗过渡、皮下透光，以及鼻翼、眼周与唇周极轻微真实微结构来体现。整体带有轻柔水润感，但绝不油亮、绝不厚重反光、绝不塑料。脸部大面积保持冷净瓷白，仅在眼下、眼周、苹果肌中心小范围、鼻尖和嘴唇保留极低浓度的淡粉血色，形成“白是主体、粉是点缀”的色彩关系。额头、鼻梁、苹果肌与唇峰带有宽而柔和的微水光，皮肤显得白净、细腻、湿润、通透，但绝不蜡像、绝不 CG 化。\n\n妆容采用极淡玫粉湿润妆，眼下粉色稍明显，唇部淡玫瑰裸粉。眼周使用极淡玫粉、灰粉玫瑰色与轻柔裸粉进行低浓度晕染，上下眼睑之间有柔和的粉润呼应，眼下粉色气息比普通清透妆稍明显，但仍保持克制和自然；眼尾仅以极细自然眼线轻微修饰。睫毛为黑褐色或深棕黑，纤长、根根分明、自然卷翘，密度适中，不夸张不厚重。腮红轻柔集中在眼下与苹果肌中心小范围，呈现若有若无的湿润气色。嘴唇采用淡玫瑰裸粉色，低饱和、柔润、轻反光、保留真实细唇纹，传达含蓄、安静、轻情绪的电影感。\n\n发型为黑色柔顺长发，发根自然，中分，几缕略带湿润感的细碎发贴近脸侧。头发整体柔顺自然，发丝保留真人摄影质感与适量高频细节，单根发丝自然可辨，不出现塑料发丝、假发感和 CG 边缘；几缕靠近脸侧的细碎发带有若有若无的湿润贴肤感，增强雨后般的脆弱、柔软与情绪氛围，但整体造型仍然干净克制，不凌乱，不脏。\n\n摄影采用 105mm 极近景，正面面向镜头，低饱和蓝灰背景。使用 105mm 长焦美容人像镜头语言，避免广角透视畸变。人物脸部占据画面约 70%–90%，正面直视镜头，双眼位于视觉中心偏上区域。焦点优先锁定双眼、虹膜与睫毛，嘴唇次清晰，耳部和后侧头发可轻微虚化。画面整体遵循“低频皮肤 + 高频五官”的摄影原则：皮肤大面积区域局部反差较低，睫毛、虹膜、瞳孔、泪线、唇纹与发丝保持较高真实度与清晰度。\n\n光线采用高调正面美容柔光系统：一个超大面积柔光源位于摄影机正前方、略高于人物眼睛并靠近人物，柔和向下照射，同时存在低强度柔和补光，使人物面部整体明亮均匀，眼窝、鼻翼、眼下与下颌阴影非常浅且干净。皮肤高光宽而柔和，白净通透但不死白过曝，阴影保持中性或轻微冷调，不发黄、不发灰绿、不发脏。背景采用低饱和蓝灰色，亮度低于人物脸部约半档到一档，保持高度简洁和弱化，以衬托人物肤色更显白净、清冷、湿润、纯净。\n\n画幅比例为 9:16。整体效果应呈现：一位具有真人摄影真实性的中国清纯美人，皮肤安静、白净、细腻、低频，眼睛湿润、明亮、通透，带有更强的角膜水膜感与轻情绪表达，妆面轻盈柔润，整体既真实又带有高完成度美容近景的高级感，传达出雨后般清冷、脆弱、安静、带电影故事感的美人气质。",
-     "likes": 30,
+     "likes": 33,
      "retweets": 3,
-     "replies": 47,
-     "views": "5997",
+     "replies": 59,
+     "views": "6326",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2092266713983422524"
     },
@@ -553,10 +564,10 @@
      "id": "2092191663691321464",
      "created_at": "Tue Aug 25 10:05:38 +0000 2026",
      "text": "刚帮忙代充了一个，\n\n速度很快，赚了50\n\n这就是信息差吗？🤣",
-     "likes": 206,
-     "retweets": 18,
-     "replies": 64,
-     "views": "62543",
+     "likes": 219,
+     "retweets": 19,
+     "replies": 69,
+     "views": "65374",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2092191663691321464"
     },
@@ -564,10 +575,10 @@
      "id": "2092189330655867358",
      "created_at": "Tue Aug 25 09:56:22 +0000 2026",
      "text": "AI表演得太真实了🥳\n---\n经过那件事以后，\n\n“她”像是下定了某种决心，\n\n不再去争取什么了，\n\n笑的很委屈，\n\n像是突然间就释怀了。。。 https://t.co/xDOQ6V5FoY",
-     "likes": 70,
+     "likes": 71,
      "retweets": 4,
-     "replies": 40,
-     "views": "29463",
+     "replies": 44,
+     "views": "30560",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2092189330655867358"
     },
@@ -575,10 +586,10 @@
      "id": "2092147008895426977",
      "created_at": "Tue Aug 25 07:08:11 +0000 2026",
      "text": "Seedance 2.5这场景切换有点丝滑啊，\n做了一个小短片：给长大后的我。\n\n主题：纸飞机飞过城市四季，最后落进小时候的自己手里。\n\n提示词：\n生成一支15秒、16:9、720p的写实电影质感奇幻短片。全片以同一架米白色手折纸飞机为唯一主角，纸张纹理、折痕、尺寸和飞行方向始终一致。采用一镜到底的低空跟随镜头，镜头位于纸飞机后侧约半米，平稳向前移动，不突然切镜，不穿模。\n\n0至3.5秒，清晨的老城区春日街道，樱花花瓣随微风掠过，纸飞机从一扇打开的教室窗户飞出，镜头立即跟上。柔和晨光，空气清透，只听见风声、远处鸟鸣和很轻的钢琴前奏。\n\n3.5至7秒，纸飞机从一棵近景树冠后掠过，遮挡完成自然转场。街道进入盛夏午后，绿荫浓密，短暂阵雨落下，纸面沾上少量水珠但不破损、不变形。镜头保持相同距离和运动方向，雨声与钢琴节奏略微增强。\n\n7至10.5秒，纸飞机贴近一辆驶过的旧公交车，利用车身遮挡转入深秋黄昏。金黄色落叶沿同一风向卷起，夕阳从画面右侧照亮纸飞机折痕。它短暂下坠后重新被气流托起，动作符合空气阻力，不瞬移。\n\n10.5至15秒，纸飞机穿过一团近景白雾，街道进入安静冬夜，屋檐和路面覆有薄雪。镜头逐渐绕到纸飞机侧前方，露出巷口一名约八岁、穿深蓝棉衣的男孩。他抬手接住纸飞机，低头看见机翼内侧有一行稚嫩铅笔字「给长大后的我」。男孩停顿一秒，抬头望向纸飞机飞来的方向，钢琴只留下一个尾音，画面自然停住。\n\n四季必须发生在同一条街道和同一飞行路径上，建筑空间、屏幕方向和镜头轴线连续。纸飞机全程只有一架，不改变颜色、材质、折法和大小。季节变化只通过遮挡转场、光线、植被、天气与环境声完成。禁止额外纸飞机、人物突然出现或消失、文字乱码、纸张融化、镜头跳切、画面闪烁、平台水印、字幕、旁白和多余对白。",
-     "likes": 117,
+     "likes": 118,
      "retweets": 10,
      "replies": 23,
-     "views": "10057",
+     "views": "10537",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2092147008895426977"
     },
@@ -586,10 +597,10 @@
      "id": "2092090678503489766",
      "created_at": "Tue Aug 25 03:24:21 +0000 2026",
      "text": "这个Starryblu的开卡和插队攻略，\n在闲鱼居然这么有市场，\n我也去挂一个😁 https://t.co/2xFcIyYufy",
-     "likes": 30,
+     "likes": 31,
      "retweets": 1,
      "replies": 32,
-     "views": "14052",
+     "views": "14510",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2092090678503489766"
     },
@@ -597,10 +608,10 @@
      "id": "2092082238792044821",
      "created_at": "Tue Aug 25 02:50:49 +0000 2026",
      "text": "兄弟们，晴天霹雳啊🤯\nCodex的Plus套餐将恢复5小时限制，Pro套餐不受此限制，\n\n说是为了用户体验，但实际上是Plus用户占了大多数，\n消耗了大部分的算力，但算力跟不上才会加这个限制。\n\n也有另外一层意思：想要用的爽，那就掏钱升级到Pro吧。",
-     "likes": 10,
-     "retweets": 1,
+     "likes": 11,
+     "retweets": 2,
      "replies": 34,
-     "views": "10645",
+     "views": "10849",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2092082238792044821"
     },
@@ -610,8 +621,8 @@
      "text": "GPT Image 2生成古风美妆：鸢尾雾银珠光妆\n\n提示词：\n9:16 竖版，古风珠光美妆人像，东方古典贵女人像写真，半身近景，美妆特写，人物坐于珠帘闺房妆台前，画面左侧带一部分古铜色圆镜前景，人物身体自然端坐，肩颈放松，头部轻微侧转，眼神安静克制地看向镜头，整体气质清冷、精致、矜贵、梦幻。\n\n画面主体是一位视觉年龄约 20–28 岁、明确成年的年轻东方女性，女主感脸，五官精致对称，轮廓柔和流畅，柔和鹅蛋脸，额头自然饱满，面中丰盈，眼型修长清亮，眼尾自然收长，神情克制安静，鼻梁秀气流畅，鼻尖精致，唇形柔软饱满，整体长相清冷而高级，近景耐看。\n\n妆容为 鸢尾雾银珠光妆。底妆清透细腻，肤色冷白通透但保留自然血色与轻微真实皮肤纹理，不灰不脏。眼妆使用雾紫、浅灰银、淡粉细闪渐层晕染，上眼睑以低饱和雾紫和浅灰银柔和铺色，眼中与卧蚕加入细腻珠光，眼尾自然拉长，避免现代舞台妆感。腮红为低饱和冷粉色，轻柔分布在面中与眼下。唇妆为雾感水润冷粉豆沙唇，唇珠清晰，质感柔润但不过分油亮。整体妆后呈现清冷梦感、精致矜贵的高门贵女气质。\n\n发型为乌发盘成偏高发髻，发髻饱满圆润，发丝顺滑有光泽。发间搭配 银白鸢尾花钗、透明珠滴、贝母发梳、细银枝叶结构、珍珠垂链，耳饰为银白与淡紫珠滴长耳坠，材质清透细腻，层次丰富但不压脸。\n\n服装为 雾紫灰交领长衫，搭配 银灰蓝百褶长裙，外搭 珍珠白轻纱半臂，面料轻薄柔软，带有细腻刺绣与浅银珠饰。整体服装颜色分层清楚：雾紫灰作为主色，珍珠白用于提亮，银灰蓝作为辅助层次，避免整张图被单一灰紫覆盖。胸部饱满自然，但不暴露，领口得体，可以看见自然柔和的胸线轮廓，不低胸、不夸张、不性感化。\n\n场景为 珠帘闺房 / 冷白花影 / 琉璃香盒 / 浅灰木屏风。背景可见浅灰木格屏风、珠帘垂落、冷白或浅紫鸢尾花、少量琉璃香盒与珠光器物。光线采用柔和清透的冷白主光，叠加少量暖白补光，使人物面部、妆容与珍珠发饰清晰可见，画面梦幻但不灰蒙。背景浅景深柔和虚化，人物脸部与妆容始终是第一视觉中心。\n\n整体风格为高完成度古风贵女珠光美妆写真，真实摄影质感，人物双眼、睫毛、眼影、腮红、唇妆、发饰、刺绣与珠饰细节清晰可见，画面精致、清透、冷雅、梦幻。",
      "likes": 56,
      "retweets": 7,
-     "replies": 49,
-     "views": "7006",
+     "replies": 50,
+     "views": "7057",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2091914687470510444"
     },
@@ -619,10 +630,10 @@
      "id": "2091814242194538586",
      "created_at": "Mon Aug 24 09:05:54 +0000 2026",
      "text": "卧槽，吃了口AI视频的狗粮，\n\n一个埋南极一个埋北极吧😅 https://t.co/ktctSx0cLx",
-     "likes": 803,
+     "likes": 804,
      "retweets": 38,
      "replies": 63,
-     "views": "300028",
+     "views": "301232",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2091814242194538586"
     },
@@ -632,8 +643,8 @@
      "text": "GPT Image 2生成写实生活照。\n\n提示词（欢迎返图）：\n16:9 横版，真实 iPhone 手机随手拍摄的生活感女性照片，一位视觉年龄约 20–26 岁的年轻成年东方女性，具有自然明确的东方女性特征，不过度欧美化，不显年龄偏大，没有未成年感。整体风格为夏日晚风情绪下的真实生活抓拍，场景位于开窗卧室 / 阳台边，窗外是傍晚将暗未暗的天空、远处树影与城市边缘景色，室内有柔软床铺、床头柜、小台灯、薄毯等真实生活细节，空间安静、清透、私密，像真实有人居住的卧室，而不是样板间或摄影棚。\n\n人物气质清纯、轻盈、温柔，带一点透明感和夏夜松弛感。五官方向为自然耐看的东方女性脸，柔和鹅蛋脸或小巧瓜子脸，眉眼舒展，清亮杏眼，眼神温柔安静，鼻梁清秀流畅，唇形自然柔软，淡粉或低饱和裸粉唇色，仅有轻微淡妆，保留轻微毛孔、轻微肤色不均、轻微面部纹理和自然皮肤状态，不磨皮，不塑料皮，不瓷娃娃感。\n\n人物身形为丰腴自然曲线型，胸部饱满自然，腰线自然清晰，腰胯转折真实，臀腿线条流畅，肩颈线柔和，整体身体比例真实协调健康。线条强调较强，但必须通过真实姿态、衣料贴合和自然光影来体现，不夸张变形，不刻意营造低俗性感。\n\n服装为白色短睡裙，细肩带设计，轻薄柔软，面料自然垂坠，带少量真实褶皱和轻微贴身感，能够自然勾勒胸腰比例与身体曲线，但不过度暴露，不要时装大片感。人物靠坐在窗边，一只腿自然弯曲搭在床边或坐垫上，另一条腿自然放松，一只手轻扶窗帘，另一只手自然放在腿边或身体侧面，身体轻微后靠或自然坐稳，看向远处，姿态松弛，像夏日晚风吹进房间时被随手拍到的一瞬间。\n\n光线采用真实傍晚自然光与室内暖灯混合照明，窗外蓝粉色暮光从开窗处进入室内，形成柔和自然的侧光，床头小灯提供轻微暖色补光，面部、锁骨、肩颈、胸前和腿部有自然高光，同时保留少量环境暗部和真实阴影，允许轻微曝光不完美、轻微低照度噪点和真实反差，不要棚拍布光，不要商业打光，不要过度 HDR，不要梦幻滤镜。\n\n整体画面必须有明显 iPhone 手机拍摄感：真实手机主摄视角，轻微低清感，轻微噪点，真实自动白平衡，轻微曝光偏差，非完美构图，生活抓拍感强，不使用人像模式虚化，不做商业摄影精修。第一眼真实记忆点是：暮色窗边，一个穿着白色短睡裙、气质清纯温柔、身形丰腴自然的年轻东方女性安静靠坐在窗边，扶着窗帘看向远处，室内暖灯与夏日晚风交织，像生活中被 iPhone 随手记录下的一张真实照片。\n\n重点保证人物肢体完整自然，四肢比例正常，双手清晰，手指数量正确，关节自然，坐姿稳定，不出现手脚畸形、身体扭曲、额外肢体或不合理透视。不要商业写真感，不要影楼精修感，不要网红滤镜，不要 CG 感，不要 3D 渲染感，不要夸张 S 型姿势，不要过度锐化，不要假光影，不要情色化表达。",
      "likes": 81,
      "retweets": 6,
-     "replies": 91,
-     "views": "15251",
+     "replies": 92,
+     "views": "15392",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2091804278465953931"
     },
@@ -644,7 +655,7 @@
      "likes": 5,
      "retweets": 0,
      "replies": 6,
-     "views": "4447",
+     "views": "4473",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2091795182115324077"
     },
@@ -655,7 +666,7 @@
      "likes": 8,
      "retweets": 0,
      "replies": 12,
-     "views": "4775",
+     "views": "4801",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2091791533314040255"
     },
@@ -666,7 +677,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 6,
-     "views": "3813",
+     "views": "3828",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2091750149991338207"
     },
@@ -677,7 +688,7 @@
      "likes": 69,
      "retweets": 5,
      "replies": 33,
-     "views": "8586",
+     "views": "8611",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2091746403894829338"
     },
@@ -688,7 +699,7 @@
      "likes": 90,
      "retweets": 11,
      "replies": 37,
-     "views": "10321",
+     "views": "10343",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2091565409644548589"
     },
@@ -699,7 +710,7 @@
      "likes": 118,
      "retweets": 7,
      "replies": 43,
-     "views": "330974",
+     "views": "331483",
      "is_retweet": false,
      "url": "https://x.com/liyue_ai/status/2091559999189495993"
     }
@@ -715,13 +726,24 @@
    "profile_url": "https://x.com/ZHO_ZHO_ZHO",
    "tweets": [
     {
+     "id": "2092444118953889871",
+     "created_at": "Wed Aug 26 02:48:48 +0000 2026",
+     "text": "想要成为【跨越时代革命性的创造者】，请务必同时精通：\n\n艺术\n设计\n科学技术\n\n三大人类文明之核心，并尝试将其融合统一，走向自我的独特风格\n\n现在有了 AI，我们可以把 精通时间 和 可能性，以及 融合的创造性 都推向极致\n\n共勉🫡 https://t.co/v0uvOxTBSO",
+     "likes": 0,
+     "retweets": 0,
+     "replies": 0,
+     "views": "190",
+     "is_retweet": false,
+     "url": "https://x.com/ZHO_ZHO_ZHO/status/2092444118953889871"
+    },
+    {
      "id": "2092428692064817268",
      "created_at": "Wed Aug 26 01:47:30 +0000 2026",
      "text": "请逐字研读🫡\n\n落后的【创作思维/理论和范式】在早已无法适应【技术新步伐和可能性】情况下，杀死了本就可怜的创造力，和迈向自我视觉语言/风格与深度的可能性\n\n当下的【制作、创作 与 AI】与视频所讲街头摄影是一样的道理，但 AI 带来的革命性远不止如此\n\nhttps://t.co/dFRhrQ5Ske",
-     "likes": 1,
+     "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "259",
+     "views": "653",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2092428692064817268"
     },
@@ -732,7 +754,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "725",
+     "views": "819",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2092257557750636732"
     },
@@ -743,7 +765,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "808",
+     "views": "821",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2092232598001209510"
     },
@@ -753,8 +775,8 @@
      "text": "写得真好！建议全文背诵！！！\n\n“\n越是追逐生产力，人生就越会变得无趣\n\n“这段时间有什么用吗？”\n“我现在做得够好吗？”\n那些总是一边生活、一边不断给自己打分的人，或许能够产出成果，却无法真正沉浸其中。因为元认知始终在运作着：即使在玩耍、在欢笑的时候，也会不由自主地站在某个抽离的位置上观察自己\n\n以前，我在网上读到过这样一段话：即使身处一个震耳欲聋、仿佛要震破鼓膜的现场，也无法忘我地投入其中，反而会从一个寂静无声的世界里观察着自己。据说当事人自己也觉得这很麻烦。明明是为了享受而来到的地方，却反过来“监视”那个正在享受的自己\n\n心理学家米哈里·契克森米哈赖（Mihaly Csikszentmihalyi）的“心流”理论，经常被放在生产力的语境中讨论——作为一种帮助人集中注意力、取得成果的技巧。但他的代表作原名是《最优体验心理学》，而不是《最优表现心理学》。\n所谓心流，并不是为了获得成果而采取的手段，而是一种本身就能成为奖励的体验。心流本身，就是一种“最爽的状态”。而他所列举的心流特征之一，正是“自我意识的消失”。\n\n只要还在用“有没有用”来衡量生产力，人就无法真正沉浸其中\n\n只有当我们放下生产力这把尺子，时间才会真正带来那种让人忘记时间的心流体验\n\n人生真正的实感，也许并不在于成果的总和，而在于那些“忘却自我”的时间\n\n真正的富足，存在于“元认知”之外\n”",
      "likes": 28,
      "retweets": 5,
-     "replies": 17,
-     "views": "3812",
+     "replies": 19,
+     "views": "3848",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2092210472636588073"
     },
@@ -765,7 +787,7 @@
      "likes": 4,
      "retweets": 0,
      "replies": 1,
-     "views": "1687",
+     "views": "1705",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2092206981658636691"
     },
@@ -776,7 +798,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 1,
-     "views": "1267",
+     "views": "1273",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2091844774059991329"
     },
@@ -787,7 +809,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "1164",
+     "views": "1166",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2091833387031957560"
     },
@@ -809,7 +831,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "1148",
+     "views": "1151",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2091765913104044068"
     },
@@ -820,7 +842,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 1,
-     "views": "1213",
+     "views": "1215",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2091722745394659384"
     },
@@ -831,7 +853,7 @@
      "likes": 4,
      "retweets": 0,
      "replies": 0,
-     "views": "1238",
+     "views": "1239",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2091400902582419531"
     },
@@ -842,7 +864,7 @@
      "likes": 4,
      "retweets": 0,
      "replies": 1,
-     "views": "1255",
+     "views": "1256",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2090740025558217178"
     },
@@ -853,7 +875,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 1,
-     "views": "2244",
+     "views": "2247",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2090693002792735149"
     },
@@ -864,7 +886,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "1357",
+     "views": "1358",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2090689264602476984"
     },
@@ -875,7 +897,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 0,
-     "views": "2292",
+     "views": "2296",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2090685743194877964"
     },
@@ -886,7 +908,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 18,
-     "views": "1380",
+     "views": "1381",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2090671131875524866"
     },
@@ -897,20 +919,9 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "1130",
+     "views": "1131",
      "is_retweet": false,
      "url": "https://x.com/ZHO_ZHO_ZHO/status/2090383498859393403"
-    },
-    {
-     "id": "2090284917682999639",
-     "created_at": "Thu Aug 20 03:48:54 +0000 2026",
-     "text": "《牛来》豆瓣开分 5.9，票房逼近 3000 万\n\n这打分分布也非常真诚，真诚是唯一的答案，是永远的稀缺资源\n\n世人不弃真诚，岁月不败梦想 https://t.co/5mBDILZI3S",
-     "likes": 7,
-     "retweets": 1,
-     "replies": 21,
-     "views": "5504",
-     "is_retweet": false,
-     "url": "https://x.com/ZHO_ZHO_ZHO/status/2090284917682999639"
     }
    ],
    "disp_name": "Zho"
@@ -924,13 +935,57 @@
    "profile_url": "https://x.com/songguoxiansen",
    "tweets": [
     {
+     "id": "2092446932413321381",
+     "created_at": "Wed Aug 26 02:59:59 +0000 2026",
+     "text": "RT @OpenAI: Introducing ChatGPT Business Premium Seats\n\nThe new $100 Premium seat is a game changer for small businesses and startups—givin…",
+     "likes": 0,
+     "retweets": 188,
+     "replies": 0,
+     "views": "24",
+     "is_retweet": true,
+     "url": "https://x.com/songguoxiansen/status/2092446932413321381"
+    },
+    {
+     "id": "2092446437946831081",
+     "created_at": "Wed Aug 26 02:58:01 +0000 2026",
+     "text": "RT @tinyfool: AI时代人人都能做产品，但是独立开发却更难生存了 https://t.co/06gchJzxPd",
+     "likes": 0,
+     "retweets": 4,
+     "replies": 0,
+     "views": "23",
+     "is_retweet": true,
+     "url": "https://x.com/songguoxiansen/status/2092446437946831081"
+    },
+    {
+     "id": "2092436635350876407",
+     "created_at": "Wed Aug 26 02:19:04 +0000 2026",
+     "text": "库克兄弟，你这Mac mini起步价899刀，就让人望而却步\n\n涨价这事你是一点不提啊。",
+     "likes": 1,
+     "retweets": 0,
+     "replies": 1,
+     "views": "216",
+     "is_retweet": false,
+     "url": "https://x.com/songguoxiansen/status/2092436635350876407"
+    },
+    {
+     "id": "2090272164243194192",
+     "created_at": "Thu Aug 20 02:58:13 +0000 2026",
+     "text": "考第一，不代表你就是牛马第一\n\n如果TRACES这样的方法被用在实际的AI测评当中\n\n那么现在很多AI排行榜不够看了\n\n传统测试仍然是检查数学、知识、编程等基本能力\n\n真正重大的变化是：\n大家评价一个AI，不再只是问它聪不聪明，而是看敢不敢把一件重要的事交给它\n\n很明显的是，更看重的是AI的可靠性。",
+     "likes": 1,
+     "retweets": 0,
+     "replies": 0,
+     "views": "1417",
+     "is_retweet": false,
+     "url": "https://x.com/songguoxiansen/status/2090272164243194192"
+    },
+    {
      "id": "2090268860784267353",
      "created_at": "Thu Aug 20 02:45:06 +0000 2026",
      "text": "草了，陈天桥原来是个AI高手\n\n搞了个TRACES，以后AI模型测评要上一个台阶了。\n\n简单说，TRACES就像是在测评AI：它到底是真会办事，还是提前把答案背了一遍。\n\n以前做测评：答案早就有了，AI只要把它找出来。\n\n现在TRACES测评：答案还没人知道，需要先调查分析，再验证和总结。",
      "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "1270",
+     "views": "1273",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2090268860784267353"
     },
@@ -952,7 +1007,7 @@
      "likes": 9,
      "retweets": 2,
      "replies": 0,
-     "views": "3390",
+     "views": "3393",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2082387945601044512"
     },
@@ -963,7 +1018,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "3488",
+     "views": "3491",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2081923652636090564"
     },
@@ -974,7 +1029,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "2564",
+     "views": "2566",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2081921037659443272"
     },
@@ -985,7 +1040,7 @@
      "likes": 60,
      "retweets": 8,
      "replies": 3,
-     "views": "6709",
+     "views": "6710",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2079040189553594819"
     },
@@ -996,7 +1051,7 @@
      "likes": 6,
      "retweets": 0,
      "replies": 4,
-     "views": "6699",
+     "views": "6701",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2077937212793262357"
     },
@@ -1007,7 +1062,7 @@
      "likes": 18,
      "retweets": 1,
      "replies": 17,
-     "views": "10693",
+     "views": "10695",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2077762143756386336"
     },
@@ -1029,7 +1084,7 @@
      "likes": 37,
      "retweets": 6,
      "replies": 41,
-     "views": "27680",
+     "views": "27684",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2077693626902323650"
     },
@@ -1040,7 +1095,7 @@
      "likes": 210,
      "retweets": 38,
      "replies": 11,
-     "views": "57664",
+     "views": "57674",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2077676254895968599"
     },
@@ -1065,72 +1120,6 @@
      "views": "22582",
      "is_retweet": false,
      "url": "https://x.com/songguoxiansen/status/2077573577982042313"
-    },
-    {
-     "id": "2077030979487822087",
-     "created_at": "Tue Jul 14 14:02:29 +0000 2026",
-     "text": "https://t.co/ufyz192iWX",
-     "likes": 16,
-     "retweets": 1,
-     "replies": 2,
-     "views": "2927",
-     "is_retweet": false,
-     "url": "https://x.com/songguoxiansen/status/2077030979487822087"
-    },
-    {
-     "id": "2075792524401369189",
-     "created_at": "Sat Jul 11 04:01:18 +0000 2026",
-     "text": "RT @thsottiaux: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the da…",
-     "likes": 0,
-     "retweets": 822,
-     "replies": 0,
-     "views": "88",
-     "is_retweet": true,
-     "url": "https://x.com/songguoxiansen/status/2075792524401369189"
-    },
-    {
-     "id": "2075785818342568177",
-     "created_at": "Sat Jul 11 03:34:39 +0000 2026",
-     "text": "麒麟西瓜 \n\nGPT Image 2提示词：\n\n任务：为“麒麟西瓜”设计一张高端水果电商包装提案板，主题为“麒夏礼境”，面向城市中高端家庭送礼、企业团购、生鲜电商精品礼盒场景。输出应是一张专业、克制、真实可落地的包装设计 proposal board，而不是普通广告海报。\n\n品牌定位与受众：premium fresh fruit ecommerce gift packaging for Kirin watermelon, restrained luxury agricultural gifting, trustworthy, fresh, premium, modern Chinese aesthetic, audience includes urban families, summer seasonal gifting buyers, enterprise welfare procurement, boutique fresh-food ecommerce consumers.\n\n英雄包装结构：画面中心为一个超大 45-degree hero package，占画面 50% 左右。包装采用“一体式书型翻盖礼盒 + 外部运输护箱”的结构逻辑。礼盒为横向长方体，比例稳重，边角挺括，盖面完整展开后能看到内托与双果位；运输护箱作为次级模块出现在侧边，以较简洁方式展示其抗压、防护与面单区。礼盒提手不要做脆弱挖孔，改为加固织带提手或隐藏式侧提结构。底部结构必须厚实，有锁底或托盘式承重逻辑。整个包装不能显得轻薄廉价，必须有 realistic rigid board and corrugated structure thickness.\n\n水果与内托逻辑：麒麟西瓜为大果重果，方案采用 2果装。内部为双独立果位阵列，使用 molded pulp insert / paper-pulp tray with contour support, each watermelon seated into a shaped cradle, with honeycomb-paper bottom cushion, top stabilizing ring, side anti-roll ribs, clear lid clearance, visible ventilation path. 果实不得悬空，不得互相挤压，不得靠果皮直接承重碰撞。开箱模块中应清楚看到两个果位、限位环、底部缓冲、提取手位和透气孔路径。可以加入单个切面西瓜作为小面积辅助物，强调品类识别，但不能喧宾夺主。\n\n视觉识别系统：整体风格为高端东方农业礼品包装，clean premium packaging board, modern Chinese typography mood, restrained composition. 主色为深墨绿色、玉白色，辅助为淡藤黄色，点缀少量西瓜瓤红与低饱和烫金。图形语言来自“麒麟纹样抽象化 + 西瓜藤蔓曲线 + 夏季风场纹理”，但必须极简、规整、可用于大面积包装，不要传统复杂国潮堆砌。表面材质表现为特种纸裱灰板、局部烫金 logo、局部 UV 产品名、细腻压纹。工艺数量要克制，不超过三种重点效果。纸张纹理、瓦楞边厚度、模塑纸托纤维感都应清晰可见。\n\n提案板构成：使用 clean studio presentation board，浅暖白背景带轻微玉色渐层。除中央英雄包装外，周围以模块化网格排布 7 到 8 个辅助模块：\n1. 开箱视图：展示翻盖打开后的双果位内托结构\n2. 三视图：正面、侧面、顶部的包装外观小图\n3. 内托结构放大：显示纸浆托、蜂窝底垫、顶部限位环、提取手位\n4. 运输护箱模块：显示外护箱、面单区、条码区、二维码占位区\n5. 刀模结构示意：production-intent dieline visualization，不要伪装成完全可生产文件\n6. 材质与工艺 swatches：特种纸、纸浆托、烫金、局部UV、压纹\n7. 关键尺寸注释：礼盒外尺寸、单果位净空、提手位置、透气孔避让逻辑\n8. 品牌故事小模块：小面积展示“夏季精品瓜礼”的定位语和产地徽记\n\n刀模与生产标注：在右下或下方安排一个可读但不抢戏的 dieline module。使用标准图例表达：红色实线裁切线、蓝色虚线压痕线、绿色出血线、紫色安全线、浅绿色透气孔、浅棕色内托缓冲区域、黄色粘胶位。标注内容要是 clean modular annotations, unit mm, bleed 3 mm, safety margin 5 mm, finished-size tolerance +-1 mm, die-cut tolerance +-0.5 mm, print registration tolerance +-0.3 mm, logistics label zone, barcode placeholder, QR placeholder, traceability code placeholder, batch/date placeholder。注意所有码区都必须是 clearly labeled placeholder zones, not fake readable codes.\n\n灯光与镜头：soft studio lighting, premium commercial packaging photography, realistic shadows, subtle reflections, balanced white background, sharp focus, high resolution, professional industrial design board, clean alignment, generous negative space, realistic scale, luxury ecommerce proposal board, landscape composition, 16:9 ratio. 英雄包装最突出，辅助模块清晰但更小，整体像真正给客户汇报的 packaging concept board。\n\n包装文案块：在画面中尝试渲染简短且清晰的上包装文字，避免密集长段落。可见文字控制为少量短词：\n品牌主标：麒麟西瓜\n英文副标：KIRIN WATERMELON\n提案标题：夏季精品礼箱\n辅助语：清甜脆爽 / 产地精选 / 双果礼赠\n角标占位：产地徽记 / 可变信息区 / 物流面单区 / 条码区 / 二维码区\n请将所有文字视为短标签式排版，保持高级感和留白，不要生成大段难读文本。\n\n最终效果要求：professional premium fruit ecommerce packaging proposal board, one oversized 45-degree hero package, photorealistic paper and corrugated texture, heavy-fruit protective insert, coherent opening structure, realistic rigid gift box plus shipping sleeve logic, production-intent dieline visualization, restrained luxury agricultural brand identity, clean technical annotations, physically plausible structure, elegant high-end Chinese packaging presentation.",
-     "likes": 73,
-     "retweets": 11,
-     "replies": 5,
-     "views": "10762",
-     "is_retweet": false,
-     "url": "https://x.com/songguoxiansen/status/2075785818342568177"
-    },
-    {
-     "id": "2075587589428703356",
-     "created_at": "Fri Jul 10 14:26:58 +0000 2026",
-     "text": "GPT Image 2提示词：\nUse case: product-mockup Asset type: professional electronics packaging proposal board  创建一张“Apple MacBook 高端电商包装提案板”的非官方概念设计，产品为一台轻薄银色高端笔记本电脑。品牌气质极简、精密、安静、现代，面向专业创作者、商务人士和高端科技消费者。不得暗示这是 Apple 官方发布或真实量产方案。  画布采用 16:9 横向构图、干净的暖白色专业设计提案板背景。画面中心放置一个超大尺寸主包装展示图，占整体画面约 50%–55%，作为绝对第一视觉焦点。主包装以 45° 立体透视展示：珍珠白天地盖硬质零售礼盒微微开启，内部是一台纤薄银色笔记本电脑，盒盖表面只有克制的笔记本轮廓图与简洁产品名；真实高白纸张、灰板厚度、精密盒角和细腻哑光触感清晰可见。主包装旁少量摆放银色笔记本、电源适配器和编织充电线，所有物体真实落地、有接触阴影，不漂浮。  内部结构必须符合真实电子产品包装逻辑：一体成型环保纸浆托盘，四角悬浮限位并形成缓冲区，电脑底部不直接接触硬质盒底；屏幕与键盘之间设置薄型保护衬纸；左右设置手指取物缺口；电源适配器和充电线置于独立纸质分仓，不与电脑表面接触；预留开盖净空，避免盒盖压迫设备；纸托具有清晰加强筋、圆角和合理壁厚。零售礼盒外部另展示一个原色 B 楞高强瓦楞运输外箱，带四角缓冲、封箱结构、防拆封签、物流面单占位区、条码占位区和电池运输标识占位区。  主包装周围使用 7–9 个小尺寸辅助模块，按严格网格排列，不能抢夺主视觉： 1. 零售礼盒正面、背面、顶部和侧面正投影视图； 2. 开箱效果图； 3. 纸浆内托爆炸结构图； 4. 笔记本、电源适配器和线缆摆放示意； 5. 零售礼盒与运输外箱的双层防护关系； 6. production-intent dieline visualization，待结构工程师复核； 7. 材料剖面与厚度示意； 8. 珍珠白、雾银灰、石墨黑、冷灰蓝色彩样； 9. 哑膜、击凸、局部 UV 工艺样片与简短生产注释。  刀模与工程图例采用：红色实线代表裁切线，蓝色虚线代表压痕线，绿色线代表出血线，紫色线代表安全线，灰色线代表参考线，黄色区域代表粘胶位，浅棕色区域代表纸浆内托和缓冲结构，亮白区域代表局部 UV，浮雕阴影区域代表击凸。标注单位 mm、每边 3 mm 出血、5 mm 安全边距、成品尺寸公差 ±1 mm、模切公差 ±0.5 mm、印刷套位公差 ±0.3 mm，所有数据标注为“建议值，打样确认”。预留物流面单、条码、序列号、二维码、合规信息和电池运输标识的占位区域，不生成可扫描的真实代码。  视觉设计保持 Apple-inspired minimal technology aesthetic，但不要复制现有官方包装版式。珍珠白为主色，雾银灰与石墨黑为辅助色，极少量冷灰蓝点缀。字体为克制的现代无衬线字体，留白充足，信息层级清楚。盒面工艺仅使用细腻哑膜、轻微击凸和克制局部 UV，不使用烫金、繁复图案或廉价促销元素。  摄影与渲染：photorealistic premium electronics packaging, oversized 45-degree hero box, realistic rigid paperboard and molded pulp texture, precise industrial packaging structure, soft diffused studio lighting, subtle contact shadows, realistic scale, clean modular technical annotations, award-winning packaging presentation, high-resolution commercial product visualization, crisp edges, restrained luxury, sophisticated negative space.  画面短文案仅使用： “MACBOOK” “PACKAGING CONCEPT” “RETAIL BOX” “SHIPPING BOX” “MOLDED PULP TRAY” “PROTECTION SYSTEM” “SUGGESTED DIMENSIONS” 其余密集说明以短横线和规范占位块表达，避免长段落乱码。  负面提示词： official Apple launch material, counterfeit retail packaging, cluttered board, tiny hero package, cheap promotional style, excessive decoration, gold foil, floating laptop, laptop intersecting tray, generic plastic insert, EPS foam, missing corner protection, adapter touching laptop, unsupported device, unrealistic box thickness, fragile shipping box, contradictory opening structure, impossible dieline, fake readable barcode, scannable QR code, dense illegible text, spelling errors, distorted laptop, wrong perspective, weak focal hierarchy, harsh shadows, low quality, blurry, watermark",
-     "likes": 28,
-     "retweets": 6,
-     "replies": 4,
-     "views": "15040",
-     "is_retweet": false,
-     "url": "https://x.com/songguoxiansen/status/2075587589428703356"
-    },
-    {
-     "id": "2075499136615628972",
-     "created_at": "Fri Jul 10 08:35:29 +0000 2026",
-     "text": "兄弟们，赶紧抓紧时间蹬\n\nChatGPT Work和Codex又要重置了\n\n我已经在蹬的路上了",
-     "likes": 1,
-     "retweets": 0,
-     "replies": 2,
-     "views": "2012",
-     "is_retweet": false,
-     "url": "https://x.com/songguoxiansen/status/2075499136615628972"
-    },
-    {
-     "id": "2075412287276638687",
-     "created_at": "Fri Jul 10 02:50:23 +0000 2026",
-     "text": "一张图告诉你 GPT 5.6的3个模型怎么选 https://t.co/zJ4qvgjB8z",
-     "likes": 4,
-     "retweets": 1,
-     "replies": 0,
-     "views": "2936",
-     "is_retweet": false,
-     "url": "https://x.com/songguoxiansen/status/2075412287276638687"
     }
    ],
    "disp_name": "松果先森"
@@ -1139,18 +1128,29 @@
    "handle": "AdrianPunk115",
    "name": "Adrian Punk",
    "bio": "AI视觉/AI小白教程\n3个月挣了8位数\n中科大管理学硕士｜Punk系列Skills 作者\n偶尔搞抽象，精华都在Articles",
-   "followers": 28993,
+   "followers": 28999,
    "following": 497,
    "profile_url": "https://x.com/AdrianPunk115",
    "tweets": [
     {
-     "id": "2092433808645894515",
-     "created_at": "Wed Aug 26 02:07:50 +0000 2026",
-     "text": "几天前朋友说要恶补AI知识，还不知道啥是Agent。\n\n当时我推荐他用Workbuddy... 他一直没开始用，因为办公用的是飞书。\n\n现在好了，豆包工作 应该更适合他了。\n\n我写这个教程，其实就是为了他这样处境的国内朋友，完全0基础，也可以不费力去学的。 https://t.co/YgA6JyOofu",
+     "id": "2092441148979888365",
+     "created_at": "Wed Aug 26 02:37:00 +0000 2026",
+     "text": "这设计太考验人性了吧 https://t.co/TFRbEdUCgF",
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "47",
+     "views": "319",
+     "is_retweet": false,
+     "url": "https://x.com/AdrianPunk115/status/2092441148979888365"
+    },
+    {
+     "id": "2092433808645894515",
+     "created_at": "Wed Aug 26 02:07:50 +0000 2026",
+     "text": "几天前朋友说要恶补AI知识，还不知道啥是Agent。\n\n当时我推荐他用Workbuddy... 他一直没开始用，因为办公用的是飞书。\n\n现在好了，豆包工作 应该更适合他了。\n\n我写这个教程，其实就是为了他这样处境的国内朋友，完全0基础，也可以不费力去学的。 https://t.co/YgA6JyOofu",
+     "likes": 2,
+     "retweets": 0,
+     "replies": 0,
+     "views": "600",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092433808645894515"
     },
@@ -1158,10 +1158,10 @@
      "id": "2092429069153624078",
      "created_at": "Wed Aug 26 01:49:00 +0000 2026",
      "text": "让人破防的文字，互联网真的有温暖 https://t.co/gT8wjE2TL9",
-     "likes": 0,
+     "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "205",
+     "views": "589",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092429069153624078"
     },
@@ -1169,10 +1169,10 @@
      "id": "2092416990010859635",
      "created_at": "Wed Aug 26 01:01:00 +0000 2026",
      "text": "你见过最沉着住气的人是什么样子？ https://t.co/lnjY9pztc1",
-     "likes": 3,
+     "likes": 6,
      "retweets": 0,
      "replies": 0,
-     "views": "734",
+     "views": "1380",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092416990010859635"
     },
@@ -1180,10 +1180,10 @@
      "id": "2092410274682954143",
      "created_at": "Wed Aug 26 00:34:19 +0000 2026",
      "text": "https://t.co/MlZavQLcsy",
-     "likes": 38,
-     "retweets": 0,
-     "replies": 26,
-     "views": "2387",
+     "likes": 57,
+     "retweets": 1,
+     "replies": 37,
+     "views": "4905",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092410274682954143"
     },
@@ -1191,10 +1191,10 @@
      "id": "2092404909983342863",
      "created_at": "Wed Aug 26 00:13:00 +0000 2026",
      "text": "人在最迷茫的时刻该做什么？！ https://t.co/Hzx0S5rNDq",
-     "likes": 22,
-     "retweets": 6,
-     "replies": 0,
-     "views": "2798",
+     "likes": 35,
+     "retweets": 9,
+     "replies": 3,
+     "views": "4197",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092404909983342863"
     },
@@ -1205,7 +1205,7 @@
      "likes": 10,
      "retweets": 8,
      "replies": 1,
-     "views": "2429",
+     "views": "2498",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092276376850374851"
     },
@@ -1216,7 +1216,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 16,
-     "views": "1315",
+     "views": "1353",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092256935898685674"
     },
@@ -1227,7 +1227,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 1,
-     "views": "780",
+     "views": "832",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092256495035658646"
     },
@@ -1238,7 +1238,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 5,
-     "views": "1210",
+     "views": "1336",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092255780561113415"
     },
@@ -1248,8 +1248,8 @@
      "text": "我的前同事们，知道豆包Agent的反应： https://t.co/15HarAc7LG",
      "likes": 2,
      "retweets": 0,
-     "replies": 5,
-     "views": "4205",
+     "replies": 8,
+     "views": "4925",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092249013877944761"
     },
@@ -1260,7 +1260,7 @@
      "likes": 9,
      "retweets": 2,
      "replies": 4,
-     "views": "2900",
+     "views": "2998",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092244855493955820"
     },
@@ -1271,7 +1271,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 1,
-     "views": "956",
+     "views": "964",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092232775726420302"
     },
@@ -1279,10 +1279,10 @@
      "id": "2092217613187473503",
      "created_at": "Tue Aug 25 11:48:45 +0000 2026",
      "text": "真的不用起来吗？！ https://t.co/fKgy52NVdi",
-     "likes": 33,
-     "retweets": 16,
+     "likes": 34,
+     "retweets": 17,
      "replies": 29,
-     "views": "8940",
+     "views": "9220",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092217613187473503"
     },
@@ -1293,7 +1293,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 1,
-     "views": "783",
+     "views": "795",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092211591970439571"
     },
@@ -1304,7 +1304,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 1,
-     "views": "1065",
+     "views": "1091",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092190497964015985"
     },
@@ -1315,7 +1315,7 @@
      "likes": 6,
      "retweets": 0,
      "replies": 16,
-     "views": "1767",
+     "views": "1799",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092178417756303662"
     },
@@ -1323,10 +1323,10 @@
      "id": "2092176129083982108",
      "created_at": "Tue Aug 25 09:03:54 +0000 2026",
      "text": "https://t.co/3dypyfu4lA",
-     "likes": 126,
+     "likes": 127,
      "retweets": 18,
      "replies": 44,
-     "views": "20507",
+     "views": "21262",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092176129083982108"
     },
@@ -1337,7 +1337,7 @@
      "likes": 4,
      "retweets": 0,
      "replies": 1,
-     "views": "980",
+     "views": "993",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092166338127237482"
     },
@@ -1348,20 +1348,9 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "802",
+     "views": "808",
      "is_retweet": false,
      "url": "https://x.com/AdrianPunk115/status/2092165603444617340"
-    },
-    {
-     "id": "2092152865741570092",
-     "created_at": "Tue Aug 25 07:31:28 +0000 2026",
-     "text": "这几天有几个朋友知道我在做 AI，陆续来找我聊。\n\n有蔚来的项目管理经理，有医生，有银行的行长，也有做保险 To B 的客户经理。大家行业不一样，但问的问题其实很像：\n\n我现在要怎么开始学 AI？\nAI 到底能怎么帮到我现在的工作？\n\n他们其实也不算完全没用过 AI，豆包、DeepSeek 都会用，但基本就是问问题、写写东西。至于现在天天听到的 Agent、Skill、MCP，很多人其实是一脸懵，也不知道跟自己有什么关系。\n\n我给他们的建议反而很简单。\n\n第一，先别急着学一堆概念，先养成用 AI 的习惯。以前遇到问题先百度、问同事，现在可以先多问一句 AI。写邮件、看材料、准备汇报、整理会议纪要，都可以先让它试试。\n\n第二，把自己工作里那些重复、烦、耗时间的事情列出来。很多人一直问“AI 能帮我干什么”，其实更应该先看“我每天到底在干什么”。\n\n比如客户经理可能天天都在查客户资料、准备拜访、写跟进；银行的人可能经常要看材料、做汇报、整理数据。先挑一件最烦的，让 AI 帮你做。\n\n等你慢慢发现，光聊天已经不够用了，每次都要自己复制文件、整理资料、做下一步，这时候再去接触 WorkBuddy、Codex 这种 Agent 就很自然了。\n\n然后我直接推荐他们去用 WorkBuddy。\n\n原因也很简单，对国内职场人来说，它接国内生态会更顺手，而且你开始接触的就不只是“聊天”了。\n\n可以直接把任务交代给它：帮我整理这些文件。根据这些资料做一份客户拜访准备。把这周的工作记录整理成周报。按照我的要求修改这份材料。\n\n你会慢慢从“问 AI 一个问题”，变成“指令 AI 去完成一件事情”。\n\n这个变化很重要。\n\n而且当你把同一件事情反复跑几次以后，你会发现自己其实已经有一套固定的方法了：先看什么资料、怎么判断、按照什么格式输出、哪些地方要特别注意。\n\n这时候，就可以把这一套东西沉淀成一个 Skill。\n\n以后再碰到类似的工作，不需要每次从头教。\n\n所以如果一个 0 基础的打工人问我怎么开始学 AI，我现在大概会给他这条路：\n\n先用豆包、DeepSeek养成习惯，再去 WorkBuddy 里真正把工作交给 AI，最后把反复跑通的方法沉淀成自己的 Skill。",
-     "likes": 31,
-     "retweets": 3,
-     "replies": 27,
-     "views": "4282",
-     "is_retweet": false,
-     "url": "https://x.com/AdrianPunk115/status/2092152865741570092"
     }
    ],
    "disp_name": "AdrianPunk"
@@ -1370,7 +1359,7 @@
    "handle": "MissCat_AI",
    "name": "猫小姐学AI",
    "bio": "不是在搞 AI，就是在搞 AI 的路上\n\n🤝 合作DM：\nhttps://t.co/KeJ114jIg6",
-   "followers": 26899,
+   "followers": 26900,
    "following": 136,
    "profile_url": "https://x.com/MissCat_AI",
    "tweets": [],
@@ -1380,7 +1369,7 @@
    "handle": "xiaoxiaodong01",
    "name": "小小东",
    "bio": "国际 不知名 提示词专家 / 植物爱好者 / AI作图基建\nskills/chrom plugin/prompt/art/logo/ppt\n 微信:：newbe2012\n有星球 营业中",
-   "followers": 23967,
+   "followers": 23973,
    "following": 55,
    "profile_url": "https://x.com/xiaoxiaodong01",
    "tweets": [
@@ -1388,10 +1377,10 @@
      "id": "2092265187013521409",
      "created_at": "Tue Aug 25 14:57:47 +0000 2026",
      "text": "好喜欢这种贴纸，freestyle的感觉\n\n感觉这个提示词变成一个skills 会很有趣。\n\n小小东成员提示词库~~进度公示：\n今晚在同步更新英文版本所有提示词\n到成员提示词库中了\n\n感觉英文版明天就能成功上线。\n\n如下提示词需要垫图， 本次样例中垫图是第二、四张。\n\nprompt by xiaoxiaodong:\n\n```\nFor the lower half, use the uploaded reference image as the basis for a new visual language and presentation logic. The reconstruction should feel highly intelligent, adaptive, and conceptually strong rather than following a fixed template. Interpret the original photograph first, then spontaneously generate a small set of simplified visual symbols, abstract shapes, poetic fragments, and graphic relationships that are genuinely connected to its subject, mood, action, or hidden meaning.\n\nThe layout should feel intuitive, improvised, and almost casually assembled, yet remain visually sophisticated and perfectly responsive to the theme. Avoid rigid grids or overly calculated symmetry. Allow elements to float, shift, overlap, separate, or form unexpected relationships across generous negative space, as if they were fragments of visual thought placed naturally on a page. Each photograph should generate its own unique composition rather than repeating the same arrangement.\n\nUse a tactile, handmade editorial language inspired by the reference image: simple cut-paper-like shapes, softly imperfect silhouettes, hand-drawn marks, loose geometric forms, subtle grain, paper texture, lightly printed or stamped surfaces, naïve symbolic imagery, and occasional handwritten text. Forms may be extremely simple—even childlike at first glance—but their selection and placement should reveal an intelligent interpretation of the photograph.\n\nInstead of literally reconstructing the photographed scene, translate its essential meaning into a small visual vocabulary. A person, object, gesture, landscape, architectural detail, weather condition, or spatial relationship may become an unexpected symbol, metaphor, diagram, or poetic association. Different visual fragments may communicate different layers of the same idea, creating a loose visual conversation rather than a single literal illustration.\n\nTypography should also feel spontaneous and context-sensitive. Use only a few meaningful words, short phrases, poetic observations, or conceptual notes generated specifically from the image. Text may appear handwritten, lightly typeset, tilted, offset, or placed in seemingly accidental locations, but its position should always strengthen the visual rhythm and thematic meaning. It should feel like a private annotation, fleeting thought, visual diary entry, or poetic observation rather than conventional poster information.\n\nThe final result should combine the freedom of an artist’s sketchbook, the intelligence of editorial art direction, the intimacy of a visual diary, and the restraint of an independent art publication. It should feel playful, poetic, slightly naïve, tactile, and spontaneous, while still being highly intentional, refined, and conceptually precise.\n```",
-     "likes": 221,
-     "retweets": 25,
-     "replies": 10,
-     "views": "6735",
+     "likes": 240,
+     "retweets": 26,
+     "replies": 13,
+     "views": "7622",
      "is_retweet": false,
      "url": "https://x.com/xiaoxiaodong01/status/2092265187013521409"
     },
@@ -1399,10 +1388,10 @@
      "id": "2092191356177576004",
      "created_at": "Tue Aug 25 10:04:25 +0000 2026",
      "text": "GPT2 x 禅意 x 极简 x 美学提示词 x VOL.060\n\n好喜欢这组风格，原始提示词和对应skills\n即将在这个github目录中展示，请留意：\n\nGitHub：\nhttps://t.co/YtNCZwtBht\n\n因为我出门散步了， 所以我/goal了，让codex 大概三个小时候会更新上来。\n\n中式意境的感觉，真无敌",
-     "likes": 86,
+     "likes": 92,
      "retweets": 12,
-     "replies": 28,
-     "views": "7420",
+     "replies": 31,
+     "views": "7951",
      "is_retweet": false,
      "url": "https://x.com/xiaoxiaodong01/status/2092191356177576004"
     },
@@ -1413,7 +1402,7 @@
      "likes": 8,
      "retweets": 3,
      "replies": 25,
-     "views": "10852",
+     "views": "11514",
      "is_retweet": false,
      "url": "https://x.com/xiaoxiaodong01/status/2092183407778509243"
     },
@@ -1421,10 +1410,10 @@
      "id": "2092176222445035612",
      "created_at": "Tue Aug 25 09:04:16 +0000 2026",
      "text": "GPT2 x 几何 x 抽象 x  灵魂 x 美学提示词 x VOL.058\n\n或许\n一条路，可被理解成去向。\n一扇窗，可变成距离\n一个背影，可以被重新组织成关于等待、离开或靠近的空间关系。\n\n这组提示词的重点：\n是先读懂这些没被直接说出来的东西。\n再用很少的几何元素，重新搭起一个观念场景。\n\n删掉繁杂的干扰。\n保留比例、路径、距离、重心和象征。\n\n最后看到的，是从照片里长出来的另一层意思。\n\n很适合那些第一眼普通，细看却有情绪、有关系、有想象空间的照片。\n\n提示词 如下 prompt by xxd:\n\n```\n☺️😚😛\n更好的逻辑处理如下文本：\n请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为基于潜台词与寓意的艺术化重构；\n\n上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。\n\n下半部分提取照片中最具识别性的**主体、轮廓、姿态、叙事关系与情绪隐喻**，不仅重现“看见了什么”，更要理解原图“在暗示什么、象征什么、让人联想到什么”，再将其重构为一种**几何极简、诗意浪漫、但结构严谨**的图形化场景。不要完整描摹原场景，也不要照搬现实细节，而是只保留最能成立原图精神的核心主题与视觉逻辑，把复杂信息转译成少量清晰而有意味的形体、路径、地貌、建筑感、空间层次或象征性对象，让人一眼感到与原图同源，同时感受到被提升后的寓言感与诗意。\n\n构图应建立在**几何秩序与理性结构**之上，具有类似达·芬奇式的严谨感：重视比例、轴线、透视、主次秩序、块面关系、路径引导与空间平衡。主体可被转化为简化的山体、建筑体、器物体、人物体、道路、平台、穹顶、拱形、圆盘、树状体或其他象征性几何形体，通过少量关键元素搭建一个安静而浪漫的“观念景观”。下半部分应有大量淡色留白与呼吸空间，复杂背景主动删减，只留下支撑主题与寓意的必要场域，让空白、距离和秩序本身参与叙事。\n\n视觉语言采用**几何化平面图形 + 柔和手工质感**：形体清晰概括，边缘克制，细节简化，允许轻微纸感、粉感或版画感，但避免贴纸感、3D感、写实感和过度装饰。画面整体既有现代图形设计的简洁，也有浪漫叙事插画的诗性，像一幅被理性结构约束过的梦境地图、记忆风景或寓意图解。\n\n配色延续当前逻辑：整体采用**柔和、通透、略微去饱和的高级色系**，并以极浅、干净、接近白色的淡色背景作为大面积呼吸场。以**浅粉蓝、雾蓝、天空蓝、空气感冷调蓝**营造主氛围，再以**象牙白、奶油白、浅米色、柔和灰绿、建筑中性色**保持平衡；可加入少量 **blush pink、soft peach、dusty rose 或 muted blush** 作为局部点睛，使画面更具治愈感、诗意与精致层次。避免脏灰、过强反差、高饱和撞色和廉价复古感。\n\n文字不预设固定标题、编号、地点或语种，也不做菜单式信息。应根据照片的主题、情绪、寓意、记忆或文化语境，自由生成极少量真正有意义的字、词、短句或片段，并通过高级编辑排版自然进入留白区域。文字应小、轻、克制、精致，可沿轴线、边缘、路径或主体周围排布，像独立出版物中的注记、题签或观察性短语，与几何构图形成安静而聪明的关系。\n\n整体气质应像一本独立出版的艺术旅行刊物或视觉寓言手册：**极简、诗意、浪漫、理性、克制、带有几何秩序与观念美感。** 避免完整写实风景、信息堆积、复杂装饰、主体过满、背景过实、模板化海报感、电商插画感、卡通感和廉价拼贴感。\n😋🙃🙂\n```",
-     "likes": 33,
+     "likes": 34,
      "retweets": 7,
      "replies": 5,
-     "views": "6463",
+     "views": "6690",
      "is_retweet": false,
      "url": "https://x.com/xiaoxiaodong01/status/2092176222445035612"
     },
@@ -1435,7 +1424,7 @@
      "likes": 5,
      "retweets": 1,
      "replies": 3,
-     "views": "2898",
+     "views": "3083",
      "is_retweet": false,
      "url": "https://x.com/xiaoxiaodong01/status/2092167606409347486"
     },
@@ -1443,10 +1432,10 @@
      "id": "2092146590870053350",
      "created_at": "Tue Aug 25 07:06:32 +0000 2026",
      "text": "我一口气开源56个skills了，有点东西！\n\n56个skills相当于56个士兵\n每个都各有特点\n每个士兵skills，灵活度一绝，而不是死板！\n\n和别人的skills不一样\n小小东每一个士兵skills，可以满足各种用途 （排版、用途、是否批量）\n它会先问询理解你的需求后，再专业稳定出图\n\n士兵更是能批量出图\n士兵还能一次给出多种用途的所有图片\n\n甚至，你可以在Claude中用，也并没有固定某个生图模型，灵活度拉满。\n\n不光可以有质量，更是可以有效率\n\n超级适合喜欢手绘美图的人，这些skills会让你\n创意无限、美感多多\n\n其中一个士兵skills地址：\nhttps://t.co/J3gmPiRR7g\n\n从001-056的url规律\n\n聪明的你， 能从github项目地址中，找出所有士兵。\n\n我做提示词， 也喜欢强大的适用面广\n做skills也是\n\n感觉一大波小红书博主，会爱上我，尤其是，当你深度掌握我这些skills的使用诀窍，尤其是批量逻辑\n\n不只上下排版，更多用法，灵活解锁\n\n甚至因为批量逻辑，你可以接单盈利！",
-     "likes": 362,
-     "retweets": 49,
+     "likes": 372,
+     "retweets": 50,
      "replies": 22,
-     "views": "29735",
+     "views": "30943",
      "is_retweet": false,
      "url": "https://x.com/xiaoxiaodong01/status/2092146590870053350"
     },
@@ -1457,7 +1446,7 @@
      "likes": 25,
      "retweets": 6,
      "replies": 17,
-     "views": "4421",
+     "views": "4479",
      "is_retweet": false,
      "url": "https://x.com/xiaoxiaodong01/status/2092041044431139293"
     },
@@ -1465,10 +1454,10 @@
      "id": "2091730850723586307",
      "created_at": "Mon Aug 24 03:34:31 +0000 2026",
      "text": "GPT2 x 暖色 x 色盘 x 美学提示词 x VOL.056\n\n一组魔法级别的提示词\n能把你那些独特的情绪\n变成一幅带有手绘痕迹的视觉记忆。\n\n强调了：\n笔触可以停顿。\n颜色可以偏一点。\n形态可以有一点笨拙。\n\n提示词如下：\n\n```\n😩😰😨😮‍💨\n请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，延续上下双层逻辑：上半部分为真实摄影，下半部分为对原图核心意象的绘画式提炼，上下形成现实与记忆之间的呼应。\n\n上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级摄影调色，使其具有艺术杂志、独立出版物与展览摄影质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。\n\n下半部分提取照片中最具识别性的**主体、轮廓、姿态与叙事关系**，进一步判断原图真正成立的核心主题、视觉隐喻或审美关系，只保留这一层最值得被记住的信息重新创作。不要完整复刻场景，不追求背景还原，也不要把所有物体逐一转换成插画；主动删除无关环境与细碎信息，只留下一个核心主体及极少数真正参与叙事的关系，使画面像一段被重新整理过的视觉记忆。\n\n下半部分以**极度浅色背景和大面积留白**作为主要空间。背景色不固定，根据原图综合色温与情绪智能匹配为接近白色的极浅综合色，可微暖、微冷或带极轻微色相，但必须轻、净、安静。空白本身承担空气、距离、时间和情绪，让主体拥有充分呼吸感。\n\n构图强调**视觉重心、尺度关系、负空间、方向张力与不完全对称**。主体可偏置、局部裁切、悬置或落在低重心区域，通过大小反差和大片留白建立美感。若原图真正动人的是人与空间、物与环境、两个对象之间的距离或某种偶然关系，应优先保留这种关系，而不是单独描绘物体本身。\n\n绘画语言采用松弛、稚拙而具有艺术感的**不透明水粉、丙烯、粉蜡笔与干性油画质感**，以概括色块、手绘轮廓、局部刮擦、覆盖和不完全填满的笔触塑造主体。形体允许略带笨拙和轻微比例夸张，但主体身份与关键姿态必须准确。画面保留真实绘画中的停顿、修改、露底与偶然痕迹，避免精修得过于光滑。\n\n配色从原图提炼综合色温和最具有生命力的颜色，再转译成一种**温暖、明快、略带稚拙感的艺术家色盘**。整体以奶油黄、杏色、粉橘、珊瑚粉、旧玫瑰等温暖色块，与天空蓝、浅青绿、薄荷绿、灰绿等清凉色形成松弛的冷暖碰撞；允许极少量砖红、橙红、深绿、土褐或黑色作为视觉锚点。颜色不必完全服从真实物体，可根据画面节奏进行局部换色、错色和跳色，但必须保持整体和谐。色块应具有粉质、不透明、略微褪色却依然鲜活的感觉，避免莫兰迪式全面降灰、统一粉彩滤镜、脏褐色和高饱和数字色。\n\n文字不预设固定标题、地点、编号或语种，根据原图的主题、动作、环境、情绪、声音、记忆或隐喻自由生成极少量真正有意义的字、词、短句或片段。文字可以像绘画的一部分自然进入留白、靠近主体、沿空间方向展开，甚至保留少量手写、错位或不完全规整的感觉；整体仍保持克制，不为了“像海报”而机械添加信息。\n\n整体追求**极浅背景、巨大留白、少量主体、鲜活而温暖的色彩关系、稚拙手绘感与明确的视觉隐喻**。画面应安静但不寡淡，治愈但不甜腻，艺术但不故作高级，像一本被艺术家亲手画过的独立出版物。避免完整场景复刻、背景填满、物件罗列、统一粉彩滤镜、精致商业插画、光滑矢量、卡通模板和为了丰富而加入无意义元素。\n🥴😵‍💫😓🥱\n```",
-     "likes": 200,
+     "likes": 201,
      "retweets": 20,
      "replies": 31,
-     "views": "20930",
+     "views": "21222",
      "is_retweet": false,
      "url": "https://x.com/xiaoxiaodong01/status/2091730850723586307"
     }
@@ -1484,13 +1473,35 @@
    "profile_url": "https://x.com/VoxcatAI",
    "tweets": [
     {
+     "id": "2092443598092751287",
+     "created_at": "Wed Aug 26 02:46:44 +0000 2026",
+     "text": "【落日焦糖 + 浅棕麂皮】加州公路黄金时刻\n\n色盘：渐变夕阳橙紫（暖调渐变） + 浅棕麂皮/丹宁蓝 + 阳光金边\n氛围：自由不羁、旷野公路、电影黄金时刻 \n\n关键提示词👇\nCinematic golden hour 35mm film photography, 1970s retro aesthetic, Kodak Portra 400. A young woman in a vintage brown suede jacket and faded denim, sitting on the hood of an old classic car, hair catch-lit by golden sun, staring dreamily at the horizon. Minimalist horizon composition, vast sunset sky with golden orange blending into soft lavender, clean negative space. Golden amber, burnt orange, and faded denim palette, warm rim lighting, soft shadow falloff, authentic film grain.",
+     "likes": 0,
+     "retweets": 0,
+     "replies": 0,
+     "views": "111",
+     "is_retweet": false,
+     "url": "https://x.com/VoxcatAI/status/2092443598092751287"
+    },
+    {
+     "id": "2092439264948813926",
+     "created_at": "Wed Aug 26 02:29:31 +0000 2026",
+     "text": "这种「卧室手机随手拍」的感觉还挺有意思。\n\n关键不是精致，而是 24–28mm 广角 + 近大远小 + 随意截断构图：腿和裸足直接进入近前景，人物反而只露出一部分，再用卡通贴图做遮挡。浅灰墙、空调、凌乱床铺这些普通住宅元素一加，AI 味会淡很多。\n\n自然窗光、轻微过曝、低对比，最后出来就很像随手发到社交媒体的一张生活照。\n\n提示词(配图为gpt image2)👇\n\n明确成年的女性，居家卧室手机随拍，半躺在床上，一条腿大幅屈膝高抬，膝盖靠近画面左侧，小腿斜向右上方伸展，裸足进入右上角近前景，形成明显的 foreshortening 与近大远小透视。身体下半部被可爱卡通贴图遮挡，一只手自然伸向贴图遮住的胯部位置。\n\n24–28mm 手机广角近距离拍摄，腿部占据画面主体，身体与头部部分出画，随意截断式构图。浅灰墙面、白色壁挂空调、凌乱床铺，普通住宅卧室。自然窗光，肤色明亮，轻微过曝，低对比，真实手机画质，casual bedroom snapshot，生活化社交媒体随手拍。",
+     "likes": 1,
+     "retweets": 0,
+     "replies": 0,
+     "views": "152",
+     "is_retweet": false,
+     "url": "https://x.com/VoxcatAI/status/2092439264948813926"
+    },
+    {
      "id": "2092280308687388845",
      "created_at": "Tue Aug 25 15:57:52 +0000 2026",
      "text": "【墨绿暗调 + 唇红微卷】90年代复古港风胶片\n\n色盘：复古祖母绿（暗冷） + 经典正红/复古红唇（浓郁暖） + 暖黄光晕\n氛围：王家卫式故事感、浓郁复古、暧昧港风\n\n关键提示词👇\n1990s Hong Kong cinema photography style, vintage 35mm film grain with warm tungsten glow. A stylish Asian woman with voluminous retro curly black hair and vintage red lips, wearing a dark emerald green silk slip dress, resting chin on her hand beside a minimalist vintage cafe window. Minimalist composition, deep solid emerald wall and muted warm light, ample negative space. Emerald green, deep crimson, and warm ivory skin color palette, soft diffused lighting, slight halation on highlights, low contrast shadows, rich nostalgic mood",
-     "likes": 16,
+     "likes": 17,
      "retweets": 1,
      "replies": 1,
-     "views": "1592",
+     "views": "1733",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2092280308687388845"
     },
@@ -1498,10 +1509,10 @@
      "id": "2092217858084548635",
      "created_at": "Tue Aug 25 11:49:43 +0000 2026",
      "text": "拿一张猫娘自拍做首帧，用本地 MiniMax H3 生成了10秒舞蹈视频。\n没有动作参考，只靠分秒级提示词控制肩部律动、左右摆胯、body wave、猫尾摆动和结尾定格，画面与音乐节拍同步。\n\n视频提示词👇\nFor the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.\n\nintegrated_multimodal_description: [Shot 1] Live-action, playful and confidently sensual dance video, vertical 9:16, one continuous static mirror-selfie shot. Preserve the clearly adult woman's exact body proportions, pink bob hairstyle, cat ears, pink-and-black headphones, white cropped T-shirt, black cat-pattern bottoms, bare feet, fluffy cat tail, black smartphone, bedroom layout, mirror frame, soft pink-and-white color palette, and bright natural window lighting shown in <Picture 1>. The phone remains securely held in her right hand in front of her face throughout the video, maintaining the original mirror-selfie perspective.\n\nDuring 00:00–00:02, she begins with a gentle shoulder roll and shifts her weight smoothly from her left leg to her right leg. Her left hand rises naturally from beside her thigh and rests lightly on her left hip. Her hips begin moving in a small, controlled side-to-side rhythm while her upper body remains relaxed.\n\nDuring 00:02–00:05, she performs two slow rhythmic hip sways, first toward the left and then toward the right, synchronized precisely with the music. Her knees bend slightly with each beat, her waist turns naturally, and her left hand traces a short, elegant movement from her hip to the side of her waist. Her pink hair moves softly, the cat ears and headphones remain securely in place, and the fluffy cat tail sways naturally in the opposite direction of her hips.\n\nDuring 00:05–00:07.500, she performs one smooth, controlled body wave from her shoulders through her torso to her hips. She takes one small step closer to the mirror, keeps her balance, and makes a playful quarter-turn to show a slightly angled pose while still holding the phone directly in front of her face. The movement is confident and flirtatious but tasteful, with realistic body mechanics and no exaggerated anatomy.\n\nDuring 00:07.500–00:10.000, she turns smoothly back toward the mirror, performs one final small hip sway, then settles into a confident ending pose with one knee slightly bent, her left hand resting on her hip, and the cat tail making one soft final flick. She holds the final pose steadily during the last half second.\n\nMaintain a stable mirror reflection and one consistent person throughout. Keep the camera and mirror completely stationary. Natural human anatomy, realistic joints, stable hands and feet, exactly five fingers on each visible hand, consistent phone shape, consistent clothing, and physically natural motion. The clothing remains securely in place throughout. No nudity, no wardrobe malfunction, no transparent clothing, no additional exposure, no explicit sexual gestures, no touching of intimate areas, no additional people, no duplicate body, no duplicate reflection, no extra limbs, no distorted hands, no deformed feet, no changing body proportions, no changing room layout, no camera zoom, no camera shake, no cut, no subtitles, no logos, and no visible text.\n\noverall_soundscape: Soft bare-foot taps on the bedroom rug, subtle clothing movement, and a faint natural room tone. No speech, no breathing sounds, and no additional human voices.\n\nnon_diegetic_music: A playful modern electropop dance instrumental at approximately 105 BPM, with a clean bass pulse, soft electronic claps, bright synth accents, and clearly defined beats synchronized with each hip sway and the body wave. No singing and no spoken vocals.",
-     "likes": 21,
+     "likes": 23,
      "retweets": 0,
-     "replies": 22,
-     "views": "2558",
+     "replies": 24,
+     "views": "2623",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2092217858084548635"
     },
@@ -1509,10 +1520,10 @@
      "id": "2092180573242749020",
      "created_at": "Tue Aug 25 09:21:34 +0000 2026",
      "text": "最近很喜欢这种 暮色深蓝 × 琥珀暖光 的配色。\n\n蓝调时刻本身就很适合 Cos：天空负责大面积冷色留白，城市灯光只留一点暖琥珀，人物夹在冷暖交界里，很容易做出电影开场帧的感觉。\n\n这次直接拿它做随机角色实验：米哈游真人 Cos、汉服、动漫角色都可以跑，服装也可以往泳装、贴身造型这类方向随机，让角色身材轮廓更明确。\n\n【暮色深蓝 + 琥珀暖光】天台蓝调时刻微醺\n\n色盘：天际深暮蓝（主冷） + 暖琥珀微光（点缀暖） + 浅卡其风衣\n氛围：孤独浪漫、电影开场帧、都市夜幕初降\n\nChinematic Blue Hour 35mm film portrait, Kodak Vision3 500T aesthetic. A young woman with messy shoulder-length dark hair, wearing a loose beige trench coat, leaning on a high-rise rooftop concrete ledge, backlit by distant warm amber city bokeh, looking sideways with a melancholic relaxed expression. Minimalist composition, deep twilight indigo blue sky as the dominant background, negative space. Twilight blue and warm amber color palette, soft ambient twilight glow, lifted soft shadows, delicate film grain, poetic cinematic mood.",
-     "likes": 124,
+     "likes": 127,
      "retweets": 3,
-     "replies": 23,
-     "views": "7741",
+     "replies": 25,
+     "views": "8045",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2092180573242749020"
     },
@@ -1520,10 +1531,10 @@
      "id": "2092172255124140167",
      "created_at": "Tue Aug 25 08:48:30 +0000 2026",
      "text": "【橘子明黄 + 操场铁网】夏日运动汽水感\n\n色盘：纯净晴空蓝（主冷） + 橘子亮橙（暖跳色） + 白白净净肤色\n氛围：元气少女、阳光明媚、高校社团感\n\n关键提示词👇\nJapanese retro high school photography, vintage Kodachrome film look. A young energetic girl with short bob hair, wearing an orange and white striped athletic t-shirt, holding an ice-cold vintage glass soda bottle with condensation, resting against an open chain-link fence on an empty rooftop. Minimalist composition with a vast pure cobalt blue sky background, low-angle perspective, clean negative space. Cobalt blue, tangerine orange and warm skin tone palette, bright diffused daylight, low contrast, natural film grain.",
-     "likes": 17,
+     "likes": 18,
      "retweets": 0,
      "replies": 22,
-     "views": "8681",
+     "views": "8972",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2092172255124140167"
     },
@@ -1534,7 +1545,7 @@
      "likes": 25,
      "retweets": 1,
      "replies": 2,
-     "views": "3274",
+     "views": "3321",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2092164877200875621"
     },
@@ -1545,7 +1556,7 @@
      "likes": 21,
      "retweets": 1,
      "replies": 2,
-     "views": "3777",
+     "views": "3830",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2092150730048315881"
     },
@@ -1556,7 +1567,7 @@
      "likes": 34,
      "retweets": 1,
      "replies": 21,
-     "views": "4392",
+     "views": "4462",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2092132976901734777"
     },
@@ -1564,10 +1575,10 @@
      "id": "2092108895045255520",
      "created_at": "Tue Aug 25 04:36:44 +0000 2026",
      "text": "这种 Cos 镜面自拍的关键其实不是角色本身，而是手机遮脸 + 高曝光卧室 + 猫系元素 + 很随手的社交媒体感。\n\n尤其是黑色猫脸图案内裤，和猫耳、猫尾刚好形成一套视觉梗，简单但很抓眼。\n\n完整提示词：\n\n明确成年的女性真人 coser，浅金粉色短发、齐刘海、毛绒猫耳、粉黑耳机、蓬松猫尾，白色宽松短款 T 恤露出腰腹，黑色内裤，正面带简笔手绘猫脸图案。站在明亮白色卧室全身镜前手机自拍，手机完全遮脸，正面站姿，轻微侧胯。\n\n24–28mm 手机广角，高键自然窗光，高曝光、低对比、轻微柔焦与 bloom，奶白浅粉色调，日系 Cos 社交媒体自拍，真实手机成像，9:16。",
-     "likes": 73,
+     "likes": 76,
      "retweets": 4,
      "replies": 27,
-     "views": "10708",
+     "views": "11213",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2092108895045255520"
     },
@@ -1578,7 +1589,7 @@
      "likes": 11,
      "retweets": 0,
      "replies": 16,
-     "views": "5332",
+     "views": "5397",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2091854177064366573"
     },
@@ -1589,7 +1600,7 @@
      "likes": 65,
      "retweets": 3,
      "replies": 45,
-     "views": "7800",
+     "views": "7835",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2091787507486851540"
     },
@@ -1600,7 +1611,7 @@
      "likes": 119,
      "retweets": 6,
      "replies": 30,
-     "views": "18064",
+     "views": "18247",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2091699796050575799"
     },
@@ -1611,7 +1622,7 @@
      "likes": 33,
      "retweets": 1,
      "replies": 11,
-     "views": "8818",
+     "views": "8841",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2091548767904465400"
     },
@@ -1622,7 +1633,7 @@
      "likes": 548,
      "retweets": 30,
      "replies": 80,
-     "views": "39704",
+     "views": "39744",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2091430837862723950"
     },
@@ -1633,7 +1644,7 @@
      "likes": 74,
      "retweets": 4,
      "replies": 41,
-     "views": "7380",
+     "views": "7388",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2091390615636578595"
     },
@@ -1644,7 +1655,7 @@
      "likes": 443,
      "retweets": 38,
      "replies": 26,
-     "views": "65236",
+     "views": "65360",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2091339610505007347"
     },
@@ -1655,53 +1666,9 @@
      "likes": 22,
      "retweets": 1,
      "replies": 2,
-     "views": "9500",
+     "views": "9507",
      "is_retweet": false,
      "url": "https://x.com/VoxcatAI/status/2090969460056482033"
-    },
-    {
-     "id": "2090963239811391648",
-     "created_at": "Sat Aug 22 00:44:19 +0000 2026",
-     "text": "动作提示词，分别拿grok和image2测试👇\n\n极低机位超广角近距离自拍，成年东亚女性，黑色长发，韩系网红妆，半眯眼直视镜头，下巴轻抬，湿润嘴唇微张，sleepy gaze，dazed expression，慵懒迷离神态。坐在床或沙发上，双腿屈膝抬向镜头，双脚并排，脚底正对镜头，双手扶住膝腿两侧。超薄黑色透明丝袜覆盖腿部与脚掌，可见细密丝袜纹理与脚趾轮廓。镜头紧贴双脚前方约20–24mm，强烈forced perspective、foreground enlargement、foreshortening，双脚占据前景主体，膝腿中景，脸部缩小位于上方中央。夜间昏暗室内，手机正面硬闪，背景压暗，低照度数字噪点，轻微美颜与压缩质感，真实社交媒体自拍截图感，9:16竖版",
-     "likes": 1798,
-     "retweets": 112,
-     "replies": 155,
-     "views": "341828",
-     "is_retweet": false,
-     "url": "https://x.com/VoxcatAI/status/2090963239811391648"
-    },
-    {
-     "id": "2090957471041077641",
-     "created_at": "Sat Aug 22 00:21:23 +0000 2026",
-     "text": "极低机位 + 强透视形变 + 身体反弓 + 外套提拉动作。\n\n重点其实不是单纯“低角度”，而是把镜头真正压到下半身附近，让近处的大腿、胯部进入透视放大区，再让上半身主动后撤。这样 foreground enlargement 和 foreshortening 才会明显，人物会形成很强的纵深，而不是普通仰拍。\n\n动作上我又加了一个很好用的变量：双手抓住外套前襟向上提。\n 宽松外套会在胸前自然堆叠、张开，里面用贴身服装建立第二层轮廓。它特别适合 COS、汉服改造、和服式外搭、风衣、西装、夹克等不同服装体系，同一个姿势换服装就能得到完全不同的广告视觉。\n\n动作提示词：\n极低机位贴近下半身仰拍，人物单腿承重，骨盆前送并轻微侧倾，上半身后撤并做 3/4 扭转，腰部形成明显反弓，双手交叠于胸前，头部微低转向镜头，近处大腿与胯部产生强烈 foreground enlargement 与 foreshortening。\n\n双手抓住外套前襟并向上提起，使宽松外套在胸前堆叠张开，露出内层贴身服装与腰腹轮廓。",
-     "likes": 135,
-     "retweets": 15,
-     "replies": 86,
-     "views": "252932",
-     "is_retweet": false,
-     "url": "https://x.com/VoxcatAI/status/2090957471041077641"
-    },
-    {
-     "id": "2090738765597995043",
-     "created_at": "Fri Aug 21 09:52:20 +0000 2026",
-     "text": "这组我最后只选了 4 张。\n\n前面的问题一直很明显：人物、服装、场景都在变，但成像方式本身太正常，所以最后还是容易落回规整的 COS 写真。\n\n这次我把重点放在了 成像机制 上。\n\n慢门闪光、后帘同步、双重曝光、棱镜折射、玻璃模糊、变焦模糊、镜头拖拽、RGB 错位、柔焦泛光、局部失焦……\n\n真正有效的不是“加特效”，而是让这些效果直接参与画面结构。\n\n我筛图时主要看一个标准：\n脸部必须保留清晰视觉锚点，同时周围影像发生明显变化。\n\n比如：\n眼睛 / 嘴唇 / 面部局部保持清晰\n＋\n头发 / 发饰 / 衣袖 / 背景产生拖影、模糊、光迹、重影或位移。\n这样画面才会形成真正的张力。\n清晰区域负责抓住视线，\n异常区域负责制造速度、时间和空间变化。\n\n这也是我现在比较认可的一套结构：\n清晰主体锚点\n单一强成像机制\n明确运动方向\n局部失真\n简化背景\n尤其适合面部特写。\n脸本身已经有很高的信息密度，场景不需要复杂。只要保住眼神和情绪，再让周围影像适度“失控”，普通 COS 写真就会开始往实验时尚摄影靠。\n这组 10 张里我最后只留了 4 张。\n\n说明这种方法的重点不是稳定出片，而是 允许废片，用更大的视觉波动换更有记忆点的结果。\n\n后面想继续研究的也不是更多风格词，而是：\n相机还能怎么坏。",
-     "likes": 36,
-     "retweets": 1,
-     "replies": 6,
-     "views": "8116",
-     "is_retweet": false,
-     "url": "https://x.com/VoxcatAI/status/2090738765597995043"
-    },
-    {
-     "id": "2090723690552209788",
-     "created_at": "Fri Aug 21 08:52:26 +0000 2026",
-     "text": "这组的核心其实不是“汉服 + 黑丝”，而是把 黑丝广告的商业摄影语言，嫁接到 真人 COS / 汉服美妆 上。\n\n整体可以理解成：\n\nMacro Beauty Photography × Hosiery Advertising × Hanfu Cosplay\n\n几个比较关键的点：\n\n1. 黑丝不是配件，而是第二视觉主体。\n传统汉服写真一般把注意力放在脸、发饰、衣料和环境上，这组反过来，让黑丝承担一部分广告主视觉：腿部进入前景、利用弯曲姿势形成大面积深色轮廓，再和浅色汉服产生强烈明度对比。\n2. “微距感”不等于真的只拍眼睛。\n这里更接近 beauty advertising 的近摄语言：睫毛、眼妆、唇釉、皮肤、刺绣、丝袜纤维都尽量被拍清楚。\n本质是把人物拆成几个可以卖东西的质感区域：\n\n脸部妆效 / 汉服刺绣 / 黑丝纤维 / 鞋履细节 / 发饰金属。\n所以画面会比普通 COS 写真更有“商品片”感。\n3. 最有效的是“软 + 硬”的材质对撞。\n汉服负责轻、透、飘：欧根纱、薄纱、刺绣、宽袖。\n黑丝负责紧、顺、暗：细密织物、半透明度、轻微反光、腿部连续曲面。\n\n两个材质放在一起，天然就会产生视觉张力。\n\n4. 可爱脸是平衡器。\n如果服装、黑丝、低机位全部往成熟性感方向走，很容易变成单一写真感。加入圆润、亲和、偏 COS 审美的成年可爱脸，加上粉色眼妆、卧蚕、柔和唇色之后，画面会被拉回到“二次元商业广告”而不是纯性感写真。\n\n5. 构图最好让脸和腿形成双焦点。\n这类画面最有效的不是全身站姿，而是：\n前景黑丝腿\n＋ 中景汉服袖摆\n＋ 后景脸部妆容\n形成明显的三层空间。\n\n尤其是 35–50mm 近距离拍摄、轻微低机位、屈膝前伸，前景会被适度放大，广告感会非常强。\n\n6. 真正决定高级感的是丝袜表面怎么拍。\n不能只写“黑丝”。\n更有效的是：\n\nsheer black hosiery / fine denier texture / subtle specular sheen / smooth tonal gradient / visible nylon weave / soft highlight roll-off\n也就是让它真的呈现出“薄、透、细、顺”的商品材质，而不是简单把腿涂黑。",
-     "likes": 179,
-     "retweets": 11,
-     "replies": 34,
-     "views": "29455",
-     "is_retweet": false,
-     "url": "https://x.com/VoxcatAI/status/2090723690552209788"
     }
    ],
    "disp_name": "VoxCat"
@@ -1710,7 +1677,7 @@
    "handle": "Astronaut_1216",
    "name": "叫我阿杭",
    "bio": "🐺01年 连续创业者 | 提示词专家丨AI产品分享丨前AI产品经理\n📚文科生丨AI自媒体博主丨OPC孵化丨AI收入6位数\n🌳AI/OPC培训 & AI课学习 & 企业 AI 定制化\n🌟在做Solo π LAB社区（专注AI+变现）",
-   "followers": 19506,
+   "followers": 19507,
    "following": 950,
    "profile_url": "https://x.com/Astronaut_1216",
    "tweets": [
@@ -1718,10 +1685,10 @@
      "id": "2092261044995658095",
      "created_at": "Tue Aug 25 14:41:20 +0000 2026",
      "text": "做知识付费最大的好处就是知道你的竞争对手到底有多垂直？有多下沉，今天去见了个舞蹈培训门店校长\n\n卧槽，付费学习3万块钱就学三天，人家专门打的就是学科校长，打的就是培训机构创始人，赚就赚有钱人的钱\n\n交付啥东西你敢信，妈的，交付100条文案😅😅😅\n老板口口声声的说想要做自媒体获客，结果还是守着老一套的模式去做地推\n\n你说机构，专业是真专业，学生将近1000人，教了这么多年舞蹈，家长都认，老师科班出身\n\n但一发视频，没人看\n\n花了3万块钱报了3天的线下课，告诉他，你所有的内容都要打同城粉，你要去讲同城的相关的事物，发的都是XX城市的烤串好吃、XX同城送礼\n\n干了一年，从线上到线下门店，总共有10个人\n\n我都不知道该如何描述了·····到底怎么敲醒沉睡的心灵啊",
-     "likes": 12,
-     "retweets": 2,
-     "replies": 6,
-     "views": "3118",
+     "likes": 14,
+     "retweets": 3,
+     "replies": 9,
+     "views": "3436",
      "is_retweet": false,
      "url": "https://x.com/Astronaut_1216/status/2092261044995658095"
     },
@@ -1729,10 +1696,10 @@
      "id": "2092171372080587010",
      "created_at": "Tue Aug 25 08:45:00 +0000 2026",
      "text": "我是怎么走上知识付费这条路的？如何从0-1做自媒体，并且在过程中构建自己的商业模式？\n\n如果你想尝试一个人是怎么从「不知道自己值几个钱」，走到「能把自己的经验给出去」，可以看看我的故事，试试理解我的方法论，或者当个故事听我想也不错\n\n我是学风景园林的，2024年本科毕业，2025年起几乎所有高校不再招收风景园林专业的学生，因为出来就是找不到工作，高校的升学指标会很难看，社会也不需要这种人\n\n运气说好也不好，毕业之后去了央企工程局，那段日子我拿了一堆奖状，得到的评价却是「不务正业」、「低智商大学生」\n\n明明有在央企晋升的机会，直属领导为了拦住我，命令我：「如果总公司再敢联系你参加什么事，你不拒绝他，直接答应下来，你就不要在这里呆了，这次你就跟上面说，你家里死人了，不要去了」\n\n那一刻我才明白：在这个结构里，荣誉是集体的，锅是个人的，而「我」是不存在的\n\n我知道在这个工地跟这个领导是完全自毁前途，于是我一个月用 AI 转了行，从土木跨到 AI 产品经理，16K ×14 薪\n\n后来我发现，我这样的人太多了——不是没能力，是思路不清晰，不知道自己到底要什么，也不敢走。包括曾经的我\n\n在工地屡屡受挫后，我认真思考我的未来规划，我喜欢雷军、李想这些大佬，他们是产品经理出身，那我也要做产品经理，我要融入大势，所以我做AI\n\n在这个过程中\n\n我就想，能不能通过我的公开表达，让更多人把思路理清楚\n\n在转行之前，我还没有开蓝标，我只是发一些我自己对于产品的理解，对于AI的理解，对于AI产品经理的理解，但是积累了一小撮粉丝量，原来有人爱看我这种干货\n\n到后面开始正儿八经做X，转行之后我写帖子，第一篇就火了，一堆人来问：你怎么转的？教教我呗\n\n于是第一次做知识付费：AI产品经理转行\n\n我说可以免费讲。结果越免费人越多，我没精力一个个服务。于是我做了一对一咨询，定价 99，后来涨到 199，还是有人买\n\n我前后接了五六个\n\n就是这五六个咨询，让我第一次意识到：原来我的经验，是可以打包给出去的，而且是有人愿意为它付费的\n\n后来我在 X 上做商单，各种资源整合最多一个月赚到 2 万，对一个 8000 粉丝的号来说不算少\n\n但不稳定——商单说不找就不找，我没有可靠的来源\n\n第二次做知识付费：如何公域获客销售Token\n\n再后来赶上Token的风口，卖Token销售思路，内容获客思路，闲鱼获客思路，那一个25万的帖子，让我的微信被加爆了，进来了大几百人，有些通过了，有些没通过\n\n从 29.9 一杯奶茶钱，一路涨到 69.9，卖不动了\n\n但真正让我难受的，不是卖不动。是这条路越走，我越觉得自己不值钱，因为低客单需要获取大流量的能力，但是我觉得我在这一个方向还要练\n\n第三次做知识付费：想真的保结果，做了个99元的互联网项目分享社群\n\n那个时候我就想着，我要给你进行一种对赌。如果说你真的通过了我给的资料，实现项目上的变现，或者哪怕你直接把我的这份资料拿出来卖，你一个月卖了99块钱，我这99块钱都原路返还\n\n结果实际情况是，只有一个人找我退了款，我当时是收了三十多个人，我就知道，如果你不能盯着，不能手把手的去带一个人做，那么其实知识付费好像和上课没啥区别，不应该是单纯这种形式交付\n\n第四次做知识付费：手把手带项目陪跑，跑通全平台一阶段变现流量分成收益\n\n直到我开始做抖音，我开始真的去研究知识付费这个业务，真的去研究短视频获客这个套路\n\n项目是我们跑通的，逻辑是没问题的，能长期做下去达到粉丝量去做二三阶段变现的\n\n真的开始干了3个月，我才知道哦，原来知识付费是这样做的，也才有了我的各种什么54条自媒体商业思考，我的100条思考，我用AI做短视频做内容的各种方式\n\n我才算真的通过知识付费这条业务开始去稳定的变现，\n\n这半年也没少玩，大理、昆明、丽江、北京、哈尔滨、伊春、广州、深圳、珠海、上海、杭州、过段时间还想去福州·······（好吧我承认我是比较摆烂了haha～）\n\n所以我想跟你说的是：\n\n知识付费从来不是卖知识，是卖你替别人先踩过的那条路\n\n而这条路，是你先把自己从深渊里捞出来，才有的\n\n别等什么都想清楚了再动手，你的第一个产品，可能就是一通 99 块钱的电话。你走过的弯路、踩过的坑，把它讲出来，就是能帮到别人的东西\n\n先把自己救出来，再去渡别人",
-     "likes": 43,
+     "likes": 44,
      "retweets": 1,
-     "replies": 44,
-     "views": "6743",
+     "replies": 48,
+     "views": "7159",
      "is_retweet": false,
      "url": "https://x.com/Astronaut_1216/status/2092171372080587010"
     },
@@ -1743,7 +1710,7 @@
      "likes": 62,
      "retweets": 6,
      "replies": 33,
-     "views": "28978",
+     "views": "28988",
      "is_retweet": false,
      "url": "https://x.com/Astronaut_1216/status/2091741884960178405"
     },
@@ -1754,7 +1721,7 @@
      "likes": 25,
      "retweets": 3,
      "replies": 14,
-     "views": "31658",
+     "views": "31688",
      "is_retweet": false,
      "url": "https://x.com/Astronaut_1216/status/2091731332171026467"
     },
@@ -1776,7 +1743,7 @@
      "likes": 58,
      "retweets": 10,
      "replies": 16,
-     "views": "10570",
+     "views": "10583",
      "is_retweet": false,
      "url": "https://x.com/Astronaut_1216/status/2091344114050887807"
     },
@@ -1787,7 +1754,7 @@
      "likes": 54,
      "retweets": 7,
      "replies": 44,
-     "views": "9914",
+     "views": "9921",
      "is_retweet": false,
      "url": "https://x.com/Astronaut_1216/status/2091116388845056047"
     },
@@ -1798,7 +1765,7 @@
      "likes": 184,
      "retweets": 37,
      "replies": 64,
-     "views": "23103",
+     "views": "23107",
      "is_retweet": false,
      "url": "https://x.com/Astronaut_1216/status/2090981046418538694"
     }
@@ -1809,7 +1776,7 @@
    "handle": "qisi_ai",
    "name": "骑司Chase",
    "bio": "AI生图专家+AI编程+AI实战变现\n十年摄影爱好者/前大厂用研/OPC\n尝试100个AI变现方式，寻找AI时代财富自由之路\n最好的反推插件：https://t.co/VswooBHaMh\n合作DM",
-   "followers": 15983,
+   "followers": 15984,
    "following": 161,
    "profile_url": "https://x.com/qisi_ai",
    "tweets": [
@@ -1820,7 +1787,7 @@
      "likes": 18,
      "retweets": 0,
      "replies": 15,
-     "views": "3062",
+     "views": "3064",
      "is_retweet": false,
      "url": "https://x.com/qisi_ai/status/2090305739999031726"
     },
@@ -1831,7 +1798,7 @@
      "likes": 39,
      "retweets": 0,
      "replies": 55,
-     "views": "10751",
+     "views": "10755",
      "is_retweet": false,
      "url": "https://x.com/qisi_ai/status/2083087036848972199"
     },
@@ -1842,7 +1809,7 @@
      "likes": 4,
      "retweets": 1,
      "replies": 53,
-     "views": "5831",
+     "views": "5833",
      "is_retweet": false,
      "url": "https://x.com/qisi_ai/status/2083046456584437826"
     },
@@ -1864,7 +1831,7 @@
      "likes": 29,
      "retweets": 2,
      "replies": 12,
-     "views": "7377",
+     "views": "7379",
      "is_retweet": false,
      "url": "https://x.com/qisi_ai/status/2081931256758255999"
     },
@@ -1875,7 +1842,7 @@
      "likes": 3453,
      "retweets": 430,
      "replies": 238,
-     "views": "622382",
+     "views": "622415",
      "is_retweet": false,
      "url": "https://x.com/qisi_ai/status/2081700140545696169"
     },
@@ -1886,7 +1853,7 @@
      "likes": 5,
      "retweets": 0,
      "replies": 1,
-     "views": "2869",
+     "views": "2871",
      "is_retweet": false,
      "url": "https://x.com/qisi_ai/status/2080958999307100624"
     },
@@ -1897,7 +1864,7 @@
      "likes": 29,
      "retweets": 0,
      "replies": 1,
-     "views": "10096",
+     "views": "10100",
      "is_retweet": false,
      "url": "https://x.com/qisi_ai/status/2079751268705378493"
     },
@@ -1930,7 +1897,7 @@
      "likes": 5,
      "retweets": 0,
      "replies": 2,
-     "views": "425",
+     "views": "434",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2092209439172694100"
     },
@@ -1939,7 +1906,7 @@
      "created_at": "Tue Aug 25 10:35:34 +0000 2026",
      "text": "RT @tuttihq: We're proud to announce that Tutti is now listed as No.1 on https://t.co/o0ii9KgjQy.\n\nWe're on our mission to give builders an…",
      "likes": 0,
-     "retweets": 226,
+     "retweets": 229,
      "replies": 0,
      "views": "31",
      "is_retweet": true,
@@ -1950,7 +1917,7 @@
      "created_at": "Tue Aug 25 10:35:06 +0000 2026",
      "text": "RT @SimonShaoleiDu: Apodex 1.1 is out. Weights and harness are fully open:\n\n▸ Apodex 1.1 Mini — 35B FrontierLevel model for Professional Wo…",
      "likes": 0,
-     "retweets": 93,
+     "retweets": 96,
      "replies": 0,
      "views": "31",
      "is_retweet": true,
@@ -1960,10 +1927,10 @@
      "id": "2092147958003441751",
      "created_at": "Tue Aug 25 07:11:58 +0000 2026",
      "text": "测评MiniMax H3 MV 大作战 \n我本来只想测试，H3 能不能把人物动作管住。\n\n结果它直接把一支 MV 从策划做到成片。\n\n我用 MiniMax H3 做了这支 30 秒 MV。\n\n前期策划、音乐、人物、镜头和画面，全都由 H3 完成。不是先写好歌，再让另一个模型往上贴画面；从一开始，音乐和视觉就是同一套创意。\n\n成片里，同一个黑金青绿造型的古风歌手，要在近景、中景和全身镜头里保持一致，还要对口型、做手势，并配合纸片与字体完成转场。\n\n我导出的文件是 2560×1440、24fps，而且自带立体声音轨。\n\n这也解释了 H3 为什么不只是一个“视频生成模型”。\n\n它把文本、图像、视频和音频放在同一套上下文里。做 MV 时，它不只负责画面，还要同时理解歌曲氛围、人物表演和镜头节奏。\n\n目前 H3 官方单段最高 15 秒。\n\n所以这支 30 秒成片真正考验的，不是偶然抽中一个漂亮镜头，而是多个段落能不能共用同一套人物、音乐和美术逻辑。\n\n另一边，Alibaba PAI 新放出的 H3 ControlNet Union，又补上了轮廓、深度、直线、姿态和局部重绘控制。\n\n原生 H3 负责把整支 MV 的感觉做出来；ControlNet 更像是在告诉它：\n\n这个动作再拍一次，但人物、位置和构图别乱。\n\n从目前的进度看😆还不会说“AI 已经解决了 MV 制作”。\n\n30 秒之后的人物一致性、歌词语义、镜头衔接，以及同一个动作能不能稳定复拍，仍然需要继续测。\n\n但方向已经很清楚：\n\n以前的 AI 视频模型给你一个镜头。\n\nH3 开始尝试给你一整套视听方案。",
-     "likes": 67,
+     "likes": 68,
      "retweets": 7,
      "replies": 6,
-     "views": "5694",
+     "views": "5789",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2092147958003441751"
     },
@@ -1971,10 +1938,10 @@
      "id": "2091891633432469730",
      "created_at": "Mon Aug 24 14:13:25 +0000 2026",
      "text": "MiniMax H3真的太适合做广告了，电商神器来着！\n用 MiniMax H3 做了一条 10s 首饰广告片 + 九宫格主图。给两张参考图，它就能把模特、银饰编织纹理和暗调光影稳定地「翻译」成电影级镜头：微距金属光泽、慢动作特写、强烈明暗对比，产品身份没崩。\n\n对广告最友好的三点：参考一致性强、动态运镜自然、视觉冲击力足——正好对应品牌片需要的「认得出产品、记得住氛围、停得下滑动」。\n\nDemo品牌来自Muse jewelry —— 我只能看见美的东西。\n\n#MiniMax #AIvideo #AIGC #jewelry #广告片",
-     "likes": 87,
+     "likes": 88,
      "retweets": 7,
-     "replies": 23,
-     "views": "11169",
+     "replies": 24,
+     "views": "11297",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2091891633432469730"
     },
@@ -1985,7 +1952,7 @@
      "likes": 7,
      "retweets": 0,
      "replies": 0,
-     "views": "637",
+     "views": "644",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2091850332943057038"
     },
@@ -1996,7 +1963,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "620",
+     "views": "629",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2091849815353348402"
     },
@@ -2007,7 +1974,7 @@
      "likes": 8,
      "retweets": 0,
      "replies": 13,
-     "views": "765",
+     "views": "772",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2091848966522687916"
     },
@@ -2029,7 +1996,7 @@
      "likes": 3,
      "retweets": 1,
      "replies": 1,
-     "views": "728",
+     "views": "733",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2091385221807751628"
     },
@@ -2040,7 +2007,7 @@
      "likes": 20,
      "retweets": 1,
      "replies": 4,
-     "views": "1371",
+     "views": "1377",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2091354925968298444"
     },
@@ -2062,7 +2029,7 @@
      "likes": 9,
      "retweets": 0,
      "replies": 5,
-     "views": "937",
+     "views": "938",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2090240539459522829"
     },
@@ -2073,7 +2040,7 @@
      "likes": 15,
      "retweets": 1,
      "replies": 2,
-     "views": "1818",
+     "views": "1819",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2089860032552898905"
     },
@@ -2084,7 +2051,7 @@
      "likes": 6,
      "retweets": 0,
      "replies": 0,
-     "views": "934",
+     "views": "935",
      "is_retweet": false,
      "url": "https://x.com/ponyodong/status/2089627702273921418"
     }
@@ -2095,7 +2062,7 @@
    "handle": "nanyuan0412",
    "name": "南鸢 nuyoah",
    "bio": "AI视觉设计师/ AI 内容创作者 / Vibe Coding 实践者/VSC Creator\nAI 生图 × Skill 开发 × AI 工作流 × 独立产品\n商业合作：nuyoah5521@gmail.com\n联系wechat：C01nuyoah (备注来意)",
-   "followers": 11915,
+   "followers": 11916,
    "following": 147,
    "profile_url": "https://x.com/nanyuan0412",
    "tweets": [
@@ -2105,8 +2072,8 @@
      "text": "下载了豆包工作之后，我觉得字节真的是比腾讯更懂用户……\n\n学生党从开学选课到毕业求职，从上课笔记整理到社团招新物料，从考试备考到实习校招提醒，从宿舍租房决策到大学生成长路线规划 —— 你能想到的、没想到的，全给你做成了一键即用的技能。\n\n还有滴滴、麦当劳、淘宝、支付宝全接进来了。AI 不再是只会跟你聊天的嘴炮，是真能帮你叫车、点单、买东西、付钱……\n\n腾讯你学学，什么叫真正的用户洞察？不是把功能堆成山让用户自己找，是用户还没开口，你已经把工具递到手里了。\n\n一个 AI，比你自己还懂你下一步要干嘛。这才是 2026 年该有的产品。",
      "likes": 0,
      "retweets": 0,
-     "replies": 10,
-     "views": "776",
+     "replies": 11,
+     "views": "883",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092300893492518937"
     },
@@ -2117,7 +2084,7 @@
      "likes": 7,
      "retweets": 0,
      "replies": 0,
-     "views": "371",
+     "views": "385",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092269977160343877"
     },
@@ -2128,7 +2095,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "983",
+     "views": "1009",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092147415436734854"
     },
@@ -2139,7 +2106,7 @@
      "likes": 9,
      "retweets": 2,
      "replies": 1,
-     "views": "1402",
+     "views": "1437",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092130099542044896"
     },
@@ -2150,7 +2117,7 @@
      "likes": 6,
      "retweets": 0,
      "replies": 18,
-     "views": "1853",
+     "views": "1894",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092101212456046924"
     },
@@ -2161,7 +2128,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 3,
-     "views": "1115",
+     "views": "1123",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092099821394166198"
     },
@@ -2172,7 +2139,7 @@
      "likes": 9,
      "retweets": 0,
      "replies": 0,
-     "views": "1242",
+     "views": "1264",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092098445385380197"
     },
@@ -2183,7 +2150,7 @@
      "likes": 9,
      "retweets": 0,
      "replies": 0,
-     "views": "1029",
+     "views": "1057",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092092792826982529"
     },
@@ -2193,8 +2160,8 @@
      "text": "如果古人也有数码相机，我们今天看到的历史，会是什么样？\n\n可能不是帝王将相，也不是精致到毫无破绽的“历史大片”。\n\n而是有人坐在码头被鹅追着啄鞋，有人吃饭吃到一半被朋友抓拍，有人赶集、喝酒、发呆，甚至拍出一堆构图歪掉、闪光灯过曝的废片。\n\n以前的人没有手机，也没有属于普通人的影像记录。\n\n他们长什么样、怎么生活、怎么笑、怎么狼狈，我们大多数时候只能从几行文字里去想象。\n\n所以这次我做了一件挺有意思的事：\n\n用 AI，把一台 2000 年代初的消费级数码相机，塞进了过去。\n\n不要电影感，不要精致复原。\n\n小传感器、JPEG 直出、动态范围不足、生硬直闪、偶尔过曝，还有普通人随手一拍的笨拙构图。\n\n它不像是在“拍历史”。\n\n更像是在给那些只存在于文字里的人，\n\n补上一册从未存在过的私人相册。\n\n如果那个年代真的有人按下过快门，\n\n历史可能比我们想象中，要鲜活得多。\n\n这一次的主题是：「宋代市井」",
      "likes": 49,
      "retweets": 8,
-     "replies": 29,
-     "views": "9187",
+     "replies": 30,
+     "views": "9340",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092073172262896012"
     },
@@ -2205,7 +2172,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "811",
+     "views": "817",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092065538201829442"
     },
@@ -2213,10 +2180,10 @@
      "id": "2092060324388389190",
      "created_at": "Tue Aug 25 01:23:44 +0000 2026",
      "text": "没想到今天早上的GPT居然也会出真的接吻的图片了\n\n这种青春时期的稚嫩感，喜欢的人在身边又有一点紧张的感觉\n\n拿捏的恰到好处 https://t.co/SDu4xqZDO8",
-     "likes": 22,
+     "likes": 23,
      "retweets": 1,
      "replies": 19,
-     "views": "3753",
+     "views": "3783",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092060324388389190"
     },
@@ -2227,7 +2194,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "4758",
+     "views": "4795",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2092047018873237998"
     },
@@ -2238,7 +2205,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 1,
-     "views": "3690",
+     "views": "3697",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2091714822186603002"
     },
@@ -2249,7 +2216,7 @@
      "likes": 41,
      "retweets": 4,
      "replies": 15,
-     "views": "10619",
+     "views": "10622",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2091547209812807750"
     },
@@ -2260,7 +2227,7 @@
      "likes": 62,
      "retweets": 5,
      "replies": 22,
-     "views": "17859",
+     "views": "17867",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2091431445768351973"
     },
@@ -2271,7 +2238,7 @@
      "likes": 252,
      "retweets": 8,
      "replies": 36,
-     "views": "15953",
+     "views": "15966",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2091403917439766750"
     },
@@ -2282,7 +2249,7 @@
      "likes": 6,
      "retweets": 1,
      "replies": 10,
-     "views": "4281",
+     "views": "4282",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2091345974304350707"
     },
@@ -2293,7 +2260,7 @@
      "likes": 6,
      "retweets": 0,
      "replies": 13,
-     "views": "1944",
+     "views": "1945",
      "is_retweet": false,
      "url": "https://x.com/nanyuan0412/status/2091168624874754156"
     }
@@ -2312,10 +2279,10 @@
      "id": "2092423786306081154",
      "created_at": "Wed Aug 26 01:28:00 +0000 2026",
      "text": "水の光が頬を横切るたび、白い服も黒い髪も青の中で静かに揺れる💧🩵\n\n#AIart #AI写真 #水中ポートレート\n\n【GPT Image2プロンプト】\n\n主題：\n水紋をまとう白\n\n主体：\n画面中央、青いプールの水面に白い薄手ドレス姿の女性が仰向けで浮かぶ。頭の周囲へ黒髪が扇状に広がり、右腕を頭上へ曲げ、水紋が顔と服を横切る。\n\n人物・表情：\n女性は顔を真上へ向け、カメラを静かに見つめて唇を少し開く。やや面長の卵形で顎先は小さく、横長の灰褐色の目、細い眉、すっきりした鼻筋、上唇は薄めで下唇はやや厚い。濡れた黒髪は中央寄りに分かれ、前髪が額へ張り付き、長い毛先が水中へ放射状に広がる。メイクは薄く、頬に控えめな赤み。\n\n服装・ポーズ：\n白い細肩紐のシアーワンピースで、胸元にレースのフリル、中央に細い結び、ウエストに細い切替がある。人物自身の右腕を頭上へ曲げて手のひらを開き、左腕は画面右下の水中へ伸ばす。体は水面へ水平に預ける。\n\n背景・光：\n背景は画面全体を満たす透明な青い水で、上方の直射日光が白い波紋と強いきらめきを作る。画面上部の水面には大きな反射光が集まる。\n\n構図・カメラ：\n3:4の縦位置、真上の俯瞰カメラで胸下までを大きく収める。顔は上半分中央、曲げた右腕は画面上端近く、人物にピントを合わせて水紋まで明瞭にする。\n\n質感・スタイル：\n濡れた髪、透明な薄布、肌を走る水紋を精細に描くフォトリアルな実写写真。青と白の涼しい色調。\n\nネガティブ：\n真上から浮かぶ姿勢を起立姿勢にしない；水紋を省略しない",
-     "likes": 13,
+     "likes": 25,
      "retweets": 0,
-     "replies": 0,
-     "views": "335",
+     "replies": 1,
+     "views": "607",
      "is_retweet": false,
      "url": "https://x.com/CyberTotal2026/status/2092423786306081154"
     },
@@ -2323,10 +2290,10 @@
      "id": "2092374711845970075",
      "created_at": "Tue Aug 25 22:13:00 +0000 2026",
      "text": "古い扉と琥珀色の灯り。片膝を抱える夜には、花柄レースがよく似合う🕯️🌙\n\n#AIart #AI写真 #夜ポートレート\n\n【GPT Image2プロンプト】\n\n主題：\n暗い扉辺の花レース\n\n主体：\n画面中央、暗い木の扉口の段差で、花柄レースの短いドレスを着た女性が片膝を立てて座る。背後の瓶棚の琥珀色の灯りと、前景へ迫る脚が奥行きを作る。\n\n人物・表情：\n女性は頭を少し画面左へ傾け、カメラをまっすぐ見つめて唇を軽く閉じる。やや面長の卵形と細い顎、横長の大きな目、細い自然な眉、真っすぐな鼻筋、艶のある淡いベージュピンクの唇。長い焦げ茶髪は中央寄りに分かれ、薄い前髪と頬にかかる毛束、肩へ流れる緩い波がある。目元は細いライン、頬は控えめなピンク。\n\n服装・ポーズ：\n白地に小さな青い花が散る細肩紐のミニワンピースで、胸元と裾に白いレース、透ける多層フリルがある。右膝を胸近くまで高く曲げ、人物自身の右手を髪へ添え、左手を脛へ下げる。片足に白いリボン付きパンプス。\n\n背景・光：\n背景は黒に近い木壁と画面右上の瓶棚、画面左の古い扉枠。右上の暖色光源と前方の柔らかな主光が顔、肩、上げた膝を照らし、周囲を深い影へ落とす。\n\n構図・カメラ：\n9:16の縦長、低いカメラ視点で頭から足先近くまでを収める。上げた右膝と脚が中央前景へ大きく入り、顔は上三分の一。人物にピントを合わせ、瓶棚を柔らかくぼかす。\n\n質感・スタイル：\n暗い木、繊細なレース、艶のある肌を暖かな局所光で写す実写写真。黒、琥珀、アイボリーの映画的な色調。\n\nネガティブ：\n前景の高く曲げた右膝を省略しない；花柄レースを無地にしない",
-     "likes": 47,
-     "retweets": 2,
+     "likes": 53,
+     "retweets": 3,
      "replies": 0,
-     "views": "1277",
+     "views": "1463",
      "is_retweet": false,
      "url": "https://x.com/CyberTotal2026/status/2092374711845970075"
     },
@@ -2334,10 +2301,10 @@
      "id": "2092239067941405072",
      "created_at": "Tue Aug 25 13:14:00 +0000 2026",
      "text": "白い壁に落ちる影まで涼しげ。編み目からこぼれる陽射しにそっと笑う☀️🤍\n\n#AIart #AI写真 #プールサイド\n\n【GPT Image2プロンプト】\n\n主題：\n白クロシェの陽射し\n\n主体：\n画面中央、白いテラスの縁へ腰掛けた女性が、白いクロシェ水着と薄いロングカーディガン姿で微笑む。明るい壁と金属手すりの幾何学的な影が背景を作る。\n\n人物・表情：\n女性は顔をわずかに画面左へ傾け、カメラを見て穏やかに微笑む。頬がなだらかな卵形と小さな顎、横長の目、細い緩い眉、細い鼻筋、淡いコーラルの唇。黒褐色の髪は頭頂で小さなまとめ髪にし、束感のある薄い前髪と長い後れ毛を残す。薄いピンクのチークと自然な艶肌。\n\n服装・ポーズ：\nアイボリーのかぎ針編み三角ビキニ水着で、首の細紐、両腰のリボン結び、大きな編み目が見える。透ける白い長袖ロングカーディガンは前開きで、小さなボタンと細かな縦皺がある。左手を座面へ置き、右腕は体側へ下げ、片脚を前へ伸ばして座る。\n\n背景・光：\n背景は白い外壁と画面右の白い金属手すり、前景の白い段差。画面左上からの硬い直射日光が人物を照らし、壁へ斜めの手すり影を落とす。\n\n構図・カメラ：\n3:4の縦位置、水平のカメラ視点で頭頂から太腿中央までを収める。人物は中央に大きく、白壁の余白を上部と左右へ残し、顔と水着にピントを合わせる。\n\n質感・スタイル：\nクロシェの編み目、薄いカーディガン、白壁を明瞭に写す明るい実写写真。アイボリーと灰白色を中心に清潔な高コントラスト。\n\nネガティブ：\nクロシェの大きな編み目を布地に変えない",
-     "likes": 105,
+     "likes": 107,
      "retweets": 5,
      "replies": 2,
-     "views": "2955",
+     "views": "3107",
      "is_retweet": false,
      "url": "https://x.com/CyberTotal2026/status/2092239067941405072"
     },
@@ -2345,10 +2312,10 @@
      "id": "2092225226968887620",
      "created_at": "Tue Aug 25 12:19:00 +0000 2026",
      "text": "水面に髪をほどいて、揺れる光だけを肌にまとえば時間まで静かになる💧✨\n\n#AIart #AI写真 #プールポートレート\n\n【GPT Image2プロンプト】\n\n主題：\n水面に浮かぶ白\n\n主体：\n画面中央、青いプールの水面に白い薄手ドレス姿の女性が仰向けで浮かぶ。頭の周囲へ黒髪が扇状に広がり、右腕を頭上へ曲げ、水紋が顔と服を横切る。\n\n人物・表情：\n女性は顔を真上へ向け、カメラを静かに見つめて唇を少し開く。やや面長の卵形で顎先は小さく、横長の灰褐色の目、細い眉、すっきりした鼻筋、上唇は薄めで下唇はやや厚い。濡れた黒髪は中央寄りに分かれ、前髪が額へ張り付き、長い毛先が水中へ放射状に広がる。メイクは薄く、頬に控えめな赤み。\n\n服装・ポーズ：\n白い細肩紐のシアーワンピースで、胸元にレースのフリル、中央に細い結び、ウエストに細い切替がある。人物自身の右腕を頭上へ曲げて手のひらを開き、左腕は画面右下の水中へ伸ばす。体は水面へ水平に預ける。\n\n背景・光：\n背景は画面全体を満たす透明な青い水で、上方の直射日光が白い波紋と強いきらめきを作る。画面上部の水面には大きな反射光が集まる。\n\n構図・カメラ：\n3:4の縦位置、真上の俯瞰カメラで胸下までを大きく収める。顔は上半分中央、曲げた右腕は画面上端近く、人物にピントを合わせて水紋まで明瞭にする。\n\n質感・スタイル：\n濡れた髪、透明な薄布、肌を走る水紋を精細に描くフォトリアルな実写写真。青と白の涼しい色調。\n\nネガティブ：\n真上から浮かぶ姿勢を起立姿勢にしない；水紋を省略しない",
-     "likes": 97,
+     "likes": 99,
      "retweets": 6,
      "replies": 1,
-     "views": "3853",
+     "views": "4073",
      "is_retweet": false,
      "url": "https://x.com/CyberTotal2026/status/2092225226968887620"
     },
@@ -2444,10 +2411,10 @@
      "id": "2092208113940148668",
      "created_at": "Tue Aug 25 11:11:00 +0000 2026",
      "text": "海と同じくらい甘い桃色。溶ける前のひと口を、波音と一緒に眺めてる🍦🌊\n\n#AIart #AI写真 #ビーチアイス\n\n【GPT Image2プロンプト】\n\n主題：\n桃色アイスの浜辺\n\n主体：\n画面中央、砂浜に横座りしたピンクのビキニ水着の女性が、胸元で桃色のソフトクリームを持つ。青い海と遠い島影を背に、アイスと水着の桃色が響き合う。\n\n人物・表情：\n女性は顔を画面左下へ傾け、静かな表情で手元のアイスを伏し目で見つめる。丸みのある卵形と小さな顎、細いアーモンド形の目、自然な眉、細い鼻筋、赤みのあるふっくらした唇。黒褐色の顎丈ボブは右側で耳にかかり、風に動く薄い前髪が頬へ落ちる。淡いチークと自然な艶肌。\n\n服装・ポーズ：\nくすみピンクの三角ビキニ水着で、首の細いストラップ、両腰の結び、腰の銀色リングが見える。左手を砂へ置いて上体を支え、脚を画面右へ曲げて重ね、人物自身の右手でコーンを持つ。長いチェーンの十字形ペンダントが胸元へ下がる。\n\n背景・光：\n背景の上半分に青い海と水平線、遠い島と小さな灯台、左右に低い岩がある。上方からの硬い直射日光が肌とアイスを照らし、左前景へ枝葉の影を落とす。\n\n構図・カメラ：\n3:4の縦位置、やや高いカメラ視点で横座りの膝上までを収める。人物は中央から右下へ大きく、アイスは顔の左下に近接し、人物とアイスにピントを合わせる。\n\n質感・スタイル：\n砂粒、冷たいソフトクリーム、濡れた肌を明瞭に写す真昼の実写写真。青と桃色を鮮やかに保つ。\n\nネガティブ：\n桃色のソフトクリームを省略しない；手とコーンの接触を崩さない",
-     "likes": 81,
+     "likes": 82,
      "retweets": 2,
      "replies": 1,
-     "views": "3479",
+     "views": "3541",
      "is_retweet": false,
      "url": "https://x.com/CyberTotal2026/status/2092208113940148668"
     },
@@ -2455,10 +2422,10 @@
      "id": "2092195782544007469",
      "created_at": "Tue Aug 25 10:22:00 +0000 2026",
      "text": "波音を背に目を閉じると、真昼の風が長い髪までまっすぐ通り抜ける🌊☀️\n\n#AIart #AI写真 #砂浜\n\n【GPT Image2プロンプト】\n\n主題：\n浜辺で仰ぐ潮風\n\n主体：\n画面中央、静かな砂浜で茶色いビキニ水着の女性が両膝を折って座り、顔を空へ向ける。長い髪と青い海、右奥の岩場が夏の海岸を形作る。\n\n人物・表情：\n女性は横顔を画面左上へ向けて目を閉じ、唇を少し開いて穏やかに潮風を受ける。なだらかな卵形の輪郭、長いまつ毛、細い鼻筋と小さな鼻先、下唇がやや厚い赤みの唇。暗い焦げ茶の長髪は中央寄りに分かれ、肩から背中へ真っすぐ流れる。日差しを受けた自然な艶肌。\n\n服装・ポーズ：\n濃い茶色の細紐三角ビキニ水着で、胸下と両腰に結び紐、右腰に小さな金属リングがある。両膝を砂につけて脚を体の下へ折り、上体を軽く反らし、人物自身の右手を後ろの砂へ置いて支える。\n\n背景・光：\n背景の画面左から中央に青い海と低い水平線、右側に砂浜、岩と濃緑の木立が続く。上方からの硬い直射日光が肩と胸元を照らし、砂へ短い影を落とす。\n\n構図・カメラ：\n3:4の縦位置、水平より少し低いカメラ視点から全身寄りに収める。人物は中央に大きく、空と海を上半分へ残し、人物にピントを合わせて遠景をわずかにぼかす。\n\n質感・スタイル：\n青空、海、砂、濡れた肌を高精細に描く明るい実写写真。茶色と青の自然な対比。\n\nネガティブ：\n閉じた目と仰ぐ横顔を正面視線にしない",
-     "likes": 304,
-     "retweets": 14,
+     "likes": 319,
+     "retweets": 15,
      "replies": 1,
-     "views": "5785",
+     "views": "5998",
      "is_retweet": false,
      "url": "https://x.com/CyberTotal2026/status/2092195782544007469"
     },
@@ -2466,10 +2433,10 @@
      "id": "2092176656714576171",
      "created_at": "Tue Aug 25 09:06:00 +0000 2026",
      "text": "小さなカメラと蝶のシール。鏡の中だけ、今日は少しだけ甘い色になる🦋📷✨\n\n#AIart #AI写真 #鏡セルフィー\n\n【GPT Image2プロンプト】\n\n主題：\n蝶シールと黒カメラ\n\n主体：\n画面中央の鏡越しの至近距離で、女性が右頬の横に黒いコンパクトカメラを構える縦長セルフィー。髪と頬に貼られた色とりどりの蝶・星・花の小さなシール、白い小花柄のランジェリーが印象的。\n\n人物・表情：\n女性は鏡の中のカメラをまっすぐ見つめ、唇を閉じて無表情に近い静かな顔。小さく丸い顎の卵形、灰褐色の大きなアーモンド形の目、細く緩い眉、小さく丸い鼻先、上唇は薄めで下唇は厚く強い艶がある。白いセミマット肌に薄いピンクの目元とチーク、下唇右寄りに小さな銀色ピアス。黒い長髪は中央寄りに分かれ、目にかかる長い前髪と頬へ広がる柔らかな毛束。\n\n服装・ポーズ：\n白地に淡いピンクの小花がある細肩紐のブラトップと、前で細く結ぶフリル付きのボトム。銀色のハートペンダントと小粒のネックレスを重ねる。人物自身の左手でカメラを顔の右側に持つ。黒いストラップが手首から画面下まで大きな輪を描く。\n\n背景・光：\n背景は淡い灰白色の鏡面空間で、ピンクと水色のシールや飾りが前後に柔らかくぼける。画面正面を主光とする拡散光で影を抑え、全体に薄い白い霞をかける。\n\n構図・カメラ：\n9:16の縦長、顔とカメラを上半分へ大きく寄せ、太腿上まで収めた鏡セルフィー。黒いカメラが画面右上で顔の一部と重なる。浅い被写界深度で前景の飾りを大きくぼかす。\n\n質感・スタイル：\n柔らかなフィルターと低コントラストを持つドリーミーな実写写真。艶のある唇、黒髪、硬いカメラ外装とパステルの小物を精細に描く。\n\nネガティブ：\n黒いカメラと顔の重なりを崩さない；蝶シールを省略しない",
-     "likes": 252,
+     "likes": 262,
      "retweets": 22,
      "replies": 11,
-     "views": "7137",
+     "views": "7529",
      "is_retweet": false,
      "url": "https://x.com/CyberTotal2026/status/2092176656714576171"
     },
@@ -2521,10 +2488,10 @@
      "id": "2092146206612873306",
      "created_at": "Tue Aug 25 07:05:00 +0000 2026",
      "text": "船窓いっぱいの青を背に、振り向いた肩へ海の光がそっと届く🚤🌊\n\n#AIart #AI写真 #船旅\n\n【GPT Image2プロンプト】\n\n主題：\n船窓越しの青い海\n\n主体：\n画面中央、船室の横長い大窓の前で、青い花柄の白いビキニ姿の女性がソファに膝立ちし、背中から振り返る。窓外には鮮やかな海、緑の海岸、山並みと小さな石造建物が広がる。\n\n人物・表情：\n女性は左肩越しに顔をカメラへ向け、穏やかに微笑む。小さな顎の卵形、横長の目と細い眉、短めの細い鼻筋、淡いコーラルの唇。焦げ茶の顎下ボブに中央寄りの分け目と薄い前髪があり、毛先は内外へ軽く動く。メイクは薄く自然。\n\n服装・ポーズ：\n白地に青い小花が散る細紐の三角水着で、首、背中、両腰に白いリボン結びが見える。両手を窓下の木枠へ置き、片膝を体の下へ曲げ、反対の脚をソファの左下へ長く伸ばす。\n\n背景・光：\n前景に灰茶色の布張りソファと左右の大きな黒いクッション、背景に木の窓枠と海景色がある。窓外は青い海と白い積雲が明るく、屋内へ柔らかな青白い日光が回り込む。\n\n構図・カメラ：\n3:4の縦位置、水平のカメラ視点で後ろからほぼ全身を収める。大窓が上半分を横に占め、人物は中央やや右、伸ばした脚が左下前景へ迫る。人物と船窓にピントを合わせる。\n\n質感・スタイル：\n船室の落ち着いた布と木、明るい海色を対比した実写写真。肌と窓外を自然で滑らかに描く。\n\nネガティブ：\n背中の振り向きを正面座りにしない；伸ばした脚を省略しない",
-     "likes": 147,
+     "likes": 150,
      "retweets": 7,
      "replies": 0,
-     "views": "4485",
+     "views": "4623",
      "is_retweet": false,
      "url": "https://x.com/CyberTotal2026/status/2092146206612873306"
     }
@@ -2535,7 +2502,7 @@
    "handle": "Goodmanprotocol",
    "name": "Saul Goodman",
    "bio": "Turning AI into attention • Cinematic visuals • Viral prompts • DM for paid promos & collabs",
-   "followers": 9589,
+   "followers": 9590,
    "following": 465,
    "profile_url": "https://x.com/Goodmanprotocol",
    "tweets": [
@@ -2543,10 +2510,10 @@
      "id": "2092243087410282632",
      "created_at": "Tue Aug 25 13:29:58 +0000 2026",
      "text": "Create a premium vertical 4:5 illustrated travel poster of [CITY], [COUNTRY], imagined as a single woven tapestry of the city’s identity.\n\nInstead of placing landmarks side by side, build the entire artwork from flowing illustrated threads, ribbons, streets, architecture, landscapes, cultural symbols, and tiny moments of everyday life. Let the main streets of the city become the structural threads that weave everything together.\n\nThe city’s most iconic landmark should emerge naturally from the woven composition as the central focal point, surrounded by smaller recognizable buildings, local food, transportation, traditional patterns, nature, people, and cultural details.\n\nIntroduce subtle surrealism: rivers become flowing threads, roads become embroidered lines, mountains become stitched textures, clouds become soft fabric, and tiny buildings appear as intricate woven motifs.\n\nStyle: sophisticated hand-drawn ink illustration mixed with traditional textile art, embroidery, vintage travel poster design, and contemporary editorial illustration. Use elegant black outlines, fine linework, subtle cross-hatching, limited earthy colors, warm cream paper, delicate textile texture, and slightly imperfect handmade details.\n\nAt the top, place “[CITY]” in bold artistic hand-lettering, with “[COUNTRY]” beneath it in small elegant typography.\n\nMake it feel like a rare collectible art print rather than a conventional tourist poster - imaginative, culturally rich, highly detailed, poetic, tactile, clean, and instantly recognizable.",
-     "likes": 32,
+     "likes": 33,
      "retweets": 3,
-     "replies": 15,
-     "views": "738",
+     "replies": 16,
+     "views": "765",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2092243087410282632"
     },
@@ -2554,10 +2521,10 @@
      "id": "2092177406115348739",
      "created_at": "Tue Aug 25 09:08:59 +0000 2026",
      "text": "GPT Image 2\n\nPrompt:\nCreate a premium vertical aspect ratio 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.\n\nInstead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.\n\nUse bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.\n\nInclude:\n\nOne dominant iconic landmark\n\nA second architectural landmark subtly integrated into the skyline\n\nA famous natural landscape in the background\n\nLocal transportation\n\nTraditional clothing or cultural detail\n\nA recognizable food or drink\n\nSmall street-life moments\n\nBirds, clouds, plants and tiny decorative elements\n\nHandwritten labels pointing to selected elements\n\nAt the top, use a large playful hand-lettered title:\n\n“[COUNTRY]”\n\nBelow it, add a tiny elegant subtitle:\n\n“A little world to discover”\n\nMake the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.",
-     "likes": 51,
-     "retweets": 5,
+     "likes": 52,
+     "retweets": 6,
      "replies": 10,
-     "views": "2468",
+     "views": "2570",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2092177406115348739"
     },
@@ -2565,10 +2532,10 @@
      "id": "2092110912773935435",
      "created_at": "Tue Aug 25 04:44:45 +0000 2026",
      "text": "GPT Image 2\n\nPrompt:\nCreate a sophisticated vertical 3:4 travel art poster featuring [DESTINATION], designed as a refined contemporary fine-art print.\n\nCORE CONCEPT\n\nLANDMARK 70% + GEOMETRIC ABSTRACTION 30%\n\nClearly depict the destination’s most iconic landmarks, architecture, and landscapes first. Apply geometric simplification only after establishing a strong, recognizable destination identity.\n\nThe viewer should immediately think: “This is [DESTINATION].”\n\nLANDMARKS\n\nSelect 3–5 iconic visual elements, with 1–2 as the main protagonists.\n\nPreserve the primary landmarks’ recognizable:\n\nSilhouettes\n\nProportions\n\nArchitectural features\n\nDistinctive details\n\nKeep landmarks visually dominant. Do not reduce them into generic circles, rectangles, or abstract shapes.\n\nGEOMETRIC ABSTRACTION\n\nUse geometry as a supporting design language rather than replacing the landmarks.\n\nUse: circles, arches, rectangles, triangles, stepped forms, simplified rooftops, and layered color fields.\n\nApply these mainly to secondary architecture, roads, rivers, hills, trees, background skylines, and negative spaces.\n\nMaintain the visual balance of approximately 70% recognizable destination imagery + 30% geometric abstraction.\n\nCOMPOSITION\n\nUse a stable, elegant 3:4 vertical composition with generous negative space.\n\nKeep approximately the upper 40–50% open and atmospheric. Place only [DESTINATION] at the upper center using small uppercase English typography, thin sans-serif lettering, and wide letter spacing.\n\nNo slogan, subtitle, or additional text.\n\nBuild the main cityscape or landscape in the lower portion, making the primary landmark the first visual focus. Surround it naturally with secondary architecture, vegetation, water, hills, bridges, or other destination-specific elements.\n\nVISUAL HIERARCHY\n\nPrimary landmark → cityscape/overall silhouette → regional architecture → natural environment → geometric decoration.\n\nDo not simplify every element equally. Primary landmarks should remain specific and recognizable, while surrounding elements can become progressively more geometric.\n\nCOLOR & TEXTURE\n\nUse a sophisticated 6–10 color palette inspired by [DESTINATION], with muted contemporary tones and enough contrast to separate landmarks from their surroundings.\n\nAim for the feeling of a museum-quality gouache artwork / contemporary editorial print.\n\nAdd subtle handmade texture through paper fibers, gouache pigment variation, dry brush, colored pencil, pastel, or silkscreen-like texture.\n\nKeep it clean and contemporary. Avoid aged paper, sepia, yellowed backgrounds, or vintage brown filters.\n\nSTYLE\n\nScandinavian editorial illustration, mid-century geometric art, contemporary travel poster, modern architectural illustration, fine-art print, gouache and colored-pencil texture, restrained geometric simplification.\n\nAVOID\n\nExtreme abstraction, generic geometric cityscapes, giant circles or blocks dominating the composition, excessive Bauhaus abstraction, photorealism, 3D rendering, cartoon characters, sticker aesthetics, neon colors, excessive gradients, dramatic shadows, gold decoration, excessive architectural detail, overcrowding, or complex typography.\n\nFINAL TEST\n\nThe destination must be recognizable within the first second, while closer inspection should reveal a sophisticated contemporary artwork rather than a conventional tourism poster.\n\nMood: airy, recognizable, architectural, poetic, refined, geometric, sophisticated, contemporary, and collectible. Generate for istanbul",
-     "likes": 56,
+     "likes": 57,
      "retweets": 5,
      "replies": 11,
-     "views": "1623",
+     "views": "1652",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2092110912773935435"
     },
@@ -2579,7 +2546,7 @@
      "likes": 17,
      "retweets": 1,
      "replies": 8,
-     "views": "800",
+     "views": "802",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091950392624198018"
     },
@@ -2590,7 +2557,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "643",
+     "views": "645",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091887331666252166"
     },
@@ -2601,7 +2568,7 @@
      "likes": 118,
      "retweets": 12,
      "replies": 20,
-     "views": "3304",
+     "views": "3309",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091815865935384922"
     },
@@ -2612,7 +2579,7 @@
      "likes": 61,
      "retweets": 4,
      "replies": 20,
-     "views": "1770",
+     "views": "1773",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091756190183415857"
     },
@@ -2623,7 +2590,7 @@
      "likes": 60,
      "retweets": 12,
      "replies": 5,
-     "views": "2444",
+     "views": "2447",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091574394552516739"
     },
@@ -2631,10 +2598,10 @@
      "id": "2091508931520856435",
      "created_at": "Sun Aug 23 12:52:42 +0000 2026",
      "text": "Seedance 2.5\n\nPrompt:\nDURATION: 30 SECONDS | 16:9 | 8K CINEMATIC\n\nIMAGE 1 = MASTER TAEKWONDO\nIMAGE 2 = MASTER KUNGFU\n\nCreate an ultra-realistic continuous martial-arts fight using IMAGE 1 and IMAGE 2 as exact character references. Preserve facial identity, hairstyle, body proportions, wardrobe, accessories and appearance throughout. No morphing, face swapping or identity drift.\n\nSTYLE: ARRI Alexa 65 cinematic look, 8K detail, 35mm anamorphic lens, realistic skin and fabric, practical lighting, cinematic HDR, natural motion blur, subtle film grain, physically accurate choreography and grounded action-film cinematography.\n\n0–5 SEC — OPENING CLASH\nInside an abandoned industrial warehouse, IMAGE 1 attacks with a powerful roundhouse → spinning back kick. IMAGE 2 narrowly evades and counters with rapid Kung Fu punches, elbow and low kick. IMAGE 1 blocks, pivots and answers with body kick → high roundhouse. Use aggressive handheld camera, low-angle tracking and Dutch angles. Every impact produces realistic body recoil and weight transfer.\n\n5–8 SEC — TRANSITION\nIMAGE 1 launches a spinning hook kick. Camera follows the rotation with a fast whip-pan and realistic motion blur. The spinning movement seamlessly carries the fight into a new location. The transition must feel continuous—no teleportation, cuts or frozen poses.\n\n8–15 SEC — CONTINUOUS COMBAT\nThe fight immediately resumes. IMAGE 1 attacks with jumping side kick → spinning kick. IMAGE 2 ducks underneath and counters with a fast Kung Fu combination. Both fighters maintain realistic footwork, momentum, distance and balance. Camera performs a 360° orbit, low tracking shots and energetic handheld movement.\n\n15–21 SEC — ESCALATION\nBoth fighters exchange increasingly aggressive combinations: Taekwondo kicks against Kung Fu punches, elbows and sweeps. Include blocks, evasions, pivots, feints and counterattacks. Impacts visibly affect posture, balance and movement. No exaggerated wire-fu or impossible physics.\n\n21–25 SEC — FINISHING SETUP\nIMAGE 1 gains control with low kick → body kick → spinning back kick. IMAGE 2 is driven backward and briefly loses balance. Camera rapidly pushes toward IMAGE 1 as he prepares the final attack.\n\n25–28 SEC — FINAL IMPACT\nIMAGE 1 explodes forward with a jumping roundhouse followed by a powerful turning kick directly into IMAGE 2. The collision feels heavy and physically devastating. Use controlled cinematic impact shake and realistic full-body reaction.\n\n28–30 SEC — EXTREME SLOW MOTION\nAt the exact impact, shift into dramatic slow motion. IMAGE 2 reacts with realistic physics: torso twisting, shoulders rotating, hips following the force, feet briefly leaving the ground and clothing reacting naturally. Camera performs a slow cinematic orbit toward IMAGE 1.\n\nFINAL FRAME: IMAGE 1 stands firmly in a powerful Taekwondo stance, breathing heavily, while IMAGE 2 lies/falls in the background.\n\nCAMERA: dynamic handheld, Dutch angles, low-angle tracking, rapid push-ins, whip-pan transition, 360° orbit, controlled impact shake, dramatic slow motion.\n\nNEGATIVE: anime, cartoon, CGI look, plastic skin, video-game appearance, wire-fu, floating characters, impossible physics, teleportation, sudden position changes, duplicated limbs, extra fingers, distorted faces, body deformation, face morphing, identity drift, wardrobe changes, random choreography, weapons.\n\nCONTINUITY: One uninterrupted physical fight. Maintain exact character identity, wardrobe, proportions and fighting styles. Preserve spatial continuity, realistic momentum and cause-and-effect movement. Every action must naturally lead into the next.",
-     "likes": 106,
+     "likes": 107,
      "retweets": 14,
      "replies": 23,
-     "views": "3269",
+     "views": "3275",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091508931520856435"
     },
@@ -2645,7 +2612,7 @@
      "likes": 46,
      "retweets": 5,
      "replies": 13,
-     "views": "1588",
+     "views": "1592",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091451018274050373"
     },
@@ -2656,7 +2623,7 @@
      "likes": 255,
      "retweets": 22,
      "replies": 19,
-     "views": "9274",
+     "views": "9276",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091382710329848133"
     },
@@ -2667,7 +2634,7 @@
      "likes": 43,
      "retweets": 8,
      "replies": 3,
-     "views": "1859",
+     "views": "1861",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091216348156493859"
     },
@@ -2678,7 +2645,7 @@
      "likes": 96,
      "retweets": 8,
      "replies": 19,
-     "views": "3731",
+     "views": "3733",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091153699070746795"
     },
@@ -2689,7 +2656,7 @@
      "likes": 54,
      "retweets": 8,
      "replies": 8,
-     "views": "2382",
+     "views": "2384",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091077027415851221"
     },
@@ -2700,7 +2667,7 @@
      "likes": 129,
      "retweets": 18,
      "replies": 15,
-     "views": "3810",
+     "views": "3811",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2091007538464764164"
     },
@@ -2711,7 +2678,7 @@
      "likes": 134,
      "retweets": 19,
      "replies": 20,
-     "views": "6427",
+     "views": "6432",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2090842580741497050"
     },
@@ -2722,7 +2689,7 @@
      "likes": 153,
      "retweets": 23,
      "replies": 19,
-     "views": "4872",
+     "views": "4875",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2090781168597717168"
     },
@@ -2733,7 +2700,7 @@
      "likes": 68,
      "retweets": 5,
      "replies": 23,
-     "views": "2296",
+     "views": "2297",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2090728263752835145"
     },
@@ -2744,7 +2711,7 @@
      "likes": 35,
      "retweets": 3,
      "replies": 24,
-     "views": "1412",
+     "views": "1413",
      "is_retweet": false,
      "url": "https://x.com/Goodmanprotocol/status/2090659270295683372"
     }
@@ -2755,7 +2722,7 @@
    "handle": "collect24995",
    "name": "collect@AI画像編集研究",
    "bio": "AI美女の画像編集を検証しています。\nNano Banana｜GPT Image｜Grok\n※プロンプトを借りる際は引用リツイートかリプライでお願いします\n※編集元の画像は全て生成AIから新規生成しています\n※実在する人物には使用しないようにお願いします。使用した場合に発生する問題については一切の責任を負いません。",
-   "followers": 8607,
+   "followers": 8625,
    "following": 1489,
    "profile_url": "https://x.com/collect24995",
    "tweets": [
@@ -2766,7 +2733,7 @@
      "likes": 17,
      "retweets": 0,
      "replies": 0,
-     "views": "3354",
+     "views": "3556",
      "is_retweet": false,
      "url": "https://x.com/collect24995/status/2092273629988089891"
     },
@@ -2777,7 +2744,7 @@
      "likes": 9,
      "retweets": 0,
      "replies": 0,
-     "views": "3277",
+     "views": "3412",
      "is_retweet": false,
      "url": "https://x.com/collect24995/status/2092249405130998261"
     },
@@ -2788,7 +2755,7 @@
      "likes": 19,
      "retweets": 0,
      "replies": 0,
-     "views": "4823",
+     "views": "5021",
      "is_retweet": false,
      "url": "https://x.com/collect24995/status/2092193977873367063"
     },
@@ -2799,7 +2766,7 @@
      "likes": 6,
      "retweets": 0,
      "replies": 0,
-     "views": "5312",
+     "views": "5392",
      "is_retweet": false,
      "url": "https://x.com/collect24995/status/2092091531662639444"
     },
@@ -2810,7 +2777,7 @@
      "likes": 5,
      "retweets": 0,
      "replies": 0,
-     "views": "4472",
+     "views": "4544",
      "is_retweet": false,
      "url": "https://x.com/collect24995/status/2092089182923669796"
     },
@@ -2821,7 +2788,7 @@
      "likes": 11,
      "retweets": 0,
      "replies": 0,
-     "views": "4674",
+     "views": "4737",
      "is_retweet": false,
      "url": "https://x.com/collect24995/status/2092036609759924596"
     }
@@ -2832,7 +2799,7 @@
    "handle": "YUKIMASTERAI",
    "name": "YUKI",
    "bio": "🪼⋆｡𖦹°🫧❀тʀâм❀_🎀⋆.ೃ࿔*:\n🚀 Cập nhật xu hướng & workflow thực chiến\n💡 Học hỏi – giao lưu – cùng phát triển\n🔥 Xây cộng đồng AI chất lượng, tích cực và sáng tạo",
-   "followers": 7694,
+   "followers": 7697,
    "following": 4575,
    "profile_url": "https://x.com/YUKIMASTERAI",
    "tweets": [
@@ -2840,10 +2807,10 @@
      "id": "2092434158127808848",
      "created_at": "Wed Aug 26 02:09:13 +0000 2026",
      "text": "云不会与风竞争。\n\n风不会试图挡住云彩。 🌿🌸 https://t.co/sPfQvqPgCE",
-     "likes": 0,
+     "likes": 9,
      "retweets": 0,
      "replies": 0,
-     "views": "15",
+     "views": "422",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092434158127808848"
     },
@@ -2851,10 +2818,10 @@
      "id": "2092415714724577466",
      "created_at": "Wed Aug 26 00:55:56 +0000 2026",
      "text": "试图抓住一个已经用尽角色的人，只会让你永远停留在旧剧本中。 🌿🌸 https://t.co/1vKaLUBh6V",
-     "likes": 4,
+     "likes": 12,
      "retweets": 0,
      "replies": 1,
-     "views": "188",
+     "views": "323",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092415714724577466"
     },
@@ -2862,10 +2829,10 @@
      "id": "2092414058834313281",
      "created_at": "Wed Aug 26 00:49:21 +0000 2026",
      "text": "“不需要等待开始。 每天一边学习——一边工作——一边发展。”😇 https://t.co/lNfqg7xXuW",
-     "likes": 13,
+     "likes": 18,
      "retweets": 0,
      "replies": 1,
-     "views": "271",
+     "views": "344",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092414058834313281"
     },
@@ -2873,10 +2840,10 @@
      "id": "2092410443717546141",
      "created_at": "Wed Aug 26 00:34:59 +0000 2026",
      "text": "“请像晚开的季节一样生活，这样在经历了最贫瘠的岁月之后，仍然有人相信世界上从未耗尽过美好的事物。”\n\n🥰 https://t.co/8d0UQFwTyy",
-     "likes": 13,
+     "likes": 16,
      "retweets": 0,
      "replies": 5,
-     "views": "416",
+     "views": "523",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092410443717546141"
     },
@@ -2884,10 +2851,10 @@
      "id": "2092404230363681049",
      "created_at": "Wed Aug 26 00:10:18 +0000 2026",
      "text": "“生活就像一齣戏，不管是长还是短并不重要，但重要的是演技是否好。 让我们活得精彩。”🌿🌸 https://t.co/gQYYtrHvB8",
-     "likes": 22,
+     "likes": 23,
      "retweets": 0,
      "replies": 2,
-     "views": "575",
+     "views": "644",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092404230363681049"
     },
@@ -2895,10 +2862,10 @@
      "id": "2092264447587070416",
      "created_at": "Tue Aug 25 14:54:51 +0000 2026",
      "text": "“有时我觉得很自私，因为我太喜欢独处了，我可以沉默很多天，不想念任何人，甚至感到有点平静。”🌸🌿 https://t.co/LReFciKzfu",
-     "likes": 31,
+     "likes": 32,
      "retweets": 2,
      "replies": 2,
-     "views": "880",
+     "views": "917",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092264447587070416"
     },
@@ -2909,7 +2876,7 @@
      "likes": 13,
      "retweets": 0,
      "replies": 5,
-     "views": "1095",
+     "views": "1124",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092258924032565452"
     },
@@ -2917,10 +2884,10 @@
      "id": "2092253127307403634",
      "created_at": "Tue Aug 25 14:09:52 +0000 2026",
      "text": "当你停止匆忙时，生活将开始向你展示它真正的美。✨🌿🌸 https://t.co/98fOmwr26m",
-     "likes": 41,
+     "likes": 47,
      "retweets": 2,
      "replies": 12,
-     "views": "1267",
+     "views": "1344",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092253127307403634"
     },
@@ -2931,7 +2898,7 @@
      "likes": 19,
      "retweets": 0,
      "replies": 7,
-     "views": "1080",
+     "views": "1096",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092247059789418923"
     },
@@ -2942,7 +2909,7 @@
      "likes": 11,
      "retweets": 2,
      "replies": 9,
-     "views": "1042",
+     "views": "1056",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092234615721505217"
     },
@@ -2950,10 +2917,10 @@
      "id": "2092205929643327565",
      "created_at": "Tue Aug 25 11:02:19 +0000 2026",
      "text": "我非常喜欢这个16-20毫米的低角度风格，因为缩略图看起来非常引人注目。 🔥 https://t.co/Fh436oGKRs",
-     "likes": 49,
+     "likes": 51,
      "retweets": 2,
      "replies": 2,
-     "views": "1523",
+     "views": "1573",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092205929643327565"
     },
@@ -2961,10 +2928,10 @@
      "id": "2092196824186753086",
      "created_at": "Tue Aug 25 10:26:08 +0000 2026",
      "text": "“安静地照顾好你的梦想，因为当它绽放时，全世界都会知道你有多执着。”🍃🌸 https://t.co/GenX7PDDBw",
-     "likes": 79,
+     "likes": 82,
      "retweets": 5,
      "replies": 7,
-     "views": "2011",
+     "views": "2034",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092196824186753086"
     },
@@ -2975,7 +2942,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "301",
+     "views": "307",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092183918418198765"
     },
@@ -2983,10 +2950,10 @@
      "id": "2092182913953812633",
      "created_at": "Tue Aug 25 09:30:52 +0000 2026",
      "text": "“在我生命中最黑暗的时刻，我自己把自己从深渊中拉了出来。 如果没有人在那里，我就会变成那个人。” 😘 https://t.co/vwEoSTS4iA",
-     "likes": 37,
+     "likes": 41,
      "retweets": 1,
      "replies": 3,
-     "views": "989",
+     "views": "1006",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092182913953812633"
     },
@@ -2994,10 +2961,10 @@
      "id": "2092159875233309046",
      "created_at": "Tue Aug 25 07:59:19 +0000 2026",
      "text": "“一切都很美，但不是每个人都能看到，\n\n我喜欢它不是因为它很美，而是因为我喜欢它，我之所以感到美丽。」🍃🌸 https://t.co/SJKUShaq9f",
-     "likes": 34,
+     "likes": 37,
      "retweets": 2,
      "replies": 1,
-     "views": "1224",
+     "views": "1263",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092159875233309046"
     },
@@ -3005,10 +2972,10 @@
      "id": "2092157365437251654",
      "created_at": "Tue Aug 25 07:49:20 +0000 2026",
      "text": "“不要寻找一张漂亮的脸蛋，因为它会随着时间的推移而衰老。 寻找一个美丽的灵魂，因为它会永远存在”🍃🌸 https://t.co/A6owhDudCq",
-     "likes": 37,
+     "likes": 38,
      "retweets": 1,
      "replies": 15,
-     "views": "917",
+     "views": "925",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092157365437251654"
     },
@@ -3019,7 +2986,7 @@
      "likes": 59,
      "retweets": 4,
      "replies": 14,
-     "views": "2259",
+     "views": "2291",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092128357433680082"
     },
@@ -3027,10 +2994,10 @@
      "id": "2092125794994995201",
      "created_at": "Tue Aug 25 05:43:54 +0000 2026",
      "text": "Mnf：每天都很幸运💐\n\n“我一直担心我的整个生活是否并不辉煌，但我忘记了每天睁开眼睛是一件幸运的事情......”🥰 https://t.co/fLzzwlAUYO",
-     "likes": 37,
+     "likes": 38,
      "retweets": 1,
      "replies": 6,
-     "views": "1234",
+     "views": "1243",
      "is_retweet": false,
      "url": "https://x.com/YUKIMASTERAI/status/2092125794994995201"
     }
@@ -3041,18 +3008,29 @@
    "handle": "lansenai",
    "name": "澜森",
    "bio": "AI Filmmaker & Visual Director  \nAction Cinema • Dark Fantasy • Eastern Mythology  \nOriginal worlds, characters & stories  \nCollabs: lansenaistudio@gmail.com/dm",
-   "followers": 7541,
+   "followers": 7546,
    "following": 1102,
    "profile_url": "https://x.com/lansenai",
    "tweets": [
     {
+     "id": "2092435660678590521",
+     "created_at": "Wed Aug 26 02:15:11 +0000 2026",
+     "text": "刚学的提示词，分享一下，我自己做的15s\n1人出镜，12秒一镜到底，文成百丈瀑取景，徐克武侠大片风格，高帧率，4K超清。\n\n色调与画质\n复古港风昏黄暗调，16毫米胶片颗粒感，水墨青黛叠鎏金幽光，水雾氤氲柔化光影，电影级质感。\n\n场景环境\n青藤覆崖、苔痕浸石，深潭叠瀑、云气绕峰，飞瀑与崖峰相融，百丈飞瀑为幕，崖缝、崖巅、瀑口草甸、深潭边。\n\n人物与造型\n人物为清冷骨相，眉目凌厉绝艳，自带侠气与江湖气，容颜冷艳绝美；身着华丽宋式青衣汉服，负剑造型。\n\n分镜动作＋运镜（精准卡点）\n\n0–3秒\n竖版低角度背跟，先脸部特写（微侧脸目光凝视镜头，目光锋锐如刀），突然转身（镜头拉远），负剑立瀑口草甸、足尖点草借力掠出（镜头持续跟进，草浪分涌），结印手指挥向苍穹，手中油纸伞旋舞化千百青影，穿梭三折飞瀑崖壁间，衣袂猎猎。\n\n3–6秒\n竖版环绕180°，白衣女刺客挥剑扑来，人物后仰贴地滑行避袭，伞影横挡破招，镜头仰拍，人物腾空点崖借力飞升，伞影如青翼护体，身姿翩跹如孤鸿。\n\n6–9秒\n竖版快速推进＋穿崖缝，崖巅刺客俯冲突袭、刀光破空，人物汇伞影成擎天青幕猛击，气浪震碎崖石、水花四溅，踏石飞掠，伞影追身逼退围杀，动作凌厉飘逸。\n\n9–12秒\n竖版缓拉远景→脸部特写定格，人物负剑静立，天光破雾镀身，刺客退散，腾空回旋跃立百丈瀑之巅，伞影归宗，手中油纸伞缓缓撑开，漫天花瓣随风飘旋而至，青衣映瀑、伞绕青芒。\n\n全程运镜逻辑\n一镜到底无剪辑，转身后低角度背跟→环绕180°→仰拍→快速推进→穿越崖缝→缓拉远景→特写定格，气韵贯通，写意徐克式江湖武侠融文成山水，高级感拉满。",
+     "likes": 10,
+     "retweets": 0,
+     "replies": 0,
+     "views": "462",
+     "is_retweet": false,
+     "url": "https://x.com/lansenai/status/2092435660678590521"
+    },
+    {
      "id": "2092413864604520921",
      "created_at": "Wed Aug 26 00:48:35 +0000 2026",
      "text": "依旧分享一个来自抖音做的很好的动画打斗场景视频，学习 https://t.co/OtxTqFRUv4",
-     "likes": 20,
-     "retweets": 2,
+     "likes": 50,
+     "retweets": 5,
      "replies": 2,
-     "views": "690",
+     "views": "1452",
      "is_retweet": false,
      "url": "https://x.com/lansenai/status/2092413864604520921"
     },
@@ -3061,7 +3039,7 @@
      "created_at": "Tue Aug 25 13:53:57 +0000 2026",
      "text": "RT @keshiAIart: 🛹\nSeedance2.5 https://t.co/R4364uL3kg",
      "likes": 0,
-     "retweets": 160,
+     "retweets": 164,
      "replies": 0,
      "views": "35",
      "is_retweet": true,
@@ -3071,10 +3049,10 @@
      "id": "2092221915138326924",
      "created_at": "Tue Aug 25 12:05:50 +0000 2026",
      "text": "30秒。一部电梯。\n两个已经打红眼的男人。没有退路，也没有硬切。\n拳头擦过嘴角，血沫和口水横穿镜头；摄影机贴着地面后撤，在抱摔瞬间完成90°翻滚——门一开，整场厮杀直接冲进走廊。 https://t.co/oKhXhyNFFg",
-     "likes": 68,
+     "likes": 69,
      "retweets": 5,
      "replies": 16,
-     "views": "2678",
+     "views": "2796",
      "is_retweet": false,
      "url": "https://x.com/lansenai/status/2092221915138326924"
     },
@@ -3082,10 +3060,10 @@
      "id": "2092156716549079234",
      "created_at": "Tue Aug 25 07:46:46 +0000 2026",
      "text": "更新一下提示词，首帧定义两名角色、人物身份、面部、体型、服装、机械护臂、旧东方工业街巷、铜管、灯笼、蒸汽、湿润石板地面、逆光方向和整体暖灰色调。以首帧中的碰撞姿态作为0秒，动作立即自然延续，不重新摆姿势，不停顿。 30秒，16:9，电影级写实东方武术动作长镜头，高燃、快速但动作清晰，一镜到底，无硬切、无瞬移、无换场。甲是首帧左侧束发、面有胡茬、穿破旧黑灰色层叠长袍的精瘦武者；乙是首帧右侧短发、赤裸上身、双前臂佩戴深色金属机械护臂、穿黑色宽腿裤的强壮武者。二人的面部、发型、体型和服装全程固定；机械护臂始终只属于乙。摄影机主要追踪两人之间的中点，28mm广角电影镜头感，机位约70–100厘米，平滑手持稳定器质感；平时稳定流畅，只有真实命中瞬间出现短促冲击震动和轻微推近，运动模糊只出现在高速肢体、衣摆和飞散颗粒上。 0–4秒：从首帧碰撞瞬间继续。乙用交叉的机械护臂架住甲的前臂重击，金属发出沉闷震响；乙猛然向外卸力，甲顺势转髋滑步，两人从贴身状态向两侧分开半步，脚下积水、灰尘和蒸汽被冲击掀起。摄影机从当前近距离双人画面平滑后退约1.5米，同时绕两人中点走约60度短弧，保持双方上半身和接触点清晰。 4–9秒：甲重新压低重心快速逼近，连续打出两记清楚的中段掌击；乙用左右机械护臂依次格挡，随后打出一记力量沉重的横向摆拳。甲俯身从拳下闪过，贴近乙的外侧，同时以肩部撞向乙的肋侧；乙脚下后滑但没有失去平衡，马上恢复防守。摄影机保持腰部高度，以中近景沿两人移动方向侧向跟拍并继续缓慢环绕，铜管、灯笼和蒸汽在背景产生强烈视差；每次命中后衣袍、汗水和水滴才出现延迟惯性。 9–14秒：乙踏碎地面积水向前追击，连续直拳逼迫甲后退。甲先拨开乙的手腕，再旋身借力将乙带向侧面，紧接一记低扫腿；乙抬腿避开并沉重落地。甲旋转时黑色衣袖自然掠过镜头，形成一次短暂的前景遮挡；摄影机利用衣袖遮挡做连续whip pan，从甲的过肩位置移动到两人侧面，不发生隐藏剪切，人物动作、朝向和空间关系始终连续。 14–19秒：乙突然加速，踩上街巷侧面的低矮石台借力腾空，完成一次力量感强烈的转身下劈腿。甲向后滑步，双臂交叉格挡，冲击震落上方灰尘并震开旁边管道中的白色蒸汽。摄影机在乙起跳之前先拉成全身双人广角，机位迅速降低到约40厘米并平滑上仰跟随，围绕两人中点再走约90度弧线；命中瞬间短促推近，随后立即恢复稳定，不持续摇晃。 19–24秒：甲抓住乙落地后的短暂空隙，快速冲刺蹬地跃起；乙正面迎击，二人在空中完成一次清楚的交叉踢击，接触后沿相反方向分开。摄影机先小幅后撤为腾空留出空间，当二人双脚完全离地时，摄影机围绕自身光轴执行一次平滑、受控的接近180度camera roll，始终锁定两人中点；街道和建筑本身不旋转，只有摄影机姿态发生变化。镜头翻滚在二人落地前完成，落地时画面自然恢复接近水平，二人都有真实的膝部缓冲、衣摆惯性和积水飞溅，没有漂浮感。 24–28秒：二人落地后立即进入最后一轮近身攻防，只保留三个清楚节拍：乙打出机械护臂直拳，甲向外拨开；乙接一记近身肘击，甲用前臂挡住；甲旋转身体，以肩背和掌根完成一次沉重反击，将乙推得沿湿润石板向后滑行数米。摄影机贴近地面快速后退，再沿短弧切入两人侧前方；三次接触各有明确接触点、受力方向和身体回收，最后一击出现最强的低频冲击、蒸汽爆开、水花飞散和一次极短的impact push-in。 28–30秒：乙单膝触地后立刻用机械护臂撑住身体，抬头保持战意；甲在前景滑步停下，黑色长袍和散落发丝缓慢落定，两人隔着翻涌蒸汽重新形成对峙。摄影机平滑升高并向后拉成宽幅全景，逐渐显露整条铜管密布、灯笼摇晃的旧街巷；暖色逆光穿过蒸汽，最后停在稳定、有张力的双人构图，不要突然定格或淡出。 声音：无对白、无人声演唱。保留急促呼吸、布料破风、湿地脚步、水花、蒸汽喷射和机械护臂撞击的金属低鸣；配乐使用低沉战鼓、弦乐脉冲和逐渐增强的低频节奏，19–24秒空中交击时短暂抽掉部分音乐突出破风声，24秒落地后鼓点重新爆发，最后两秒只保留余震、蒸汽声和压低的鼓点。 连续性约束：严格保持首帧的两张脸、体型比例、发型、服装、护臂造型、灯光方向、街巷结构和色彩；角色可以因摄影机连续环绕而自然改变画面左右位置，但不能无缘由交换身份或瞬移。保持真实重力、脚底支撑、攻防距离、接触点、受力方向和动作回收。不要增加第三名战斗者、武器、超能力、能量光效或爆炸。",
-     "likes": 81,
+     "likes": 83,
      "retweets": 7,
-     "replies": 36,
-     "views": "4216",
+     "replies": 37,
+     "views": "4385",
      "is_retweet": false,
      "url": "https://x.com/lansenai/status/2092156716549079234"
     },
@@ -3096,7 +3074,7 @@
      "likes": 48,
      "retweets": 3,
      "replies": 8,
-     "views": "1917",
+     "views": "1930",
      "is_retweet": false,
      "url": "https://x.com/lansenai/status/2092009828038402437"
     },
@@ -3107,7 +3085,7 @@
      "likes": 116,
      "retweets": 8,
      "replies": 18,
-     "views": "9819",
+     "views": "10025",
      "is_retweet": false,
      "url": "https://x.com/lansenai/status/2091918272900035062"
     },
@@ -3118,7 +3096,7 @@
      "likes": 18,
      "retweets": 0,
      "replies": 1,
-     "views": "1044",
+     "views": "1059",
      "is_retweet": false,
      "url": "https://x.com/lansenai/status/2091868611854172197"
     },
@@ -3129,7 +3107,7 @@
      "likes": 109,
      "retweets": 5,
      "replies": 13,
-     "views": "3650",
+     "views": "3657",
      "is_retweet": false,
      "url": "https://x.com/lansenai/status/2091702226188480948"
     },
@@ -3139,8 +3117,8 @@
      "text": "一张角色图，能不能直接生成30秒东方轻功大片？赛博江湖，中式轻功展示。\n高空翻转、缓慢悬落，三剑斩出交叉水墨天轨，踏着墨痕俯冲，碎片凌空爆发，拔剑冲向镜头，再以空气涡环收尾。 https://t.co/iptVmytgqr",
      "likes": 249,
      "retweets": 16,
-     "replies": 45,
-     "views": "9658",
+     "replies": 46,
+     "views": "9667",
      "is_retweet": false,
      "url": "https://x.com/lansenai/status/2091462876515172711"
     },
@@ -3151,7 +3129,7 @@
      "likes": 74,
      "retweets": 5,
      "replies": 27,
-     "views": "5313",
+     "views": "5326",
      "is_retweet": false,
      "url": "https://x.com/lansenai/status/2091452230658658339"
     }
@@ -3170,10 +3148,10 @@
      "id": "2092374065109733436",
      "created_at": "Tue Aug 25 22:10:26 +0000 2026",
      "text": "昨日エッッな投稿しておきながら言うけど、裏👶にエ🔲は不要。\nだってみんな「オカズは無料で十分」って思ってるでしょ？それお客さんも同じ。\nこれ考えたら、どこへどうやって連れていくか考えぬく方が大事なのは言うまでもないよね。",
-     "likes": 17,
+     "likes": 23,
      "retweets": 0,
-     "replies": 4,
-     "views": "1616",
+     "replies": 8,
+     "views": "1753",
      "is_retweet": false,
      "url": "https://x.com/K_polar_AI/status/2092374065109733436"
     },
@@ -3181,10 +3159,10 @@
      "id": "2092241869724094686",
      "created_at": "Tue Aug 25 13:25:08 +0000 2026",
      "text": "くっっっっ。X厳しすぎるって。\n除外となったので、備蓄美女はアップから30分も経たないうちにお蔵入りとなりました😇w",
-     "likes": 27,
+     "likes": 28,
      "retweets": 0,
      "replies": 6,
-     "views": "1736",
+     "views": "1823",
      "is_retweet": false,
      "url": "https://x.com/K_polar_AI/status/2092241869724094686"
     },
@@ -3195,7 +3173,7 @@
      "likes": 22,
      "retweets": 0,
      "replies": 5,
-     "views": "2375",
+     "views": "2409",
      "is_retweet": false,
      "url": "https://x.com/K_polar_AI/status/2092084552382718010"
     },
@@ -3206,7 +3184,7 @@
      "likes": 30,
      "retweets": 0,
      "replies": 8,
-     "views": "3447",
+     "views": "3452",
      "is_retweet": false,
      "url": "https://x.com/K_polar_AI/status/2091146767236776223"
     },
@@ -3228,7 +3206,7 @@
      "likes": 716,
      "retweets": 20,
      "replies": 23,
-     "views": "88776",
+     "views": "88797",
      "is_retweet": false,
      "url": "https://x.com/K_polar_AI/status/2090551698796450297"
     },
@@ -3239,7 +3217,7 @@
      "likes": 44,
      "retweets": 0,
      "replies": 18,
-     "views": "4266",
+     "views": "4271",
      "is_retweet": false,
      "url": "https://x.com/K_polar_AI/status/2090368557871988799"
     },
@@ -3250,7 +3228,7 @@
      "likes": 30,
      "retweets": 1,
      "replies": 2,
-     "views": "5694",
+     "views": "5698",
      "is_retweet": false,
      "url": "https://x.com/K_polar_AI/status/2090280912349237324"
     },
@@ -3261,7 +3239,7 @@
      "likes": 40,
      "retweets": 0,
      "replies": 11,
-     "views": "10437",
+     "views": "10447",
      "is_retweet": false,
      "url": "https://x.com/K_polar_AI/status/2090258655593758732"
     }
@@ -3272,8 +3250,8 @@
    "handle": "Chengzilhy",
    "name": "小宇Chengzi",
    "bio": "🎬 AI Filmmaker｜Prompt专家\n🚀 让更多人轻松玩好AI视频\n💡 分享实用AI视频方法、真实工作流\n✉️hongyuliu540@gmail.com｜微信 L394675716",
-   "followers": 7230,
-   "following": 621,
+   "followers": 7234,
+   "following": 623,
    "profile_url": "https://x.com/Chengzilhy",
    "tweets": [
     {
@@ -3283,7 +3261,7 @@
      "likes": 62,
      "retweets": 1,
      "replies": 18,
-     "views": "6659",
+     "views": "6757",
      "is_retweet": false,
      "url": "https://x.com/Chengzilhy/status/2092081852479947129"
     },
@@ -3305,7 +3283,7 @@
      "likes": 505,
      "retweets": 38,
      "replies": 27,
-     "views": "46610",
+     "views": "46830",
      "is_retweet": false,
      "url": "https://x.com/Chengzilhy/status/2091729084380598433"
     },
@@ -3338,7 +3316,7 @@
      "likes": 97,
      "retweets": 8,
      "replies": 9,
-     "views": "20396",
+     "views": "20592",
      "is_retweet": false,
      "url": "https://x.com/Chengzilhy/status/2091512551767175261"
     },
@@ -3349,7 +3327,7 @@
      "likes": 68,
      "retweets": 3,
      "replies": 18,
-     "views": "6078",
+     "views": "6088",
      "is_retweet": false,
      "url": "https://x.com/Chengzilhy/status/2091392691536093391"
     },
@@ -3382,7 +3360,7 @@
      "likes": 4,
      "retweets": 0,
      "replies": 1,
-     "views": "966",
+     "views": "971",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2091100158994051202"
     },
@@ -3393,7 +3371,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 1,
-     "views": "742",
+     "views": "747",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2091038972793536800"
     },
@@ -3404,7 +3382,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 1,
-     "views": "860",
+     "views": "863",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090794959020675480"
     },
@@ -3415,7 +3393,7 @@
      "likes": 1,
      "retweets": 1,
      "replies": 1,
-     "views": "776",
+     "views": "780",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090760635537903802"
     },
@@ -3426,7 +3404,7 @@
      "likes": 7,
      "retweets": 0,
      "replies": 0,
-     "views": "717",
+     "views": "720",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090722973523275917"
     },
@@ -3437,7 +3415,7 @@
      "likes": 2,
      "retweets": 1,
      "replies": 2,
-     "views": "629",
+     "views": "632",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090665224563278024"
     },
@@ -3448,7 +3426,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 0,
-     "views": "496",
+     "views": "498",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090623980772450470"
     },
@@ -3459,7 +3437,7 @@
      "likes": 4,
      "retweets": 0,
      "replies": 1,
-     "views": "692",
+     "views": "696",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090607084891201963"
     },
@@ -3470,7 +3448,7 @@
      "likes": 15,
      "retweets": 0,
      "replies": 1,
-     "views": "1534",
+     "views": "1536",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090491341621047297"
     },
@@ -3481,7 +3459,7 @@
      "likes": 4,
      "retweets": 1,
      "replies": 0,
-     "views": "1927",
+     "views": "1936",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090380656849412545"
     },
@@ -3492,7 +3470,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "1206",
+     "views": "1210",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090294178500796761"
     },
@@ -3503,7 +3481,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "522",
+     "views": "523",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090229656373084508"
     },
@@ -3514,7 +3492,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "535",
+     "views": "536",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090143817110548961"
     },
@@ -3525,7 +3503,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "543",
+     "views": "544",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090085546945311085"
     },
@@ -3536,7 +3514,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "449",
+     "views": "450",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2090035220552826926"
     },
@@ -3569,7 +3547,7 @@
      "likes": 4,
      "retweets": 0,
      "replies": 0,
-     "views": "2253",
+     "views": "2255",
      "is_retweet": false,
      "url": "https://x.com/DeepBlueXAI/status/2089945783886074019"
     },
@@ -3602,7 +3580,7 @@
    "handle": "PixelAigc",
    "name": "PixelAIGC",
    "bio": "🎬 AI Filmmaker | 🎥 Cinematic AI Videos | ⚡ Midjourney • Seedance • Chatgpt • MiniMax | 🍿 Movies • 🧙 Fantasy Worlds • 🚀 Viral AI Content  | ⚡ Prompt | Skill",
-   "followers": 5124,
+   "followers": 5125,
    "following": 751,
    "profile_url": "https://x.com/PixelAigc",
    "tweets": [
@@ -3613,7 +3591,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "190",
+     "views": "252",
      "is_retweet": false,
      "url": "https://x.com/PixelAigc/status/2092412771107504189"
     },
@@ -3621,10 +3599,10 @@
      "id": "2092412765873062366",
      "created_at": "Wed Aug 26 00:44:13 +0000 2026",
      "text": "太惊艳!\n导演和演员的危机来了！\n这种光影和氛围，人物表情，已经达到了电影的水平\n这仅仅是用提示词在本地电脑里生成的20秒视频\n\nprompt 视频提示词如下：👇 https://t.co/cKMuMetCCf",
-     "likes": 2,
+     "likes": 3,
      "retweets": 0,
      "replies": 2,
-     "views": "249",
+     "views": "332",
      "is_retweet": false,
      "url": "https://x.com/PixelAigc/status/2092412765873062366"
     }
@@ -3635,8 +3613,8 @@
    "handle": "xuan_lune",
    "name": "炫",
    "bio": "AI visual experiments with GPT Image 2.0.\nEditorial portraits, travel sketches, prompt studies, and style breakdowns",
-   "followers": 3789,
-   "following": 5653,
+   "followers": 3790,
+   "following": 5652,
    "profile_url": "https://x.com/xuan_lune",
    "tweets": [
     {
@@ -3646,7 +3624,7 @@
      "likes": 83,
      "retweets": 1,
      "replies": 0,
-     "views": "1762",
+     "views": "1767",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2091944954230870370"
     },
@@ -3657,7 +3635,7 @@
      "likes": 30,
      "retweets": 0,
      "replies": 0,
-     "views": "601",
+     "views": "603",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2091565062305767475"
     },
@@ -3668,7 +3646,7 @@
      "likes": 146,
      "retweets": 2,
      "replies": 1,
-     "views": "4763",
+     "views": "4766",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2090124776480411851"
     },
@@ -3679,7 +3657,7 @@
      "likes": 278,
      "retweets": 11,
      "replies": 1,
-     "views": "9997",
+     "views": "10002",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2089807277188682234"
     },
@@ -3690,7 +3668,7 @@
      "likes": 37,
      "retweets": 0,
      "replies": 1,
-     "views": "1660",
+     "views": "1662",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2088918098233684305"
     },
@@ -3701,7 +3679,7 @@
      "likes": 117,
      "retweets": 4,
      "replies": 2,
-     "views": "6188",
+     "views": "6189",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2087170619771359587"
     },
@@ -3712,7 +3690,7 @@
      "likes": 58,
      "retweets": 3,
      "replies": 1,
-     "views": "2250",
+     "views": "2252",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2087150200540594362"
     },
@@ -3723,7 +3701,7 @@
      "likes": 47,
      "retweets": 1,
      "replies": 1,
-     "views": "2802",
+     "views": "2803",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2087130834403029051"
     },
@@ -3734,7 +3712,7 @@
      "likes": 32,
      "retweets": 2,
      "replies": 0,
-     "views": "1899",
+     "views": "1900",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2086905355590869458"
     },
@@ -3745,7 +3723,7 @@
      "likes": 47,
      "retweets": 1,
      "replies": 0,
-     "views": "2018",
+     "views": "2019",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2086879750476439574"
     },
@@ -3756,7 +3734,7 @@
      "likes": 62,
      "retweets": 1,
      "replies": 0,
-     "views": "2675",
+     "views": "2676",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2086866306159223261"
     },
@@ -3767,7 +3745,7 @@
      "likes": 450,
      "retweets": 16,
      "replies": 3,
-     "views": "24827",
+     "views": "24828",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2086841680075075590"
     },
@@ -3778,7 +3756,7 @@
      "likes": 81,
      "retweets": 0,
      "replies": 1,
-     "views": "2463",
+     "views": "2464",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2086532580292362724"
     },
@@ -3789,7 +3767,7 @@
      "likes": 58,
      "retweets": 4,
      "replies": 3,
-     "views": "3030",
+     "views": "3031",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2086487759209054682"
     },
@@ -3800,7 +3778,7 @@
      "likes": 114,
      "retweets": 3,
      "replies": 1,
-     "views": "4896",
+     "views": "4897",
      "is_retweet": false,
      "url": "https://x.com/xuan_lune/status/2086481160243429465"
     },
@@ -3856,9 +3834,31 @@
    "name": "LingTian594888",
    "bio": "Gpt或Grok製作 玩6秒或10秒生成 \n不定時轉發分享ai藝術家創作短片或影片\n沒回跟到的朋友請告知，必回跟\n祝自己跟觀看的朋友們 福澤伴一生",
    "followers": 3733,
-   "following": 3653,
+   "following": 3668,
    "profile_url": "https://x.com/Ling_1055Tw",
    "tweets": [
+    {
+     "id": "2092448142314893342",
+     "created_at": "Wed Aug 26 03:04:47 +0000 2026",
+     "text": "RT @mn_cherry_art: 01 pink suit, posing in cold room 🔺\nsfw illustration 🔺\n#AIart #AIイラスト #fantasyart #animegirl https://t.co/VyxQsUfcHB",
+     "likes": 0,
+     "retweets": 7,
+     "replies": 0,
+     "views": "3",
+     "is_retweet": true,
+     "url": "https://x.com/Ling_1055Tw/status/2092448142314893342"
+    },
+    {
+     "id": "2092447814156710009",
+     "created_at": "Wed Aug 26 03:03:29 +0000 2026",
+     "text": "RT @demimiki6: #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AIイラスト #AI绘画 #AI艺术 #aigirl https://t.co/2ophBZXQVH",
+     "likes": 0,
+     "retweets": 1,
+     "replies": 0,
+     "views": "3",
+     "is_retweet": true,
+     "url": "https://x.com/Ling_1055Tw/status/2092447814156710009"
+    },
     {
      "id": "2092288705365193165",
      "created_at": "Tue Aug 25 16:31:14 +0000 2026",
@@ -3877,7 +3877,7 @@
      "likes": 27,
      "retweets": 0,
      "replies": 1,
-     "views": "346",
+     "views": "362",
      "is_retweet": false,
      "url": "https://x.com/Ling_1055Tw/status/2092280642067386767"
     },
@@ -3908,7 +3908,7 @@
      "created_at": "Tue Aug 25 15:31:21 +0000 2026",
      "text": "RT @Neocept_Design: Step outside the hot spring hotel, and the town stretches up along the hillside.\n\nYes, the entire slope is basically a…",
      "likes": 0,
-     "retweets": 1,
+     "retweets": 2,
      "replies": 0,
      "views": "6",
      "is_retweet": true,
@@ -3941,7 +3941,7 @@
      "created_at": "Tue Aug 25 15:07:22 +0000 2026",
      "text": "RT @2025Rasid: Tarian kidung Jawa. https://t.co/AyNvSPVaNa",
      "likes": 0,
-     "retweets": 14,
+     "retweets": 15,
      "replies": 0,
      "views": "4",
      "is_retweet": true,
@@ -4006,10 +4006,10 @@
      "id": "2092248075767341311",
      "created_at": "Tue Aug 25 13:49:48 +0000 2026",
      "text": "https://t.co/hwIbqVxC9S",
-     "likes": 39,
+     "likes": 40,
      "retweets": 6,
      "replies": 3,
-     "views": "557",
+     "views": "572",
      "is_retweet": false,
      "url": "https://x.com/Ling_1055Tw/status/2092248075767341311"
     },
@@ -4056,28 +4056,6 @@
      "views": "5",
      "is_retweet": true,
      "url": "https://x.com/Ling_1055Tw/status/2092169107345228147"
-    },
-    {
-     "id": "2092168934401446014",
-     "created_at": "Tue Aug 25 08:35:19 +0000 2026",
-     "text": "RT @liluocheng13: Made by Gemini Veo https://t.co/AQsA9eA8ad",
-     "likes": 0,
-     "retweets": 1,
-     "replies": 0,
-     "views": "5",
-     "is_retweet": true,
-     "url": "https://x.com/Ling_1055Tw/status/2092168934401446014"
-    },
-    {
-     "id": "2092168147835240941",
-     "created_at": "Tue Aug 25 08:32:11 +0000 2026",
-     "text": "RT @zhngwibn284976: 今天，公布吸血鬼女友提示词啦～\n👇\nPrompt：\n9:16竖屏，时长10.0秒，60fps，真实手机人像第一人称互动质感，单镜头固定连续拍摄。年轻东亚女性面部极近特写，脸部几乎占满整个画面，侧卧侧枕在柔软深色枕头上。黑色长发凌乱散落枕边…",
-     "likes": 0,
-     "retweets": 7,
-     "replies": 0,
-     "views": "?",
-     "is_retweet": true,
-     "url": "https://x.com/Ling_1055Tw/status/2092168147835240941"
     }
    ],
    "disp_name": "LingTian"
@@ -4097,7 +4075,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "78",
+     "views": "80",
      "is_retweet": false,
      "url": "https://x.com/OninoETH/status/2092088962399850563"
     },
@@ -4218,18 +4196,29 @@
    "handle": "chenlinspark",
    "name": "尘林 Spark",
    "bio": "AI 工具实战 × Agent 工作流 × 视觉设计\n提示词实战 / 生图案例 / 自动化 SOP\n从真实实践中，沉淀可复用的方法",
-   "followers": 2437,
+   "followers": 2440,
    "following": 217,
    "profile_url": "https://x.com/chenlinspark",
    "tweets": [
     {
+     "id": "2092439157243052489",
+     "created_at": "Wed Aug 26 02:29:05 +0000 2026",
+     "text": "单色墨线、角色识别色平涂、动画发色＋识别色配饰。 https://t.co/twwH3Wi3ev",
+     "likes": 1,
+     "retweets": 0,
+     "replies": 0,
+     "views": "39",
+     "is_retweet": false,
+     "url": "https://x.com/chenlinspark/status/2092439157243052489"
+    },
+    {
      "id": "2092255677209334188",
      "created_at": "Tue Aug 25 14:20:00 +0000 2026",
      "text": "近距离捕捉一瞬间的安静。\n\n没有过多修饰，\n只是光线、眼神和自然的呼吸感。\n\n提示词Prompt：\n\n4:5，100mm macro beauty photography，Korean beauty close-up portrait  Adult Korean woman, rose water-glow makeup, semi-matte skin, glossy pink lips.  Wearing icy blue spaghetti strap top, silver earrings, black and white hand-painted nails near cheek.  Dark gray studio background.  Extreme close-up, fingers gently near face, lips slightly parted, soft direct gaze.  Focus on lips texture, iris reflection, eyelashes and natural skin details.  High-end skincare advertisement photography, ultra realistic.  Negative: extra fingers, distorted hand, second person, artificial face, over-retouched skin",
-     "likes": 5,
+     "likes": 6,
      "retweets": 0,
      "replies": 0,
-     "views": "408",
+     "views": "438",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092255677209334188"
     },
@@ -4237,10 +4226,10 @@
      "id": "2092253160815391084",
      "created_at": "Tue Aug 25 14:10:00 +0000 2026",
      "text": "如果把夏天藏进一张照片里，\n大概就是这样的感觉吧。\n\n提示词Prompt：\n\n16:9，16mm motion-picture still  韩系成年女性居家写真，暖灰胶片风  黑茶色短碎发，清透裸妆，自然皮肤纹理  穿白色针织居家服，趴在床上  双手握白色小勺靠近脸部，微微抬头看镜头  窗光照亮眼睛、鼻梁和发丝  白色床单、格纹抱枕、柔软卧室背景  电影级浅景深，16mm镜头颗粒，轻微画面抖动  真实恋人视角摄影  负面： 第二人、摄影者、复制身体、错误手指、AI生成感、过度磨皮",
-     "likes": 24,
+     "likes": 27,
      "retweets": 1,
-     "replies": 2,
-     "views": "1109",
+     "replies": 3,
+     "views": "1219",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092253160815391084"
     },
@@ -4251,7 +4240,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 0,
-     "views": "246",
+     "views": "257",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092250652512514306"
     },
@@ -4259,10 +4248,10 @@
      "id": "2092243096834547879",
      "created_at": "Tue Aug 25 13:30:00 +0000 2026",
      "text": "今晚的约会地点：\n\n没有星空，只有霓虹。🌙\n\n提示词Prompt：\n\n3:4，slow-shutter digital photography，韩系夜晚自拍写真。  成年韩系女性，冷调玫瑰妆，半哑光肌，黑色长直发。  服装：黑色露肩上衣，灰色外套搭在肩上。  场景：夜桥城市背景，灯光形成横向拖尾。  动作：鼓脸卖萌，一只手靠近镜头产生轻微运动模糊。  镜头：闪光灯锁定眼睛和脸部，背景保持慢门动态。  真实手机摄影，情侣视角。  负面：不要第二张脸，不要手指错误，不要畸形身体。",
-     "likes": 32,
+     "likes": 35,
      "retweets": 1,
      "replies": 3,
-     "views": "840",
+     "views": "893",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092243096834547879"
     },
@@ -4270,10 +4259,10 @@
      "id": "2092222206679941544",
      "created_at": "Tue Aug 25 12:07:00 +0000 2026",
      "text": "窗边的光、柔软的床单，还有一瞬间被记录下来的温柔。\n\n提示词Prompt：\n\n16:9，16mm motion-picture still，韩系公寓女友写真，暖灰胶片颗粒  成年韩系女性，清透裸妆，自然皮肤纹理，柔和黑色盘发，碎发修饰脸部  穿浅灰色居家T恤，坐在卧室窗边地板上，双手握白色小勺靠近胸前  镜头从床边高位向下拍摄，窗光穿过白色纱帘照亮眼睛和脸侧  旁边有白色床铺、木地板、柔软被子，背景浅景深虚化  表情温柔安静，像恋人视角记录的日常瞬间  真实摄影，16mm电影静帧，轻微曝光过渡，暖灰色调  负面： 第二个人、镜子倒影、摄影者、畸形手、额外手指、塑料脸、过度锐化、水印",
-     "likes": 17,
+     "likes": 20,
      "retweets": 0,
      "replies": 0,
-     "views": "2141",
+     "views": "2295",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092222206679941544"
     },
@@ -4281,10 +4270,10 @@
      "id": "2092210378591592516",
      "created_at": "Tue Aug 25 11:20:00 +0000 2026",
      "text": "今晚的约会地点：\n\n没有星空，只有霓虹。🌙\n\n提示词Prompt：\n\n3:4，slow-shutter digital photography，韩系夜间女友自拍感。  成年韩系女性，冷调玫瑰妆，半哑光皮肤，黑色长发，精致银色耳坠。  服装：深蓝色露肩针织上衣。  场景：空旷停车场，夜晚城市灯光形成蓝紫红色横向流光。  道具：蓝色荧光棒靠近胸前。  镜头：近距离平视半身，背景慢门拖影，主体脸部由闪光瞬间冻结。  动作表情：鼓脸看镜头，眼神俏皮，轻微撒娇感。  摄影风格：真实手机夜拍，高动态范围，电影感。  负面：不要复制人物，不要多余手臂，不要变形脸，不要过度磨皮。",
-     "likes": 10,
+     "likes": 11,
      "retweets": 1,
      "replies": 0,
-     "views": "595",
+     "views": "627",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092210378591592516"
     },
@@ -4295,7 +4284,7 @@
      "likes": 5,
      "retweets": 0,
      "replies": 0,
-     "views": "467",
+     "views": "477",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092190042835800295"
     },
@@ -4306,7 +4295,7 @@
      "likes": 6,
      "retweets": 0,
      "replies": 0,
-     "views": "432",
+     "views": "446",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092127330999386208"
     },
@@ -4317,7 +4306,7 @@
      "likes": 12,
      "retweets": 0,
      "replies": 0,
-     "views": "1153",
+     "views": "1174",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092114749332836771"
     },
@@ -4328,7 +4317,7 @@
      "likes": 6,
      "retweets": 1,
      "replies": 1,
-     "views": "566",
+     "views": "578",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092097886985326782"
     },
@@ -4339,7 +4328,7 @@
      "likes": 11,
      "retweets": 1,
      "replies": 0,
-     "views": "585",
+     "views": "590",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092082284467720622"
     },
@@ -4350,7 +4339,7 @@
      "likes": 16,
      "retweets": 3,
      "replies": 1,
-     "views": "1262",
+     "views": "1274",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2092067044833321330"
     },
@@ -4361,7 +4350,7 @@
      "likes": 11,
      "retweets": 0,
      "replies": 0,
-     "views": "1053",
+     "views": "1056",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2091895806286831710"
     },
@@ -4372,7 +4361,7 @@
      "likes": 20,
      "retweets": 1,
      "replies": 1,
-     "views": "1424",
+     "views": "1435",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2091890772907827284"
     },
@@ -4383,7 +4372,7 @@
      "likes": 64,
      "retweets": 6,
      "replies": 1,
-     "views": "2749",
+     "views": "2788",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2091883601927290948"
     },
@@ -4394,7 +4383,7 @@
      "likes": 29,
      "retweets": 4,
      "replies": 1,
-     "views": "1684",
+     "views": "1688",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2091881713051828429"
     },
@@ -4405,7 +4394,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 0,
-     "views": "687",
+     "views": "689",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2091873157380743325"
     },
@@ -4416,7 +4405,7 @@
      "likes": 6,
      "retweets": 0,
      "replies": 0,
-     "views": "1242",
+     "views": "1257",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2091863341857931553"
     },
@@ -4427,20 +4416,9 @@
      "likes": 7,
      "retweets": 1,
      "replies": 0,
-     "views": "1929",
+     "views": "1944",
      "is_retweet": false,
      "url": "https://x.com/chenlinspark/status/2091848059328118825"
-    },
-    {
-     "id": "2091790109284721096",
-     "created_at": "Mon Aug 24 07:30:00 +0000 2026",
-     "text": "海风、阳光，还有刚刚好的夏日心情。🌊☀️\n把这一刻偷偷收藏起来。\n\n提示词Prompt：\n\n9:16，手臂长度自拍，VHS travelogue，明亮热带海岛记录感，轻微色散、柔焦边缘、泛白高光。 成年年轻女性，K-idol visual，湿润长发被海风吹过脸侧，青苹果氧气妆，晒后淡粉面中。 穿浅蓝白小碎花比基尼 + 白色宽松薄衬衫。左手伸向镜头自拍，右手高高举起一瓶装满冰水的透明塑料水瓶，像在向镜头展示“太热了”，同时俏皮眨一只眼睛，嘴角轻笑。 背景是棕榈叶、海岸礁石、白浪与高亮海面。太阳从右上方进入，形成小范围 flare。水瓶标签不要出现可读文字。 不要塑料皮肤、不要全脸油膜、不要过度磨皮、不要过度锐化、不要 HDR、不要廉价滤镜、不要商业棚拍感、不要僵硬摆拍、不要手指畸形、不要多余肢体、不要头颈断裂、不要文字水印、不要可读品牌 Logo、不要脸部整体死白。",
-     "likes": 30,
-     "retweets": 2,
-     "replies": 0,
-     "views": "2901",
-     "is_retweet": false,
-     "url": "https://x.com/chenlinspark/status/2091790109284721096"
     }
    ],
    "disp_name": "尘林Spark"
@@ -4450,17 +4428,17 @@
    "name": "Arvin",
    "bio": "长风破浪会有时，直挂云帆济沧海\n用AI创造不存在的世界\n🎬 AI电影｜视觉艺术｜东方幻想\n原创作品 / Prompt免费公开分享\n使用请@我｜禁止售卖提示词｜盗用必究",
    "followers": 1507,
-   "following": 719,
+   "following": 720,
    "profile_url": "https://x.com/Arvin010717",
    "tweets": [
     {
      "id": "2092241743051948430",
      "created_at": "Tue Aug 25 13:24:38 +0000 2026",
      "text": "提示词：\n\n电影级写实渲染，UE5.5 Path Tracer，人物面部极致高清晰度，8K分辨率，60fps，180°快门自然动态模糊，35mm胶片颗粒强度0.12，极轻微RGB色散。冷灰电影底色，硬朗明暗交界，电影级硬光定向照明，明暗层次分明。PBR级服装布料、金属饰件、发丝薄纱材质，8K纹理细节精度。画面干净通透，无文字无水印，非真人实拍，16:9横屏。禁止背景音乐，禁止字幕，禁止任何文字叠加。\n \n场景：\n \n女主：严格按照参考图。双手持一柄紫金神枪，枪身由液态雷浆凝固而成，表面流淌着金色雷纹，枪尖吞吐着刺目的炽白锋芒。\n \n核心铁律：零帧开局，收尾0.5秒干净定格，其余14.5秒全程高能，每0.5秒至少一次有效打击或技能释放。三段式：游龙清兵→技能风暴→神枪贯地。游龙阶段必须在妖兽群中高速位移穿梭，禁止原地挥舞。所有特效均为有真实物理材质感的液态雷浆形态。命中瞬间强制抽帧，爆发节点强制插入负片效果。镜头全程运动，动态模糊、抽帧、负片效果、镜头震动随战斗强度逐步增强。\n \n第一阶段·游龙清兵，0至5秒\n \n0至0.5秒·雷枪降临。景别：超级大远景。视角：低角度仰拍。运镜：零帧开局，天穹雷暴云层被一道金色雷柱贯穿，女主从雷柱中垂直坠落，神枪枪尖砸入战场中央。落地瞬间炸开一圈覆盖全场的环形金色冲击波，冲击波扫过之处妖兽成片蒸发成光粒。命中强制抽帧，镜头剧烈震动。特效：冲击波分三层——核心炽白等离子光球，中层金色雷纹能量环，外层淡紫辉光吸附地面雷浆成旋转气旋。\n \n0.5至1.5秒·枪扫千军接回马枪。景别：全景。视角：侧面平视。运镜：高速横移跟拍。女主左脚蹬地，身体向右前方妖兽群最密集处突进，神枪从左向右暴力横扫——枪尖拖出极长的金色弧光呈扇形向前方扩散，弧光扫过之处妖兽成排拦腰斩断，躯体墨化溃散。借横扫之势旋身，神枪从腋下向后猛刺——回马枪贯穿背后扑来的妖兽胸口，妖兽从内向外炸成光粒。镜头先向右急甩跟拍横扫，再向后急甩跟拍回马枪。每次命中强制抽帧，镜头剧烈震动。特效：弧光带水墨飞白边，妖兽溃散时躯体化为墨色粒子与金色光粒交织的爆裂气团。\n \n1.5至2.5秒·瞬闪三连刺。景别：全景。视角：侧面平视转正面平视。运镜：高速横移跟拍。女主连续三次瞬移，每次瞬移都向妖兽群更深处突进——第一次向右前方，原地留下半透明雷光残影消散，真身出现在三只妖兽身后，神枪连续刺出三枪，三只妖兽同时炸裂；第二次向左前方，残影未散真身已出现在两只妖兽上方，神枪垂直劈下将妖兽钉入地面；第三次直冲妖兽群中央，神枪旋转一周扫出环形光幕，将周围一圈妖兽全部震飞。三次瞬移零停顿，残影与真身交替出现。每次命中强制抽帧，镜头持续震动。特效：残影由金色雷光粒子构成，短暂滞留后炸成光粒消散。\n \n2.5至3.5秒·枪舞游龙。景别：全景转超级大远景。视角：鸟瞰俯拍。运镜：镜头垂直拉升。女主压低重心沿妖兽群缝隙以S形曲线连续高速穿梭——神枪不断刺出、横扫、上挑，每一次动作都释放出一道金色雷光弧线。弧线在妖兽群中交织成密集光网，光网所过之处妖兽成片墨化溃散。她的身形化作一缕金色残影，穿梭轨迹在妖兽群中拖出极长的光痕如游龙蜿蜒。镜头在高空跟随穿梭轨迹同步平移。命中强制抽帧，镜头持续震动。特效：穿梭光痕采用水墨粒子系统，光痕两侧妖兽被冲击波掀飞。\n \n3.5至4.5秒·冲天枪。景别：超级大远景。视角：低角度仰拍转鸟瞰俯拍。运镜：镜头从地面向上急摇。女主穿梭至妖兽海核心区域，猛然蹬地跃起——脚下炸开金色冲击波，身体旋转上升，神枪向天一指，枪尖刺出一道炽白光柱冲天而起，贯穿上方盘旋的妖兽群。光柱直径随高度膨胀，两侧妖兽被卷入冲击波蒸发。命中强制抽帧，镜头剧烈震动。特效：光柱内部有密集金色雷纹螺旋上升，表面有炽白电弧跳跃。\n \n4.5至5秒·收枪蓄势。景别：超级大远景转全景。视角：侧面平视。运镜：女主空中轻盈落地，神枪猛然顿地——枪尖砸入地面的瞬间，战场上所有金色光痕同时亮起刺目光芒。光芒如百川归海般向神枪汇聚，枪身表面的金色雷纹全部点亮。命中强制插入负片效果，画面色彩瞬间反转。战场陷入短暂寂静。特效：光痕汇聚采用粒子逆流模拟，枪身雷纹采用发光材质。\n \n第二阶段·技能风暴，5至10秒\n \n5至5.5秒·雷枪风暴。景别：全景转超级大远景。视角：侧面平视转鸟瞰俯拍。运镜：女主神枪拔地而起，猛然向四方横扫——枪尖拖出的金色雷光在虚空中炸开，化为一道覆盖整片战场的金色雷暴风暴。风暴呈螺旋状向四面八方扩散，内部有密集的金色雷纹疯狂旋转。风暴所过之处妖兽被卷入其中，躯体被雷光电离成光粒。镜头跟随风暴扩散方向高速拉远。命中强制抽帧加负片效果双重叠加，镜头剧烈震动。特效：风暴采用流体模拟，内部雷纹螺旋排列，边缘密集金色电弧跳跃。\n \n5.5至6.5秒·枪影九天。景别：超级大远景。视角：鸟瞰俯拍。运镜：镜头以女主为中心高速螺旋环绕。风暴在战场上空持续扩散——女主在风暴中心，神枪不断刺出、横扫，每一次出枪都从风暴中分离出数十道极细的金色雷光枪影。枪影如暴雨般向四面八方扩散，覆盖整片战场。枪影所过之处妖兽被贯穿成光粒，地面被划出密集沟壑。命中强制抽帧，镜头持续震动。特效：枪影采用半透明金色雷光气刃，每道枪影边缘都有密集雷纹跳跃。\n \n6.5至7.5秒·雷光巨浪。景别：超级大远景。视角：侧面平视。运镜：高速横移跟拍。女主神枪从左向右猛然一挥——风暴中分离出一道高达数百丈的金色雷光巨浪。巨浪以摧枯拉朽之势向战场右侧碾压而去，表面翻涌着密集金色雷纹，浪尖处有炽白电弧疯狂跳跃。巨浪所过之处妖兽被卷入浪中化为光粒，地面被冲出一道深不见底的沟壑。命中强制插入负片效果，镜头剧烈震动。特效：巨浪采用流体模拟，浪尖电弧采用随机分叉算法。\n \n7.5至8.5秒·雷枪天罚。景别：超级大远景。视角：低角度仰拍转鸟瞰俯拍。运镜：女主神枪向天一指——风暴中分离出数百道金色雷光，雷光在云层中凝聚成一颗颗炽白的毁灭星斗。星斗由压缩到极致的雷浆凝聚，每颗山峰大小，表面翻涌炽热电弧。星斗如暴雨砸入战场，每颗激起万丈雷光巨浪。命中强制抽帧，镜头震动达到阶段最强。特效：星斗坠落采用流体模拟，巨浪采用粒子系统。\n \n8.5至10秒·收枪蓄力。景别：超级大远景转近景。视角：侧面平视。运镜：女主神枪猛然顿地，整片风暴瞬间收缩回枪身之中。风暴中的雷光、粒子、电弧全部被吸入枪身。枪身表面的金色雷纹全部点亮到刺目。命中强制插入负片效果，画面色彩反转，所有光痕在负片中呈现极光般的梦幻色彩。特效：风暴收缩采用粒子逆流模拟，枪身雷纹采用发光材质。\n \n第三阶段·神枪贯地，10至14.5秒\n \n10至11秒·蓄力跃空。景别：近景转全景。视角：正面平视转低角度仰拍。运镜：女主双手持枪，身体微蹲蓄力——周身金色雷光疯狂汇聚，枪尖的炽白锋芒亮到刺目。她猛然跃起，身体旋转上升，神枪高举过头。镜头跟随她上升。命中强制抽帧，镜头震动。特效：枪尖雷光汇聚采用粒子系统，粒子从战场各处被抽取。\n \n11至13秒·神枪贯地。景别：全景转超级大远景。视角：低角度仰拍转鸟瞰俯拍。运镜：女主从高空俯冲而下，神枪枪尖朝下，以超越声音的速度贯穿战场——枪尖突破音障炸开锥形音爆云。神枪砸入战场中央，命中瞬间整个画面被刺目金色光芒吞没——大面积屏幕闪白。闪白褪去后镜头切至鸟瞰俯拍——一道炽白光柱从命中点冲天而起贯穿雷暴云层。环形冲击波从命中点向外扩散，冲击波由金色雷光与炽白电弧交织而成，呈球形向外狂暴扩散。冲击波扫过之处，妖兽海如退潮般从中心向边缘蒸发。地面雷晶岩被震成齑粉，雷浆从裂缝中喷涌而出形成数百道雷浆喷泉。命中瞬间强制抽帧加负片效果双重叠加，镜头震动达到全片最强。特效：冲击波分三层——核心炽白等离子光球，中层金色雷纹能量环，外层淡紫辉光吸附地面雷浆成旋转气旋。\n \n13至14.5秒·收枪。景别：超级大远景转面部特写。视角：鸟瞰俯拍转正面微仰拍。运镜：镜头从深坑上空极速推近至女主面部。她右手持枪，枪身表面的金色雷纹缓缓收敛，枪尖最后一缕炽白电弧在金属表面跳跃了最后一下，缓缓熄灭。眉心一道极淡的金色雷枪神印微微一亮，然后收敛为极淡的微光。她缓缓睁开双眼，瞳孔中倒映着战场上的雷光余晖。嘴角微扬，露出一丝平静的笑意。特效：眉心神印收敛采用材质透明度渐变，瞳孔倒映采用光线追踪反射。\n \n14.5至15秒·定格\n \n景别：面部特写。视角：正面微仰拍。运镜：镜头静止。女主右手持枪，枪身斜靠肩头，枪尖最后一缕金色光粒缓缓飘落。发丝间的金色电弧全部熄灭。浅金琥珀瞳中倒映着正在缓缓消散的雷光余晖。面容冷艳如冰雕，嘴角带着一丝极淡的笑意。画面定格。35mm胶片颗粒质感，冷灰电影底色，硬朗明暗交界。运动速度：静止定格。时长：14.5至15秒。",
-     "likes": 15,
+     "likes": 17,
      "retweets": 1,
      "replies": 9,
-     "views": "2077",
+     "views": "2191",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2092241743051948430"
     },
@@ -4471,7 +4449,7 @@
      "likes": 13,
      "retweets": 1,
      "replies": 2,
-     "views": "3262",
+     "views": "3429",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2092241580434620470"
     },
@@ -4482,7 +4460,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 1,
-     "views": "152",
+     "views": "155",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2092167753335755065"
     },
@@ -4493,7 +4471,7 @@
      "likes": 11,
      "retweets": 0,
      "replies": 3,
-     "views": "509",
+     "views": "522",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2092127446464450906"
     },
@@ -4504,7 +4482,7 @@
      "likes": 5,
      "retweets": 0,
      "replies": 0,
-     "views": "346",
+     "views": "357",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2092119927436300524"
     },
@@ -4515,7 +4493,7 @@
      "likes": 4,
      "retweets": 0,
      "replies": 4,
-     "views": "458",
+     "views": "468",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2092089289404469322"
     },
@@ -4526,7 +4504,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 2,
-     "views": "1030",
+     "views": "1032",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2091915142179271052"
     },
@@ -4537,7 +4515,7 @@
      "likes": 24,
      "retweets": 1,
      "replies": 4,
-     "views": "3476",
+     "views": "3484",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2091911775394652301"
     },
@@ -4548,7 +4526,7 @@
      "likes": 11,
      "retweets": 1,
      "replies": 2,
-     "views": "936",
+     "views": "939",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2091896322819551351"
     },
@@ -4559,7 +4537,7 @@
      "likes": 35,
      "retweets": 5,
      "replies": 3,
-     "views": "2908",
+     "views": "2913",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2091894720205390325"
     },
@@ -4570,7 +4548,7 @@
      "likes": 17,
      "retweets": 0,
      "replies": 3,
-     "views": "5270",
+     "views": "5326",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2091867359602774157"
     },
@@ -4581,7 +4559,7 @@
      "likes": 13,
      "retweets": 2,
      "replies": 1,
-     "views": "7918",
+     "views": "7995",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2091832742589943868"
     },
@@ -4592,7 +4570,7 @@
      "likes": 7,
      "retweets": 0,
      "replies": 2,
-     "views": "1923",
+     "views": "1948",
      "is_retweet": false,
      "url": "https://x.com/Arvin010717/status/2091765209375350918"
     }
@@ -4735,7 +4713,7 @@
    "handle": "momo_film2006",
    "name": "Ⓟ𝕃𝔸𝕐𝔽𝕆ℝ𝔾𝔼",
    "bio": "仲良くしてください (´｡• ω •｡`) (Please be friends with me.)",
-   "followers": 58,
+   "followers": 59,
    "following": 34,
    "profile_url": "https://x.com/momo_film2006",
    "tweets": [
@@ -4746,7 +4724,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "507",
+     "views": "509",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2083087911206191176"
     },
@@ -4757,7 +4735,7 @@
      "likes": 3,
      "retweets": 0,
      "replies": 0,
-     "views": "356",
+     "views": "358",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2075182495356838065"
     },
@@ -4768,7 +4746,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "339",
+     "views": "341",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2074092146269823164"
     },
@@ -4779,7 +4757,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "319",
+     "views": "321",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2073401474118480336"
     },
@@ -4790,7 +4768,7 @@
      "likes": 1,
      "retweets": 1,
      "replies": 0,
-     "views": "369",
+     "views": "371",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2070028266258239959"
     },
@@ -4801,7 +4779,7 @@
      "likes": 2,
      "retweets": 1,
      "replies": 0,
-     "views": "7359",
+     "views": "7361",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2069955490139001027"
     },
@@ -4812,7 +4790,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "293",
+     "views": "294",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2069941910412967977"
     },
@@ -4823,7 +4801,7 @@
      "likes": 1,
      "retweets": 0,
      "replies": 0,
-     "views": "250",
+     "views": "251",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2058961298444927171"
     },
@@ -4834,7 +4812,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "220",
+     "views": "221",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2057658508087034101"
     },
@@ -4845,7 +4823,7 @@
      "likes": 0,
      "retweets": 0,
      "replies": 0,
-     "views": "2005",
+     "views": "2006",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2013615231948239074"
     },
@@ -4856,7 +4834,7 @@
      "likes": 2,
      "retweets": 0,
      "replies": 0,
-     "views": "1928",
+     "views": "1929",
      "is_retweet": false,
      "url": "https://x.com/momo_film2006/status/2013420382879948969"
     },
