@@ -172,7 +172,12 @@ def extract_tweet_text(tweet_result):
 def parse_tweet(entry):
     try:
         content = entry.get("content", {})
-        item_content = content.get("itemContent", content)
+        # 兼容 TimelineTimelineModule 分组：推文嵌套在 item.itemContent 里
+        item_wrapper = entry.get("item") if isinstance(entry, dict) else None
+        if isinstance(item_wrapper, dict) and "itemContent" in item_wrapper:
+            item_content = item_wrapper.get("itemContent", {})
+        else:
+            item_content = content.get("itemContent", content)
         tweet_result = item_content.get("tweet_results", {}).get("result", {})
         if not tweet_result or tweet_result.get("__typename") == "TweetUnavailable":
             return None
