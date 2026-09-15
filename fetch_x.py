@@ -159,7 +159,11 @@ def gql_get(client, endpoint_key, variables, features, guest_token=None):
         headers=request_headers(guest_token),
     )
     r.raise_for_status()
-    return r.json()
+    data = r.json()
+    if data.get("errors"):
+        codes = [str(error.get("code", "unknown")) for error in data["errors"]]
+        raise ValueError("X API errors: " + ",".join(codes))
+    return data
 
 # ── 解析 ───────────────────────────────────────────────────────────────────────
 def extract_tweet_text(tweet_result):
@@ -182,6 +186,7 @@ def parse_tweet(entry):
         tweet_result = item_content.get("tweet_results", {}).get("result", {})
         if not tweet_result or tweet_result.get("__typename") == "TweetUnavailable":
             return None
+        tweet_result = tweet_result.get("tweet", tweet_result)
         legacy = tweet_result.get("legacy", {})
         if not legacy:
             return None
@@ -202,7 +207,9 @@ def parse_tweet(entry):
 def flatten_timeline(data):
     tweets = []
     try:
-        instructions = data["data"]["user"]["result"]["timeline_v2"]["timeline"]["instructions"]
+        result = data["data"]["user"]["result"]
+        timeline = result.get("timeline_v2", result.get("timeline", {}))
+        instructions = timeline.get("timeline", timeline)["instructions"]
         for inst in instructions:
             for entry in inst.get("entries", []):
                 t = parse_tweet(entry)
@@ -212,8 +219,8 @@ def flatten_timeline(data):
                     t = parse_tweet(item)
                     if t:
                         tweets.append(t)
-    except (KeyError, TypeError):
-        pass
+    except (KeyError, TypeError) as exc:
+        raise ValueError("无法识别 X 时间线，保留历史数据") from exc
     return tweets
 
 
@@ -254,6 +261,9 @@ def fetch_account(client, handle, guest_token, top_n, max_retries=2):
                 }, TWEET_FEATURES, guest_token,
             )
             tweets = flatten_timeline(data)
+            if not tweets:
+                print(f"  ⚠️ @{handle}: 未返回可用推文，保留历史数据", file=sys.stderr)
+                return None
 
             # 去重 + 按时间最新在前 + 取前 N 条
             seen, unique = set(), []
@@ -352,6 +362,8 @@ def main():
             acc = fetch_account(client, handle, gt, args.top)
             if acc:
                 acc["disp_name"] = disp_name
+                acc["fetched_at"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
+                acc["stale"] = False
                 results.append(acc)
             else:
                 failed_count += 1
@@ -359,6 +371,7 @@ def main():
                 if handle in previous:
                     old_acc = previous[handle]
                     old_acc["disp_name"] = disp_name
+                    old_acc["stale"] = True
                     results.append(old_acc)
                     reused_count += 1
                     print(f"  ♻️ @{handle}: 本次失败，保留上次数据（{len(old_acc.get('tweets', []))} 条）")
@@ -369,13 +382,21 @@ def main():
 
     results.sort(key=lambda a: a.get("followers", 0), reverse=True)
 
+    fresh_count = len(results) - reused_count
+    if fresh_count == 0:
+        print("错误：本次没有成功更新任何博主，保留原 data.json，停止发布。", file=sys.stderr)
+        return 1
+
     payload = {
         "generated_at": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=8))).strftime("%Y-%m-%d %H:%M"),
         "total_accounts": len(results),
+        "fetch_summary": {"requested": len(accounts), "fresh": fresh_count,
+                          "reused": reused_count, "failed": failed_count},
         "accounts": results,
     }
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE + ".tmp", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
+    os.replace(OUTPUT_FILE + ".tmp", OUTPUT_FILE)
 
     total_tweets = sum(len(a["tweets"]) for a in results)
     fresh_count = len(results) - reused_count
@@ -384,4 +405,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

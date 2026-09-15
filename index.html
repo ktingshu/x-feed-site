@@ -113,6 +113,34 @@
     h1 { font-size: 20px; }
     .meta { text-align: left; }
   }
+
+  :root { --bg:#f5f5f0; --text:#202b29; --muted:#63716b; --accent:#176548; --accent-soft:#e5efe8; --line:#dfe5de; --chip-bg:#f5f7f2; }
+  .wrap { max-width:1120px; }
+  header { background:#fff; padding:22px 0; }
+  .intro { margin:40px 0 28px; }
+  .eyebrow { font-size:11px; font-weight:700; letter-spacing:3px; color:var(--accent); }
+  h2 { font-size:clamp(26px,5vw,40px); letter-spacing:-1px; margin:10px 0; }
+  .intro p, #health { color:var(--muted); font-size:13px; }
+  .tools { display:flex; gap:14px; margin-bottom:16px; }
+  .tools label { display:grid; gap:6px; font-size:12px; color:var(--muted); }
+  .tools label:first-child { flex:1; }
+  input,select { font:inherit; font-size:14px; padding:12px 14px; border:1px solid var(--line); border-radius:10px; background:white; color:var(--text); width:100%; }
+  #health { margin:12px 0 20px; }
+  .authors { border-top:1px solid var(--line); border-bottom:1px solid var(--line); padding:14px 0; margin-bottom:22px; }
+  summary { cursor:pointer; font-size:14px; font-weight:600; }
+  .chips { margin:16px 0 2px; max-height:220px; overflow:auto; padding:2px; }
+  .feed { grid-template-columns:repeat(2,minmax(0,1fr)); align-items:start; gap:16px; }
+  .card { box-shadow:none; padding:22px; }
+  .avatar { background:var(--accent-soft); color:var(--accent); }
+  .text { line-height:1.85; max-height:360px; overflow:auto; }
+  .stats { flex-wrap:wrap; gap:14px; }
+  .empty,.loading { grid-column:1/-1; }
+  .stale { font-size:11px; color:#98650f; }
+  .more { display:block; margin:26px auto; padding:12px 30px; }
+  [hidden] { display:none!important; }
+  :focus-visible { outline:3px solid var(--accent); outline-offset:3px; }
+  @media(max-width:650px) { .feed { grid-template-columns:1fr; } .tools { flex-direction:column; } .card { padding:18px; } .intro { margin-top:26px; } }
+  @media(prefers-reduced-motion:reduce) { * { animation:none!important; transition:none!important; } }
 </style>
 </head>
 <body>
@@ -124,45 +152,55 @@
       <div class="sub">AI 提示词 · 视觉创作 · AI 美女 —— 每日自动更新</div>
     </div>
     <div class="meta">
-      <span class="badge">● 自动更新</span>
+      <span class="badge">每日同步 · 以数据时间为准</span>
       <div class="updated" id="updated">更新时间 --</div>
     </div>
   </div>
 </header>
 
 <div class="wrap">
-  <div class="chips" id="chips"></div>
+  <section class="intro"><span class="eyebrow">THE CREATOR FEED</span><h2>好灵感，值得每天看。</h2><p>从关注的创作者中，发现 AI 提示词与视觉创作。</p></section>
+  <div class="tools"><label>搜索动态<input id="search" type="search" placeholder="搜索内容、博主或关键词" /></label><label>发布时间<select id="range"><option value="0">全部时间</option><option value="1">最近 24 小时</option><option value="7">最近 7 天</option><option value="30">最近 30 天</option></select></label></div>
+  <p id="health" role="status"></p>
+  <details class="authors"><summary>筛选博主 <span id="authorCount"></span></summary><div class="chips" id="chips"></div></details>
 
   <div class="bar">
     <div class="sort-group">
       <button class="sort-btn active" data-sort="likes">按点赞</button>
       <button class="sort-btn" data-sort="time">按时间</button>
     </div>
-    <div class="count-note" id="countNote"></div>
+    <div class="count-note" id="countNote" aria-live="polite"></div>
   </div>
 
   <div class="feed" id="feed">
     <div class="loading"><div class="spinner"></div>正在加载数据…</div>
   </div>
+<button id="more" class="sort-btn more" hidden>加载更多</button>
 </div>
 
 <footer>数据来自 X 公开内容 · 由 GitHub Actions 每日自动抓取</footer>
 
 <script>
-const state = { accounts: [], active: 'all', sort: 'likes' };
+const state = { accounts: [], active: 'all', sort: 'likes', query: '', days: 0, limit: 30 };
 
 async function load() {
   try {
     const res = await fetch('data.json', { cache: 'no-store' });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
-    state.accounts = data.accounts || [];
+    if (!Array.isArray(data.accounts)) throw new Error('数据格式异常');
+    state.accounts = data.accounts;
+    document.getElementById('authorCount').textContent = `· ${state.accounts.length} 位`;
+    const updated = Date.parse((data.generated_at || '').replace(' ', 'T') + ':00+08:00');
+    const old = !updated || Date.now() - updated > 48 * 3600000;
+    const summary = data.fetch_summary;
+    document.getElementById('health').textContent = old ? '数据超过 48 小时未更新，当前展示历史内容。' : summary?.failed ? `本次更新 ${summary.fresh} 位博主，${summary.reused} 位保留历史内容。` : '按点赞发现热门，按时间查看最新发布。';
     document.getElementById('updated').textContent = '更新于 ' + (data.generated_at || '--');
     renderChips();
     render();
   } catch (e) {
     document.getElementById('feed').innerHTML =
-      '<div class="empty">数据加载失败：' + e.message + '<br><br>请确认 data.json 已生成（首次可点击仓库 Actions 手动运行一次）。</div>';
+      '<div class="empty">暂时无法加载动态，请稍后刷新重试。</div>';
   }
 }
 
@@ -170,8 +208,8 @@ function renderChips() {
   const box = document.getElementById('chips');
   const total = state.accounts.reduce((s, a) => s + a.tweets.length, 0);
   box.innerHTML = '';
-  const all = document.createElement('div');
-  all.className = 'chip active';
+  const all = document.createElement('button');
+  all.className = 'chip active'; all.dataset.handle = 'all'; all.setAttribute('aria-pressed', 'true');
   all.textContent = '全部博主';
   const c = document.createElement('span');
   c.className = 'cnt'; c.textContent = total;
@@ -179,8 +217,8 @@ function renderChips() {
   all.onclick = () => setActive('all');
   box.appendChild(all);
   state.accounts.forEach(a => {
-    const chip = document.createElement('div');
-    chip.className = 'chip';
+    const chip = document.createElement('button');
+    chip.className = 'chip'; chip.dataset.handle = a.handle; chip.setAttribute('aria-pressed', 'false');
     chip.textContent = a.disp_name || a.name;
     const cnt = document.createElement('span');
     cnt.className = 'cnt'; cnt.textContent = a.tweets.length;
@@ -191,8 +229,8 @@ function renderChips() {
 }
 
 function setActive(handle) {
-  state.active = handle;
-  document.querySelectorAll('.chip').forEach(ch => ch.classList.toggle('active', ch.textContent === (handle === 'all' ? '全部博主' : (accountName(handle)))));
+  state.active = handle; state.limit = 30;
+  document.querySelectorAll('.chip').forEach(ch => { const active = ch.dataset.handle === handle; ch.classList.toggle('active', active); ch.setAttribute('aria-pressed', String(active)); });
   render();
 }
 function accountName(h) {
@@ -205,8 +243,11 @@ function render() {
   let tweets = [];
   state.accounts.forEach(a => {
     if (state.active !== 'all' && a.handle !== state.active) return;
-    a.tweets.forEach(t => tweets.push({ ...t, handle: a.handle, name: a.disp_name || a.name }));
+    a.tweets.forEach(t => tweets.push({ ...t, handle: a.handle, name: a.disp_name || a.name, stale: a.stale }));
   });
+  const query = state.query.trim().toLocaleLowerCase();
+  tweets = tweets.filter(t => (!query || `${t.text} ${t.name} ${t.handle}`.toLocaleLowerCase().includes(query)) && (!state.days || parseTime(t.created_at) >= Date.now() - state.days * 86400000));
+  document.getElementById('more').hidden = tweets.length <= state.limit;
   if (state.sort === 'likes') {
     tweets.sort((x, y) => (y.likes || 0) - (x.likes || 0));
   } else {
@@ -214,10 +255,10 @@ function render() {
   }
   document.getElementById('countNote').textContent = '共 ' + tweets.length + ' 条精选';
   if (!tweets.length) {
-    feed.innerHTML = '<div class="empty">暂无内容</div>';
+    feed.innerHTML = '<div class="empty">没有符合条件的动态，试试其他关键词或时间范围。</div>';
     return;
   }
-  feed.innerHTML = tweets.map(cardHtml).join('');
+  feed.innerHTML = tweets.slice(0, state.limit).map(cardHtml).join('');
 }
 
 function cardHtml(t) {
@@ -226,22 +267,22 @@ function cardHtml(t) {
   return `
     <div class="card">
       <div class="card-top">
-        <a class="avatar" href="https://x.com/${t.handle}" target="_blank" rel="noopener">${escapeHtml(initial)}</a>
+        <a class="avatar" href="https://x.com/${encodeURIComponent(t.handle)}" target="_blank" rel="noopener">${escapeHtml(initial)}</a>
         <div class="who">
-          <div class="name"><a href="https://x.com/${t.handle}" target="_blank" rel="noopener">${escapeHtml(t.name)}</a></div>
-          <div class="handle">@${t.handle}</div>
+          <div class="name"><a href="https://x.com/${encodeURIComponent(t.handle)}" target="_blank" rel="noopener">${escapeHtml(t.name)}</a></div>
+          <div class="handle">@${escapeHtml(t.handle)}</div>
         </div>
       </div>
-      <div class="text">${linkify(t.text)}</div>
+      <div class="text">${linkify(t.text)}</div>${t.stale ? '<span class="stale">历史内容 · 本次未更新</span>' : ''}
       <div class="stats">
-        <span>❤️ <span class="n">${t.likes}</span></span>
-        <span>🔁 <span class="n">${t.retweets}</span></span>
-        <span>💬 <span class="n">${t.replies}</span></span>
-        <span>👁 <span class="n">${t.views === '?' ? '—' : t.views}</span></span>
+        <span>❤️ <span class="n">${escapeHtml(t.likes)}</span></span>
+        <span>🔁 <span class="n">${escapeHtml(t.retweets)}</span></span>
+        <span>💬 <span class="n">${escapeHtml(t.replies)}</span></span>
+        <span>👁 <span class="n">${escapeHtml(t.views === '?' ? '—' : t.views)}</span></span>
       </div>
       <div class="card-foot">
         <span class="time">${time}</span>
-        <a class="open" href="${t.url}" target="_blank" rel="noopener">查看原文 →</a>
+        <a class="open" href="https://x.com/${encodeURIComponent(t.handle)}/status/${encodeURIComponent(t.id)}" target="_blank" rel="noopener">查看原文 →</a>
       </div>
     </div>`;
 }
@@ -283,6 +324,9 @@ document.querySelectorAll('.sort-btn').forEach(btn => {
   };
 });
 
+document.getElementById('search').addEventListener('input', e => { state.query = e.target.value; state.limit = 30; render(); });
+document.getElementById('range').addEventListener('change', e => { state.days = Number(e.target.value); state.limit = 30; render(); });
+document.getElementById('more').onclick = () => { state.limit += 30; render(); };
 load();
 </script>
 </body>
